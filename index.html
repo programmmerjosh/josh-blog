@@ -8,7 +8,7 @@
     />
     <meta name="description" content="Joshua van Niekerk - Blog." />
     <meta name="author" content="Joshua van Niekerk" />
-    <title>Josh's Blog Page</title>
+    <title>Josh's Blog</title>
     <link
       rel="icon"
       type="image/png"
@@ -83,7 +83,7 @@
     />
 
     <!-- Core theme CSS (includes Bootstrap)-->
-    <link href="css/motivation-min.css" rel="stylesheet" />
+    <link href="css/motivation.css" rel="stylesheet" />
 
     <!-- MAILCHIMP INTEGRATION SCRIPT -->
     <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/65e90c39c5494a5c0a186ce19/9f150fe99054a709421e9083c.js");</script>
@@ -94,16 +94,17 @@
       <!-- I want this to animate 2 new buttons to slide onto screen -->
       <!-- button 1: link to goal symmetry website -->
       <!-- button 2: link to web developer freelancer website -->
-      <!-- <div class="fixed-floating-buttons ffb-two"></div>
-      <a class="rectangle-link-box" href="https://programmmerjosh.github.io/">
-        <div class="row d-block">
-          <div class="text-center">
-            <i class="fas fa-home rectangle-link-box-img mb-2"></i>
-            <p class="text-uppercase">services</p>
+      <!-- <div class="fixed-floating-buttons ffb-two">
+        <a class="rectangle-link-box"
+        >
+          <div class="row d-block">
+            <div class="text-center">
+              <i class="fas fa-poll rectangle-link-box-img mb-2"></i>
+              <p class="text-uppercase">Services</p>
+            </div>
           </div>
-        </div>
-      </a>
-    </div> -->
+        </a>
+      </div> -->
 
     <div class="fixed-floating-buttons ffb-one">
       <a class="rectangle-link-box" href=""
@@ -324,6 +325,7 @@
           >
             <div class="accordion-body">
               <div class="row">
+                
                 <div class="text-center">
                   <h1 class="mb-0">DO NOT FEAR</h1>
                   <!-- TODO: CHANGE DATE WHEN UPDATED -->
@@ -380,7 +382,7 @@
                   </p>
                 </div>
 
-                <div class="col-10 offset-1 col-md-8 offset-md-2">
+                <div class="col-12 offset-0 col-sm-10 offset-sm-1">
                   <!-- edit tab placement of post here -->
                   <div
                     class="accordion accordion-flush"
@@ -388,54 +390,42 @@
                   >
                     <!-- item 1 -->
                     <div class="accordion-item">
-                      <a
-                        id="special-a-tag"
-                        class="js-scroll-trigger"
-                        href="#accordionFlushExample"
-                      >
+                      <a id="special-a-tag" class="js-scroll-trigger" href="#accordionFlushExample" >
                         <h2 class="accordion-header" id="flush-headingOne">
-                          <button
-                            class="
-                              accordion-button
-                              collapsed
-                              text-capitalize
-                              js-scroll-trigger
-                            "
+                          <button class=" accordion-button collapsed text-capitalize js-scroll-trigger "
                             href="#signup"
                             type="button"
                             data-bs-toggle="collapse"
                             data-bs-target="#flush-collapseOne"
                             aria-expanded="false"
-                            aria-controls="flush-collapseOne"
-                          >
+                            aria-controls="flush-collapseOne" >
                             <div class="container">
                               <div class="row">
                                 <div class="col-12 col-md-8">
-                                  1. The body is the servant of the mind
+                                  1. The body is the servant of the mind<span class="d-inline d-md-none"> 📚</span>
                                 </div>
-                                <div class="col-6 col-md-2">
+                                <div class="col-12 col-md-2">
                                   <div class="tab-indent"></div>
                                   <span class="post-date"
                                     >(added 25 March 2021)</span
                                   >
                                 </div>
-                                <div class="col-6 col-md-2">
+                                <div class="col-12 col-md-2">
                                   <div class="tab-indent"></div>
-                                  <em class="post-type text-bold">Reading</em>
+                                  <em class="post-type text-bold d-none d-md-inline">Reading</em>
                                 </div>
                               </div>
                             </div>
                           </button>
                         </h2></a
                       >
-                      <div
-                        id="flush-collapseOne"
-                        class="accordion-collapse collapse"
-                        aria-labelledby="flush-headingOne"
-                        data-bs-parent="#accordionFlushExample"
-                      >
-                        <div class="accordion-body">
-                          <p>
+                      <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample" >
+                        <div class="accordion-body pl-3 pr-3">
+
+                          <img class="col-8 offset-2 d-block d-sm-none post-accordion-img rounded-properly mb-2" src="img/thinking-1920.jpg" alt="">
+                          
+                          <img class="col-sm-6 offset-sm-0 d-none d-sm-inline post-accordion-img float-sm-left rounded-properly mr-sm-2" src="img/thinking-1920.jpg" alt="">
+                            <p class="d-inline">
                             The body is the servant of the mind. It obeys the
                             operations of the mind, whether they be deliberately
                             chosen or automatically expressed. At the bidding of
@@ -489,7 +479,10 @@
                             sour thoughts.
                           </p>
 
-                          <p>
+                          <img class="col-8 offset-2 d-block d-sm-none post-accordion-img rounded-properly mb-2" src="img/woman-free-1920.jpg" alt="">
+                          
+                          <img class="col-sm-6 offset-sm-0 d-none d-sm-inline post-accordion-img float-sm-right rounded-properly ml-sm-2" src="img/woman-free-1920.jpg" alt="">
+                          <p class="d-inline">
                             Wrinkles that mar are drawn by folly, passion,
                             pride. I know a woman of ninety-six who has the
                             bright, innocent face of a girl. I know a man well
@@ -564,17 +557,17 @@
                             <div class="container">
                               <div class="row">
                                 <div class="col-12 col-md-8">
-                                  2. The fear of ill health & its symptoms
+                                  2. The fear of ill health & its symptoms<span class="d-inline d-md-none"> 📚</span>
                                 </div>
-                                <div class="col-6 col-md-2">
+                                <div class="col-12 col-md-2">
                                   <div class="tab-indent"></div>
                                   <span class="post-date"
                                     >(added 25 March 2021)</span
                                   >
                                 </div>
-                                <div class="col-6 col-md-2">
+                                <div class="col-12 col-md-2">
                                   <div class="tab-indent"></div>
-                                  <em class="post-type text-bold">Reading</em>
+                                  <em class="post-type text-bold d-none d-md-inline">Reading</em>
                                 </div>
                               </div>
                             </div>
@@ -587,8 +580,12 @@
                         aria-labelledby="flush-headingTwo"
                         data-bs-parent="#accordionFlushExample"
                       >
-                        <div class="accordion-body">
-                          <p>
+                        <div class="accordion-body pl-3 pr-3">
+
+                          <img class="col-8 offset-2 d-block d-sm-none post-accordion-img rounded-properly mb-2" src="img/fear-1920.jpg" alt="">
+                          
+                          <img class="col-sm-6 offset-sm-0 d-none d-sm-inline post-accordion-img float-sm-left rounded-properly mr-sm-2" src="img/fear-1920.jpg" alt="">
+                          <p class="d-inline">
                             This fear may be traced to both physical and social
                             heredity. It is closely associated, as to its
                             origin, with the causes of fear of Old Age and the
@@ -603,11 +600,11 @@
                           </p>
 
                           <p>
-                            In the main, man fears ill health because of the
+                            <strong>In the main, man fears ill health because of the
                             terrible pictures which have been planted in his
                             mind of what may happen if death should overtake
                             him. He also fears it because of the economic toll
-                            which it may claim.
+                            which it may claim.</strong>
                           </p>
 
                           <p>
@@ -620,11 +617,15 @@
                             the disease feared.
                           </p>
 
-                          <p>
+                    
+                          <img class="col-8 offset-2 d-block d-sm-none post-accordion-img rounded-properly mb-2" src="img/lab-1920.jpg" alt="">
+                          
+                          <img class="col-sm-6 offset-sm-0 d-none d-sm-inline post-accordion-img float-sm-right rounded-properly ml-sm-2" src="img/lab-1920.jpg" alt="">
+                          <p class="d-inline">
                             Powerful and mighty is the human mind! It builds or
-                            it destroys. Playing upon this common weakness of
+                            it destroys. <strong>Playing upon this common weakness of
                             fear of ill health, dispensers of patent medicines
-                            have reaped fortunes. This form of imposition upon
+                            have reaped fortunes.</strong> This form of imposition upon
                             credulous humanity became so prevalent some twenty
                             years ago that Colliers' Weekly Magazine conducted a
                             bitter campaign against some of the worst offenders
@@ -685,10 +686,13 @@
                             him down."
                           </p>
 
-                          <p>
-                            Doctors send patients into new climates for their
+                          <img class="col-8 offset-2 d-block d-sm-none post-accordion-img rounded-properly mb-2" src="img/backpacker-1920.jpg" alt="">
+                          
+                          <img class="col-sm-6 offset-sm-0 d-none d-sm-inline post-accordion-img float-sm-left rounded-properly mr-sm-2" src="img/backpacker-1920.jpg" alt="">
+                          <p class="d-inline">
+                           <strong>Doctors send patients into new climates for their
                             health, because a change of "mental attitude" is
-                            necessary. The seed of fear of ill health lives in
+                            necessary.</strong> The seed of fear of ill health lives in
                             every human mind. Worry, fear, discouragement,
                             disappointment in love and business affairs, cause
                             this seed to germinate and grow. The recent business
@@ -702,6 +706,7 @@
                             are...
                           </p>
 
+
                           <p>
                             ...HYPOCHONDRIA. The habit of talking of illness,
                             concentrating the mind upon disease, and expecting
@@ -714,13 +719,12 @@
                             might do. Most so-called cases of "nerves" come from
                             imaginary illness...
                           </p>
-
+                          
                           <p>
-                            ...SUSCEPTIBILITY. Fear of ill health breaks down
+                            ...SUSCEPTIBILITY. <strong>Fear of ill health breaks down
                             Nature's body resistance, and creates a favorable
-                            condition for any form of disease one may contact...
+                            condition for any form of disease one may contact</strong>...
                           </p>
-
                           <p>
                             ...INTEMPERANCE. The habit of using alcohol or
                             narcotics to destroy pains such as headaches,
@@ -773,17 +777,17 @@
                             <div class="container">
                               <div class="row">
                                 <div class="col-12 col-md-8">
-                                  3. Worry - A Disease Of Attitude
+                                  3. Worry - A Disease Of Attitude<span class="d-inline d-md-none"> 📹</span>
                                 </div>
-                                <div class="col-6 col-md-2">
+                                <div class="col-12 col-md-2">
                                   <div class="tab-indent"></div>
                                   <span class="post-date"
                                     >(added 25 March 2021)</span
                                   >
                                 </div>
-                                <div class="col-6 col-md-2">
+                                <div class="col-12 col-md-2">
                                   <div class="tab-indent"></div>
-                                  <em class="post-type text-bold">Videos</em>
+                                  <em class="post-type text-bold d-none d-md-inline">Videos</em>
                                 </div>
                               </div>
                             </div>
@@ -796,7 +800,7 @@
                         aria-labelledby="flush-headingThree"
                         data-bs-parent="#accordionFlushExample"
                       >
-                        <div class="accordion-body">
+                        <div class="accordion-body pl-3 pr-3">
                           <p>
                             Jim Rohn shares a good perspective on diseases of
                             attitude and just a great overall message. I
@@ -867,16 +871,16 @@
                           >
                             <div class="container">
                               <div class="row">
-                                <div class="col-12 col-md-8">4. Scripture</div>
-                                <div class="col-6 col-md-2">
+                                <div class="col-12 col-md-8">4. Scripture<span class="d-inline d-md-none"> 📚</span></div>
+                                <div class="col-12 col-md-2">
                                   <div class="tab-indent"></div>
                                   <span class="post-date"
                                     >(added 25 March 2021)</span
                                   >
                                 </div>
-                                <div class="col-6 col-md-2">
+                                <div class="col-12 col-md-2">
                                   <div class="tab-indent"></div>
-                                  <em class="post-type text-bold">Reading</em>
+                                  <em class="post-type text-bold d-none d-md-inline">Reading</em>
                                 </div>
                               </div>
                             </div>
@@ -889,32 +893,35 @@
                         aria-labelledby="flush-headingFour"
                         data-bs-parent="#accordionFlushExample"
                       >
-                        <div class="accordion-body">
-                          <p>
-                            If we're looking for wisdom and truth, it's always a
-                            good idea to consider The Bible. I've decided to not
-                            go into too much depth here as I'm not a theologian
-                            nor a philosopher. So, let me share a few
-                            encouraging verses that align with the message here.
-                            Please feel free to go to The Bible for the context
-                            of these verses.
-                          </p>
+                        <div class="accordion-body pl-3 pr-3">
+                            <img class="col-md-6 offset-md-0 d-none d-md-inline post-accordion-img float-md-left rounded-properly mr-md-2" src="img/peace-of-mind-1920.jpg" alt="">
+                    
+                            <p class="d-inline">
+                              If we're looking for wisdom and truth, it's always a
+                              good idea to consider The Bible. I've decided to not
+                              go into too much depth here as I'm not a theologian
+                              nor a philosopher. So, let me share a few
+                              encouraging verses that align with the message here.
+                              Please feel free to go to The Bible for the context
+                              of these verses.
+                            </p>
+                            <br><br>
 
-                          <p>
-                            <span class="font-weight-bolder"
-                              >Philippians 4:8</span
-                            >
+                            <p>
+                            <span class="font-weight-bolder">Philippians 4:8</span> 
                             "And now, dear brothers and sisters, one final
-                            thing. Fix your thoughts on what is true, and
+                            thing. <strong>Fix your thoughts on what is true, and
                             honorable, and right, and pure, and lovely, and
                             admirable. Think about things that are excellent and
-                            worthy of praise." (NLT)
-                          </p>
+                            worthy of praise.</strong>" (NLT)
+                            </p>
+
+                            <img class="col-8 offset-2 d-block d-md-none post-accordion-img rounded-properly mb-2" src="img/peace-of-mind-1920.jpg" alt="">
 
                           <p>
                             <span class="font-weight-bolder">John 14:27</span>
-                            "I am leaving you with a gift—peace of mind and
-                            heart. And the peace I give is a gift the world
+                            "I am leaving you with a gift—<strong>peace of mind and
+                            heart</strong>. And the <strong>peace</strong> I give is a <strong>gift</strong> the world
                             cannot give. So don’t be troubled or afraid." (NLT)
                           </p>
 
@@ -942,7 +949,6 @@
                             shall we say in response to these things? If God is
                             for us, who can be against us?" (NIV)
                           </p>
-
                           <p>
                             <span class="font-weight-bolder">Nahum 1:7</span>
                             "The Lord is good, a refuge in times of trouble. He
@@ -970,17 +976,17 @@
                             <div class="container">
                               <div class="row">
                                 <div class="col-12 col-md-8">
-                                  5. Let Go And Trust - Overcoming Worry
+                                  5. Let Go And Trust - Overcoming Worry<span class="d-inline d-md-none"> 📹</span>
                                 </div>
-                                <div class="col-6 col-md-2">
+                                <div class="col-12 col-md-2">
                                   <div class="tab-indent"></div>
                                   <span class="post-date"
                                     >(added 18 April 2021)</span
                                   >
                                 </div>
-                                <div class="col-6 col-md-2">
+                                <div class="col-12 col-md-2">
                                   <div class="tab-indent"></div>
-                                  <em class="post-type text-bold">Video</em>
+                                  <em class="post-type text-bold d-none d-md-inline">Video</em>
                                 </div>
                               </div>
                             </div>
@@ -993,7 +999,7 @@
                         aria-labelledby="flush-headingFive"
                         data-bs-parent="#accordionFlushExample"
                       >
-                        <div class="accordion-body">
+                        <div class="accordion-body pl-3 pr-3">
                           <p>
                             This is a well expressed perspective on the
                             Christian way to deal with worry appropriately. It
@@ -1041,17 +1047,17 @@
                               <div class="row">
                                 <div class="col-12 col-md-8">
                                   6. Knowing Your Adversary's Plans Can Give You
-                                  A Huge Advantage
+                                  A Huge Advantage<span class="d-inline d-md-none"> 📹</span>
                                 </div>
-                                <div class="col-6 col-md-2">
+                                <div class="col-12 col-md-2">
                                   <div class="tab-indent"></div>
                                   <span class="post-date"
                                     >(added 18 April 2021)</span
                                   >
                                 </div>
-                                <div class="col-6 col-md-2">
+                                <div class="col-12 col-md-2">
                                   <div class="tab-indent"></div>
-                                  <em class="post-type text-bold">Video</em>
+                                  <em class="post-type text-bold d-none d-md-inline">Video</em>
                                 </div>
                               </div>
                             </div>
@@ -1064,7 +1070,7 @@
                         aria-labelledby="flush-headingSix"
                         data-bs-parent="#accordionFlushExample"
                       >
-                        <div class="accordion-body">
+                        <div class="accordion-body pl-3 pr-3">
                           <p>
                             When you are aware of the dangers and know what the
                             enemy will inevitably try to accomplish (discourage,
