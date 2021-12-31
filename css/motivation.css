@@ -10752,3 +10752,13 @@ border-radius: 10px; }
   fill: #aa1818;
 }
 
+.definition-tooltip {
+  color: #138496;
+  font-style: italic;
+}
+
+.definition-tooltip-2 {
+  color: #b2132a;
+  font-style: italic;
+}
+
