@@ -10762,3 +10762,26 @@ border-radius: 10px; }
   font-style: italic;
 }
 
+.rounded-white-text-box {
+  margin: 0px;
+  padding: 10px;
+  border-radius: 6px;
+  background-color: white;
+}
+
+.rounded-quote-text-box {
+  margin: 20px;
+  padding: 10px;
+  border-radius: 25px;
+  background-color: lightcyan;
+}
+
+.rounded-quote-text-box p {
+  margin-bottom: 0;
+}
+
+#resources-textbox {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
