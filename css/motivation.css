@@ -10785,3 +10785,10 @@ border-radius: 10px; }
   border-bottom-right-radius: 0;
 }
 
+h2#grand-title {
+  letter-spacing: 0.05rem;
+}
+
+/* h1#grand-title strong {
+  color: #64a19d !important;
+} */
