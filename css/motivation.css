@@ -10252,6 +10252,8 @@ body {
 
 .masthead#covid-19 {
   /* virus-4999857.png */
+  /* position: absolute; */
+  height: auto;
   background: linear-gradient(to top, rgba(50, 98, 168, 0.6) 75%, rgba(50, 98, 168, 0.6) 75%, #007bff 120%), url("../img/virus-4999857.png");
   background-position: 50% 50%;
 }
@@ -10913,6 +10915,22 @@ h2#grand-title {
 @media (max-width: 767.98px) {
   .yt-covid-19 {
     min-height: 240px;
+  }
+}
+
+@media (max-width: 631px) {
+  .masthead#covid-19 {
+    max-height: none;
+  }
+}
+
+@media (max-width: 310px) {
+
+  .masthead#covid-19 .col-10 #covid-page-disclaimer {
+    font-size: 0.65rem;
+  }
+  .navbar-brand {
+    font-size: 0.95rem;
   }
 }
 
