@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:
+Sitemap: https://think-write-grow.com/
