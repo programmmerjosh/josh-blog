@@ -10599,7 +10599,7 @@ a#special-a-tag:active, a#special-a-tag:focus, a#special-a-tag {
   color: #64a19d;
 }
 
-#small-text {
+.small-text {
   font-size: 0.8rem;
   font-style: italic;
 }
