@@ -5,6 +5,7 @@ import { createRouter, createWebHistory } from "vue-router";
 import App from "./App.vue";
 import Home from "./pages/Home.vue";
 import Covid19 from "./pages/Covid19.vue";
+import Subscribed from "./pages/Subscribed.vue";
 
 const router = createRouter({
   history: createWebHistory(),
@@ -16,6 +17,10 @@ const router = createRouter({
     {
       path: "/covid19",
       component: Covid19,
+    },
+    {
+      path: "/subscribed",
+      component: Subscribed,
     },
   ],
 });

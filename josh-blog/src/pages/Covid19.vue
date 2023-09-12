@@ -1,6 +1,6 @@
 <script setup>
   // this is a placeholder component
-  import TheFooter from "../components/TheFooter.vue";
+  import TheFooter from "../components/shared/TheFooter.vue";
 </script>
 
 <template>

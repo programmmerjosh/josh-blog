@@ -1,12 +1,12 @@
 <script setup>
-  import TheNavigation from "../components/TheNavigation.vue";
-  import TheHeader from "../components/TheHeader.vue";
-  import ContactButton from "../components/ContactButton.vue";
-  import PageInformation from "../components/PageInformation.vue";
-  import BlogPosts from "../components/BlogPosts.vue";
-  import SignupArea from "../components/SignupArea.vue";
-  import TheFooter from "../components/TheFooter.vue";
-  import ContactForm from "../components/ContactForm.vue";
+  import TheNavigation from "../components/shared/TheNavigation.vue";
+  import SignupArea from "../components/shared/SignupArea.vue";
+  import TheFooter from "../components/shared/TheFooter.vue";
+  import ContactForm from "../components/shared/ContactForm.vue";
+  import ContactButton from "../components/shared/ContactButton.vue";
+  import TheHeader from "../components/home/TheHeader.vue";
+  import PageInformation from "../components/home/PageInformation.vue";
+  import BlogPosts from "../components/home/BlogPosts.vue";
 </script>
 
 <template>
