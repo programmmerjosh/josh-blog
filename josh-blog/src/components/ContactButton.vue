@@ -4,7 +4,7 @@
       class="rectangle-link-box"
       href=""
       data-toggle="modal"
-      data-target="#contact-modal"
+      data-target="#contact"
     >
       <div class="row d-block">
         <div class="text-center">
