@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" manifest="manifest.appcache">
+  <head>
+    <!-- Mailchimp Integration Script -->
+    <script id="mcjs">
+      !(function (c, h, i, m, p) {
+        (m = c.createElement(h)),
+          (p = c.getElementsByTagName(h)[0]),
+          (m.async = 1),
+          (m.src = i),
+          p.parentNode.insertBefore(m, p);
+      })(
+        document,
+        "script",
+        "https://chimpstatic.com/mcjs-connected/js/users/65e90c39c5494a5c0a186ce19/9f150fe99054a709421e9083c.js"
+      );
+    </script>
+  </head>
+  <body id="page-top">
+    <div id="app"></div>
+    <script type="module" src="./src/main.js"></script>
+
+    <!-- Bootstrap 5 core JS -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

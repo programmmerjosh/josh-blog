@@ -1,0 +1,29 @@
+CACHE MANIFEST
+#DATE 25-01-2022
+CACHE:
+src/assets/img/backpacker-1920.jpg
+src/assets/img/chess-3894243-min.jpg
+src/assets/img/fear-1920.jpg
+src/assets/img/girl-g4b032d863_1920.jpg
+src/assets/img/lab-1920.jpg
+src/assets/img/man-1351317_1280.png
+src/assets/img/mental-health-3337026_1920.jpg
+src/assets/img/peace-of-mind-1920.jpg
+src/assets/img/pexels-jeff-denlea-3714743.jpg
+src/assets/img/pexels-rodnae-productions-5542968.jpg
+src/assets/img/Screenshot 2021-04-18 at 21.36.57.png
+src/assets/img/Screenshot 2022-01-22 at 13.58.08-min.png
+src/assets/img/skateboard-5326930_1920.jpg
+src/assets/img/sky-1373167_1920.jpg
+src/assets/img/thinking-1920.jpg
+src/assets/img/twins-g58915d995_1920.jpg
+src/assets/img/virus-4999857.jpg
+src/assets/img/woman-free-1920.jpg
+src/assets/css/motivation.min.css
+src/assets/js/motivation-min.js
+src/assets/js/motivation.js
+
+NETWORK:
+*
+FALLBACK
+#static.html
