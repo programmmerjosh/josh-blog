@@ -2272,11 +2272,11 @@
                   </div>
 
                   <div class="text-center p-2">
-                    <a target="_blank" href="covid19">
+                    <router-link to="/covid19">
                       <button class="btn btn-primary text-wrap">
                         Real Doctors Expose Covid-19 Narrative
                       </button>
-                    </a>
+                    </router-link>
                   </div>
                 </div>
               </div>
