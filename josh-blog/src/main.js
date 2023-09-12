@@ -19,7 +19,7 @@ const router = createRouter({
       component: Covid19,
     },
     {
-      path: "/subscribed",
+      path: "/email-subscribed-successfully",
       component: Subscribed,
     },
   ],

@@ -1,9 +1,10 @@
 <template>
+  <!-- TODO: refactor into shared navigation component -->
   <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll-trigger text-wrap" href="#page-top"
+      <router-link class="navbar-brand js-scroll-trigger text-wrap" to="/"
         >Write, Because It Forces You To
-        <span class="text-underline">Think</span></a
+        <span class="text-underline">Think</span></router-link
       >
       <button
         class="navbar-toggler navbar-toggler-right"
@@ -20,11 +21,7 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <!-- refactor so that on covid-19 page, this link goes back to homepage, not blog section -->
-            <a class="nav-link js-scroll-trigger" href="#blog-section">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#signup">Subscribe</a>
+            <router-link class="nav-link" to="/">Back To Blog</router-link>
           </li>
         </ul>
       </div>

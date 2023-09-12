@@ -23,6 +23,7 @@
 <!-- Footer Copyright year -< dynamic -->
 <!-- Fix routes/navigation (e.g link to Covid-19 page) -->
 <!-- Split Covid19 html into components and assign components to Covid19 page -->
+<!-- Setup email subscribed page -->
 
 <!-- TODOs first steps -->
 <!-- ------------------------------------------------------ -->
