@@ -1,23 +1,46 @@
 export default {
-  title: "Truth & Critical Thinking",
-  meta: [
-    {
-      charset: "utf-8",
-    },
-    {
-      name: "viewport",
-      content: "width=device-width, initial-scale=1, shrink-to-fit=no",
-    },
-    {
-      name: "description",
-      content:
-        "Truth and critical thinking. The research, presentation and website maintenance by Joshua van Niekerk",
-    },
-    {
-      name: "author",
-      content: "Joshua van Niekerk",
-    },
-  ],
+  titles: {
+    home: "Truth & Critical Thinking",
+    covid19: "Real Doctors Expose Covid-19 Narrative",
+  },
+  metas: {
+    home: [
+      {
+        charset: "utf-8",
+      },
+      {
+        name: "viewport",
+        content: "width=device-width, initial-scale=1, shrink-to-fit=no",
+      },
+      {
+        name: "description",
+        content:
+          "Truth and critical thinking. The research, presentation and website maintenance by Joshua van Niekerk",
+      },
+      {
+        name: "author",
+        content: "Joshua van Niekerk",
+      },
+    ],
+    covid19: [
+      {
+        charset: "utf-8",
+      },
+      {
+        name: "viewport",
+        content: "width=device-width, initial-scale=1, shrink-to-fit=no",
+      },
+      {
+        name: "description",
+        content:
+          "Truth and critical thinking. The research, presentation and website maintenance by Joshua van Niekerk. This particular page consists of videos and articles created and/or composed by others. These videos and articles are related to the Covid-19 virus. Disclaimer: some of the information contained in these videos and/or articles may be theories and/or opinions and should be read/viewed with that understanding.",
+      },
+      {
+        name: "author",
+        content: "Joshua van Niekerk",
+      },
+    ],
+  },
   link: [
     {
       href: "https://fonts.googleapis.com/css?family=Varela+Round",

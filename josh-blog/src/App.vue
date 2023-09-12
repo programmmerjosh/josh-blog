@@ -5,8 +5,8 @@
 
   // insert head data for the construction of the head tag
   useHead({
-    title: head.title,
-    meta: head.meta,
+    title: head.titles.home,
+    meta: head.metas.home,
     link: head.link,
     script: head.script,
   });
@@ -22,10 +22,10 @@
 <!-- ------------------------------------------------------ -->
 <!-- Footer Copyright year -< dynamic -->
 <!-- Fix routes/navigation (e.g link to Covid-19 page) -->
+<!-- Split Covid19 html into components and assign components to Covid19 page -->
 
 <!-- TODOs first steps -->
 <!-- ------------------------------------------------------ -->
-<!-- Split Covid19 html into components and assign components to Covid19 page -->
 <!-- Navbar JS scroll effect on background color -->
 <!-- Update info section (fetch from ReactJS version) -->
 <!-- Fix js Tooltip functionality on definitions -->
