@@ -27,12 +27,12 @@
 
 <!-- TODOs first steps -->
 <!-- ------------------------------------------------------ -->
+<!-- Styling on Contact form -->
 <!-- Navbar JS scroll effect on background color -->
 <!-- Update info section (fetch from ReactJS version) -->
 <!-- Fix js Tooltip functionality on definitions -->
 <!-- Test subscribe functionality -->
 <!-- Test contact form -->
-<!-- Styling on Contact form -->
 
 <!-- TODOs next steps (less important but would be nice) -->
 <!-- ------------------------------------------------------ -->

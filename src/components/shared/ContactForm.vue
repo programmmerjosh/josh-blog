@@ -1,55 +1,59 @@
 <template>
   <div id="contact">
     <form
-      class="contact1-form validate-form"
+      class="contact1-form validate-form mx-auto"
       action="https://formspree.io/f/mgerwpnw"
       method="POST"
     >
-      <h1 class="title text-center mb-4">
-        Any questions, comments or suggestions?
-      </h1>
-
-      <!-- Name -->
-      <div class="form-group position-relative">
-        <label for="formName" class="d-block">
-          <i class="icon" data-feather="user"></i>
-        </label>
-        <input
-          type="text"
-          id="formName"
-          class="form-control form-control-lg thick"
-          placeholder="Name"
-        />
+      <div class="title-wrapper">
+        <h1 class="title text-center mb-4">
+          Any questions, comments or suggestions?
+        </h1>
       </div>
 
-      <!-- E-mail -->
-      <div class="form-group position-relative">
-        <label for="formEmail" class="d-block">
-          <i class="icon" data-feather="mail"></i>
-        </label>
-        <input
-          type="email"
-          id="formEmail"
-          class="form-control form-control-lg thick"
-          placeholder="E-mail"
-        />
-      </div>
+      <div class="form-wrapper">
+        <!-- Name -->
+        <div class="form-group position-relative">
+          <label for="formName" class="d-block">
+            <i class="icon" data-feather="user"></i>
+          </label>
+          <input
+            type="text"
+            id="formName"
+            class="form-control form-control-lg thick"
+            placeholder="Name"
+          />
+        </div>
 
-      <!-- Message -->
-      <div class="form-group message">
-        <textarea
-          id="formMessage"
-          class="form-control form-control-lg"
-          rows="7"
-          placeholder="Type your message here"
-        ></textarea>
-      </div>
+        <!-- E-mail -->
+        <div class="form-group position-relative">
+          <label for="formEmail" class="d-block">
+            <i class="icon" data-feather="mail"></i>
+          </label>
+          <input
+            type="email"
+            id="formEmail"
+            class="form-control form-control-lg thick"
+            placeholder="E-mail"
+          />
+        </div>
 
-      <!-- Submit btn -->
-      <div class="text-center">
-        <button type="submit" class="btn btn-primary" tabIndex="-1">
-          Send message
-        </button>
+        <!-- Message -->
+        <div class="form-group message">
+          <textarea
+            id="formMessage"
+            class="form-control form-control-lg"
+            rows="7"
+            placeholder="Type your message here"
+          ></textarea>
+        </div>
+
+        <!-- Submit btn -->
+        <div class="text-center">
+          <button type="submit" class="btn btn-primary" tabIndex="-1">
+            Send message
+          </button>
+        </div>
       </div>
     </form>
   </div>
@@ -58,7 +62,7 @@
 <style scoped>
   svg {
     height: 23rem;
-    margin-right: 4rem;
+    /* margin-right: 4rem; */
   }
 
   #envelope {
@@ -120,8 +124,16 @@
     height: 100vh;
   }
 
+  .title-wrapper {
+    padding: 2rem 3rem 0.5rem 3rem;
+  }
+  .form-wrapper {
+    padding: 0 3rem 5rem 3rem;
+  }
+
   form {
     min-width: 25rem;
+    max-width: 1000px;
   }
   form .title {
     font-family: "Pacifico", cursive;
@@ -191,5 +203,21 @@
     box-shadow: 0 0.5em 0.5em -0.4em #ff923cba;
     background-size: 100% 100%;
     transform: translateY(-0.15em);
+  }
+
+  /* bigger than small laptop width */
+  @media (min-width: 992px) {
+  }
+  /* bigger than small tablet width */
+  @media (min-width: 768px) {
+    .form-wrapper {
+      padding: 0 10rem 5rem 10rem;
+    }
+  }
+  /* bigger than mobile width */
+  @media (min-width: 576px) {
+    .title-wrapper {
+      padding: 2rem 1.5rem 0.5rem 1.5rem;
+    }
   }
 </style>
