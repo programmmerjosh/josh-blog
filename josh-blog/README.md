@@ -1,14 +1,16 @@
 # josh-blog
 
-This template should help get you started developing with Vue 3 in Vite.
+My own blog website
 
-## Recommended IDE Setup
+This project started as a free Bootstrap theme that looked good. I customized it to my liking plus added content.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+I then adapted the website into a React App (for fun and for a decent page-load speed) - You'll reach the React App when you visit https://think-write-grow.com.
 
-## Customize configuration
+Latest news: I'm recreating the website as a VueJS app, implementing some of the latest skills I've learned. Exciting! I'll be publishing the latest version soonish.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Well, this is my blog site. It's far from finished, but hope you like it.
+
+---
 
 ## Project Setup
 
@@ -22,11 +24,9 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
+---
 
-```sh
-npm run build
-```
+The rest: Not implemented yet. So ignore for now.
 
 ### Run Headed Component Tests with [Cypress Component Testing](https://on.cypress.io/component)
 
