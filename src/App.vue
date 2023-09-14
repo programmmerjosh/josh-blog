@@ -24,15 +24,16 @@
 <!-- Fix routes/navigation (e.g link to Covid-19 page) -->
 <!-- Split Covid19 html into components and assign components to Covid19 page -->
 <!-- Setup email subscribed page -->
+<!-- Basic styling on Contact form, including responsive typography -->
 
 <!-- TODOs first steps -->
 <!-- ------------------------------------------------------ -->
-<!-- Styling on Contact form -->
 <!-- Navbar JS scroll effect on background color -->
 <!-- Update info section (fetch from ReactJS version) -->
 <!-- Fix js Tooltip functionality on definitions -->
 <!-- Test subscribe functionality -->
 <!-- Test contact form -->
+<!-- Add an About page -->
 
 <!-- TODOs next steps (less important but would be nice) -->
 <!-- ------------------------------------------------------ -->

@@ -138,7 +138,7 @@
   form .title {
     font-family: "Pacifico", cursive;
     color: #212529;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
   }
   form .form-control {
     background-color: #f2f6f8;
@@ -207,6 +207,9 @@
 
   /* bigger than small laptop width */
   @media (min-width: 992px) {
+    form .title {
+      font-size: 2.5rem;
+    }
   }
   /* bigger than small tablet width */
   @media (min-width: 768px) {
@@ -216,6 +219,9 @@
   }
   /* bigger than mobile width */
   @media (min-width: 576px) {
+    form .title {
+      font-size: 2rem;
+    }
     .title-wrapper {
       padding: 2rem 1.5rem 0.5rem 1.5rem;
     }
