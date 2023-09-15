@@ -60,6 +60,13 @@
 </template>
 
 <style scoped>
+  /* Apparently this is how you center a div: code for future reference */
+  /* div {
+    display: grid;
+    place-items: center;
+    align-content: center;
+  } */
+
   svg {
     height: 23rem;
     /* margin-right: 4rem; */
