@@ -211,13 +211,13 @@
                       <div class="accordion-body pl-3 pr-3">
                         <img
                           class="col-8 offset-2 d-block d-sm-none post-accordion-img rounded-properly mb-2"
-                          src="../assets/img/thinking-1920.jpg"
+                          src="../../assets/img/thinking-1920.jpg"
                           alt=""
                         />
 
                         <img
                           class="col-sm-6 offset-sm-0 d-none d-sm-inline post-accordion-img float-sm-left rounded-properly mr-sm-2"
-                          src="../assets/img/thinking-1920.jpg"
+                          src="../../assets/img/thinking-1920.jpg"
                           alt=""
                         />
                         <p class="d-inline">
@@ -387,13 +387,13 @@
 
                         <img
                           class="col-8 offset-2 d-block d-sm-none post-accordion-img rounded-properly mb-2"
-                          src="../assets/img/woman-free-1920.jpg"
+                          src="../../assets/img/woman-free-1920.jpg"
                           alt=""
                         />
 
                         <img
                           class="col-sm-6 offset-sm-0 d-none d-sm-inline post-accordion-img float-sm-right rounded-properly ml-sm-2"
-                          src="../assets/img/woman-free-1920.jpg"
+                          src="../../assets/img/woman-free-1920.jpg"
                           alt=""
                         />
                         <p class="d-inline">
@@ -653,13 +653,13 @@
                       <div class="accordion-body pl-3 pr-3">
                         <img
                           class="col-8 offset-2 d-block d-sm-none post-accordion-img rounded-properly mb-2"
-                          src="../assets/img/fear-1920.jpg"
+                          src="../../assets/img/fear-1920.jpg"
                           alt=""
                         />
 
                         <img
                           class="col-sm-6 offset-sm-0 d-none d-sm-inline post-accordion-img float-sm-left rounded-properly mr-sm-2"
-                          src="../assets/img/fear-1920.jpg"
+                          src="../../assets/img/fear-1920.jpg"
                           alt=""
                         />
                         <p class="d-inline">
@@ -738,13 +738,13 @@
 
                         <img
                           class="col-8 offset-2 d-block d-sm-none post-accordion-img rounded-properly mb-2"
-                          src="../assets/img/lab-1920.jpg"
+                          src="../../assets/img/lab-1920.jpg"
                           alt=""
                         />
 
                         <img
                           class="col-sm-6 offset-sm-0 d-none d-sm-inline post-accordion-img float-sm-right rounded-properly ml-sm-2"
-                          src="../assets/img/lab-1920.jpg"
+                          src="../../assets/img/lab-1920.jpg"
                           alt=""
                         />
                         <p class="d-inline">
@@ -1014,13 +1014,13 @@
 
                         <img
                           class="col-8 offset-2 d-block d-sm-none post-accordion-img rounded-properly mb-2"
-                          src="../assets/img/backpacker-1920.jpg"
+                          src="../../assets/img/backpacker-1920.jpg"
                           alt=""
                         />
 
                         <img
                           class="col-sm-6 offset-sm-0 d-none d-sm-inline post-accordion-img float-sm-left rounded-properly mr-sm-2"
-                          src="../assets/img/backpacker-1920.jpg"
+                          src="../../assets/img/backpacker-1920.jpg"
                           alt=""
                         />
                         <p class="d-inline">
@@ -1326,7 +1326,7 @@
                       <div class="accordion-body pl-3 pr-3">
                         <img
                           class="col-md-6 offset-md-0 d-none d-md-inline post-accordion-img float-md-left rounded-properly mr-md-2"
-                          src="../assets/img/peace-of-mind-1920.jpg"
+                          src="../../assets/img/peace-of-mind-1920.jpg"
                           alt=""
                         />
 
@@ -1371,7 +1371,7 @@
 
                         <img
                           class="col-8 offset-2 d-block d-md-none post-accordion-img rounded-properly mb-2"
-                          src="../assets/img/peace-of-mind-1920.jpg"
+                          src="../../assets/img/peace-of-mind-1920.jpg"
                           alt=""
                         />
 
@@ -1699,13 +1699,13 @@
 
                         <img
                           class="col-8 offset-2 d-block d-sm-none post-accordion-img rounded-properly mb-2"
-                          src="../assets/img/pexels-jeff-denlea-3714743.jpg"
+                          src="../../assets/img/pexels-jeff-denlea-3714743.jpg"
                           alt=""
                         />
 
                         <img
                           class="col-sm-6 offset-sm-0 d-none d-sm-inline post-accordion-img float-sm-left rounded-properly mr-sm-2"
-                          src="../assets/img/pexels-jeff-denlea-3714743.jpg"
+                          src="../../assets/img/pexels-jeff-denlea-3714743.jpg"
                           alt=""
                         />
 
@@ -1839,13 +1839,13 @@
 
                         <img
                           class="col-8 offset-2 d-block d-sm-none post-accordion-img rounded-properly mb-2"
-                          src="../assets/img/pexels-rodnae-productions-5542968.jpg"
+                          src="../../assets/img/pexels-rodnae-productions-5542968.jpg"
                           alt=""
                         />
 
                         <img
                           class="col-sm-6 offset-sm-0 d-none d-sm-inline post-accordion-img float-sm-right rounded-properly ml-sm-2"
-                          src="../assets/img/pexels-rodnae-productions-5542968.jpg"
+                          src="../../assets/img/pexels-rodnae-productions-5542968.jpg"
                           alt=""
                         />
 
@@ -1975,13 +1975,13 @@
 
                         <img
                           class="col-8 offset-2 d-block d-sm-none post-accordion-img rounded-properly mb-2"
-                          src="../assets/img/girl-g4b032d863_1920.jpg"
+                          src="../../assets/img/girl-g4b032d863_1920.jpg"
                           alt=""
                         />
 
                         <img
                           class="col-sm-6 offset-sm-0 d-none d-sm-inline post-accordion-img float-sm-left rounded-properly mr-sm-2"
-                          src="../assets/img/girl-g4b032d863_1920.jpg"
+                          src="../../assets/img/girl-g4b032d863_1920.jpg"
                           alt=""
                         />
 
@@ -2055,7 +2055,7 @@
 
                         <img
                           class="col-sm-6 offset-sm-0 d-none d-sm-inline post-accordion-img float-sm-right rounded-properly ml-sm-2"
-                          src="../assets/img/twins-g58915d995_1920.jpg"
+                          src="../../assets/img/twins-g58915d995_1920.jpg"
                           alt=""
                         />
 
@@ -2137,7 +2137,7 @@
 
                         <img
                           class="col-8 offset-2 d-block d-sm-none post-accordion-img rounded-properly mb-2"
-                          src="../assets/img/twins-g58915d995_1920.jpg"
+                          src="../../assets/img/twins-g58915d995_1920.jpg"
                           alt=""
                         />
 

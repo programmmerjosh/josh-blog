@@ -22,7 +22,7 @@
         </div>
 
         <div class="order-1 order-md-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <img class="" src="../assets/img/man-1351317_1280.png" alt="" />
+          <img class="" src="../../assets/img/man-1351317_1280.png" alt="" />
         </div>
       </div>
     </div>
