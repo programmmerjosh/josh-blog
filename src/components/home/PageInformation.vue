@@ -12,10 +12,10 @@
         <div class="order-2 order-md-1 col-12 col-md-8 px-5 px-md-0">
           <h2 id="info-section-description">
             This is a place deemed fit to share some relatively important
-            factual and/or experiential information and carefully scrutinised
-            conclusions. You may disagree with ideas/conclusions presented here.
-            That's okay! You are entitled to your thoughts, ideas and beliefs.
-            Here, we can
+            factual and/or experiential information and carefully scrutinized
+            conclusions. You may disagree with the ideas/conclusions presented
+            here. That's okay! You are entitled to your thoughts, ideas, and
+            beliefs. Here, we can
             <strong class="font-italic">respectfully</strong> agree
             <strong class="font-italic">or</strong> disagree.
           </h2>
