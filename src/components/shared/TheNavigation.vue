@@ -1,7 +1,9 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+  <nav :class="navbarClasses" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll-trigger text-wrap" href="#page-top"
+      <a
+        class="navbar-brand js-scroll-trigger text-wrap text-dark"
+        href="#page-top"
         >Write, Because It Forces You To
         <span class="text-underline">Think</span></a
       >
@@ -21,13 +23,27 @@
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
             <!-- refactor so that on covid-19 page, this link goes back to homepage, not blog section -->
-            <a class="nav-link js-scroll-trigger" href="#blog-section">Home</a>
+            <a class="nav-link js-scroll-trigger text-dark" href="#blog-section"
+              >Home</a
+            >
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#signup">Subscribe</a>
+            <a class="nav-link js-scroll-trigger text-dark" href="#signup"
+              >Subscribe</a
+            >
           </li>
         </ul>
       </div>
     </div>
   </nav>
 </template>
+
+<script>
+  export default {
+    data() {
+      return {
+        navbarClasses: "navbar navbar-expand-lg bg-light fixed-top",
+      };
+    },
+  };
+</script>
