@@ -1,16 +1,22 @@
+const welcomeSection = document.querySelector(".info-section");
+
 const observer = new IntersectionObserver(
   (entries) => {
     entries.forEach((entry) => {
       entry.target.classList.toggle("bg-light", entry.isIntersecting);
-
-      if (entry.isIntersecting) observer.unobserve(entry.target);
+      welcomeSection.classList.toggle(
+        "hellloooooooooooo",
+        entry.isIntersecting
+      );
+      // this line cancels the observer after running once
+      // if (entry.isIntersecting) observer.unobserve(entry.target);
     });
 
     console.log(entries);
   },
   {
-    threshold: 1,
-    // rootMargin: "-100px",
+    threshold: 0,
+    rootMargin: "-200px",
   }
 );
 
