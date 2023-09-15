@@ -2,8 +2,9 @@
 // this observer is looking for the .masterhead element,
 // when found, it removes the light background and dark-text of the navbar
 
-// page sections we are going to observe
+// page section(s) we are going to observe
 const headerSection = document.querySelector(".masthead");
+const avatar = document.querySelector("#info-section-title.about-page");
 
 // elements to change
 const navbar = document.querySelector(".navbar");
@@ -38,4 +39,5 @@ const observer = new IntersectionObserver(
   }
 );
 
-observer.observe(headerSection);
+if (headerSection) observer.observe(headerSection);
+if (avatar) observer.observe(avatar);

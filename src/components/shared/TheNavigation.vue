@@ -1,8 +1,16 @@
 <template>
   <nav :class="navbarClasses" id="mainNav">
     <div class="container">
+      <router-link
+        v-if="navigateOut"
+        class="navbar-brand js-scroll-trigger text-wrap"
+        to="/#page-top"
+        >Write, Because It Forces You To
+        <span class="text-underline">Think</span></router-link
+      >
       <a
-        class="navbar-brand js-scroll-trigger text-wrap text-dark"
+        v-else
+        class="navbar-brand js-scroll-trigger text-wrap"
         href="#page-top"
         >Write, Because It Forces You To
         <span class="text-underline">Think</span></a
@@ -22,14 +30,27 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <!-- refactor so that on covid-19 page, this link goes back to homepage, not blog section -->
-            <a class="nav-link js-scroll-trigger text-dark" href="#blog-section"
+            <router-link
+              v-if="navigateOut"
+              class="nav-link js-scroll-trigger"
+              to="/"
+              >Home</router-link
+            >
+            <a v-else class="nav-link js-scroll-trigger" href="#blog-section"
               >Home</a
             >
           </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger text-dark" href="#signup"
-              >Subscribe</a
+          <li v-if="showAbout" class="nav-item">
+            <router-link class="nav-link js-scroll-trigger" to="/about"
+              >About</router-link
+            >
+          </li>
+          <li v-if="showSubscribe" class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#signup">Subscribe</a>
+          </li>
+          <li v-if="showCovid19" class="nav-item">
+            <router-link class="nav-link js-scroll-trigger" to="/covid19"
+              >Covid-19</router-link
             >
           </li>
         </ul>
@@ -40,9 +61,15 @@
 
 <script>
   export default {
+    props: {
+      navigateOut: { type: Boolean, default: false },
+      showSubscribe: { type: Boolean, default: true },
+      showAbout: { type: Boolean, default: true },
+      showCovid19: { type: Boolean, default: true },
+    },
     data() {
       return {
-        navbarClasses: "navbar navbar-expand-lg bg-light fixed-top",
+        navbarClasses: "navbar navbar-expand-lg fixed-top",
       };
     },
   };

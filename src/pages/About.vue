@@ -1,15 +1,15 @@
 <script setup>
   import TheNavigation from "../components/shared/TheNavigation.vue";
-  import ThankYou from "../components/subscribed/ThankYou.vue";
   import TheFooter from "../components/shared/TheFooter.vue";
+  import AboutUs from "../components/about/AboutUs.vue";
 
   import { useHead } from "@vueuse/head";
   import head from "../head";
 
   // insert head data for the construction of the head tag
   useHead({
-    title: head.titles.thanks,
-    meta: head.metas.thanks,
+    title: head.titles.about,
+    meta: head.metas.about,
     link: head.link,
     script: head.script,
   });
@@ -20,8 +20,7 @@
     :navigateOut="true"
     :showAbout="false"
     :showSubscribe="false"
-    :showCovid19="false"
   />
-  <ThankYou />
+  <AboutUs />
   <TheFooter />
 </template>

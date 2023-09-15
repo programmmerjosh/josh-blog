@@ -7,7 +7,6 @@ export default {
       "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js",
       "https://unpkg.com/feather-icons",
       "../src/observer.js",
-      // "../src/assets/contact-form-with-svg-animation/dist/script.js",
     ];
 
     links.forEach((link) => {

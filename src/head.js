@@ -3,6 +3,7 @@ export default {
     home: "Truth & Critical Thinking",
     covid19: "Real Doctors Expose Covid-19 Narrative",
     thanks: "Thank You",
+    about: "About",
   },
   metas: {
     home: [
@@ -52,6 +53,24 @@ export default {
       {
         name: "description",
         content: "Thank you for subscribing",
+      },
+      {
+        name: "author",
+        content: "Joshua van Niekerk",
+      },
+    ],
+    about: [
+      {
+        charset: "utf-8",
+      },
+      {
+        name: "viewport",
+        content: "width=device-width, initial-scale=1, shrink-to-fit=no",
+      },
+      {
+        name: "about",
+        content:
+          "About the website (blog). Detailed information about what to expect to find here: Truth and critical thinking.",
       },
       {
         name: "author",
