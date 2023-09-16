@@ -28,10 +28,12 @@
 <!-- Add an About page -->
 <!-- Update info section (fetch from ReactJS version) -->
 <!-- refactor navigation component - as we have duplicate code in shared and covid19 pages AND when you click on the links from covid-19 or about page, they obviously need router-links instead of a tags -->
+<!-- toggle navbar classes on scroll -->
 
 <!-- TODOs first steps -->
 <!-- ------------------------------------------------------ -->
-<!-- Navbar JS scroll effect on background color: problem is, we need to restart/recreate intersection observer following router-link navigation but it kinda defeates the point of router-link ?? -->
+<!-- scroll to top on router-link -->
+
 <!-- Fix js Tooltip functionality on definitions -->
 <!-- Test subscribe functionality -->
 <!-- Test contact form -->

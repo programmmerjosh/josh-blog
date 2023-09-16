@@ -6,7 +6,6 @@ export default {
       "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js",
       "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js",
       "https://unpkg.com/feather-icons",
-      "../src/observer.js",
     ];
 
     links.forEach((link) => {
@@ -18,7 +17,6 @@ export default {
         script.setAttribute("src", link);
         script.setAttribute("type", "text/javascript");
 
-        if (link === "./observer.js") script.setAttribute("defer", "");
         // append script to document
         document.body.appendChild(script);
       }

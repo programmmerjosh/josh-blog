@@ -72,5 +72,26 @@
         navbarClasses: "navbar navbar-expand-lg fixed-top",
       };
     },
+    methods: {
+      // toggle classes on scroll
+      updateScroll() {
+        let scrollPosition = window.scrollY;
+        const changeValue = 100;
+
+        const navbar = document.querySelector("#mainNav");
+        const navLinks = document.querySelectorAll(".nav-link");
+        const navBrand = document.querySelector(".navbar-brand");
+
+        navbar.classList.toggle("bg-light", scrollPosition > changeValue);
+        navBrand.classList.toggle("text-dark", scrollPosition > changeValue);
+
+        navLinks.forEach((tag) => {
+          tag.classList.toggle("text-dark", scrollPosition > changeValue);
+        });
+      },
+    },
+    mounted() {
+      window.addEventListener("scroll", this.updateScroll);
+    },
   };
 </script>
