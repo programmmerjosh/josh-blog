@@ -27,13 +27,13 @@
 <!-- Basic styling on Contact form, including responsive typography -->
 <!-- Add an About page -->
 <!-- Update info section (fetch from ReactJS version) -->
-<!-- refactor navigation component - as we have duplicate code in shared and covid19 pages AND when you click on the links from covid-19 or about page, they obviously need router-links instead of a tags -->
+<!-- refactor navigation component -->
 <!-- toggle navbar classes on scroll -->
+<!-- scroll to top on router-link -->
+<!-- Fix contact button -->
 
 <!-- TODOs first steps -->
 <!-- ------------------------------------------------------ -->
-<!-- scroll to top on router-link -->
-
 <!-- Fix js Tooltip functionality on definitions -->
 <!-- Test subscribe functionality -->
 <!-- Test contact form -->
