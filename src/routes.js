@@ -26,5 +26,10 @@ export default {
         component: Subscribed,
       },
     ],
+    scrollBehavior(to, from, savedPosition) {
+      // return desired position
+      // always scroll to top
+      return { top: 0 };
+    },
   }),
 };
