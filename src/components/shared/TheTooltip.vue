@@ -2,7 +2,7 @@
   <div class="tooltip-wrapper">
     <span class="tooltip__text">{{ text }}</span>
 
-    <div class="imported-element">
+    <div class="imported-element" :class="textClass">
       <slot />
     </div>
   </div>
@@ -15,6 +15,15 @@
         type: String,
         required: true,
       },
+      colorClassPrimary: {
+        type: Boolean,
+        default: true,
+      },
+    },
+    data() {
+      return {
+        textClass: this.colorClassPrimary ? "colorBlueGrey" : "colorFireBrick",
+      };
     },
   };
 </script>
@@ -57,7 +66,13 @@
   }
 
   .imported-element {
-    color: #138496;
     font-style: italic;
+  }
+
+  .colorBlueGrey {
+    color: #138496;
+  }
+  .colorFireBrick {
+    color: #b2132a;
   }
 </style>
