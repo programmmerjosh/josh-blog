@@ -493,8 +493,7 @@
                           This fear may be traced to both physical and
                           social<TheTooltip
                             text="Heredity: the passing on of physical or mental characteristics genetically from one generation to another."
-                          >
-                            heredity</TheTooltip
+                            >&nbsp;heredity</TheTooltip
                           >. It is closely associated, as to its origin, with
                           the causes of fear of Old Age and the fear of Death,
                           because it leads one closely to the border of
@@ -1161,7 +1160,7 @@
                           When you are aware of the dangers and know what the
                           enemy will<TheTooltip
                             text="Inevitably: as is certain to happen; unavoidably."
-                            >&nbsp;inevitably</TheTooltip
+                            >&nbsp;inevitably&nbsp;</TheTooltip
                           >try to accomplish (discourage, lie and break you
                           down), you will most likely be able to recognise
                           within the events of your life when you're
@@ -1565,7 +1564,7 @@
                             >&nbsp;trivial&nbsp;</TheTooltip
                           >and anecdotal, as "<TheTooltip
                             text="Fringe: not part of the mainstream; unconventional, peripheral, or extreme."
-                            >&nbsp;fringe</TheTooltip
+                            >fringe</TheTooltip
                           >," or, worse, as the exaggerations of a
                           self-promoting few.
                         </p>
