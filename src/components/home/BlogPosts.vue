@@ -1,3 +1,7 @@
+<script setup>
+  import TheTooltip from "../shared/TheTooltip.vue";
+</script>
+
 <template>
   <!-- blog section -->
   <section id="blog-section" class="">
@@ -223,14 +227,12 @@
                         <p class="d-inline">
                           The body is the servant of the mind. It obeys the
                           operations of the mind, whether they be
-                          <span
-                            class="definition-tooltip"
-                            data-bs-toggle="tooltip"
-                            data-bs-placement="top"
-                            title="Deliberately: consciously and intentionally; on purpose."
+                          <TheTooltip
+                            text="Deliberately: consciously and intentionally; on purpose."
                           >
-                            deliberately
-                          </span>
+                            <span> deliberately </span>
+                          </TheTooltip>
+
                           chosen or automatically expressed. At the
                           <span
                             class="definition-tooltip"
