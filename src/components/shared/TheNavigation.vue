@@ -76,7 +76,7 @@
       // toggle classes on scroll
       updateScroll() {
         let scrollPosition = window.scrollY;
-        const changeValue = 100;
+        const changeValue = 150;
 
         const navbar = document.querySelector("#mainNav");
         const navLinks = document.querySelectorAll(".nav-link");
