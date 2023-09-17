@@ -271,8 +271,7 @@
                           in<TheTooltip
                             text="Vigor: physical strength and good health."
                             >&nbsp;vigor&nbsp;</TheTooltip
-                          >
-                          and grace. The body is a delicate and plastic
+                          >and grace. The body is a delicate and plastic
                           instrument, which responds readily to the thoughts by
                           which it is impressed, and habits of thought will
                           produce their own effects, good or bad, upon it.
@@ -287,10 +286,8 @@
                           life and a clean body. Out of a<TheTooltip
                             text="Defile: damage the purity or appearance of; mar or spoil."
                             >&nbsp;defiled&nbsp;</TheTooltip
-                          >
-                          mind proceeds a defiled life and corrupt body. Thought
-                          is the
-                          <TheTooltip
+                          >mind proceeds a defiled life and corrupt body.
+                          Thought is the<TheTooltip
                             text="Fount: a source of a desirable quality or commodity."
                             >&nbsp;fount&nbsp;</TheTooltip
                           >of action, life and<TheTooltip
@@ -308,8 +305,7 @@
                           Thoughts of<TheTooltip
                             text="Malice: the desire to harm someone; ill will."
                             >&nbsp;malice</TheTooltip
-                          >, envy, disappointment,
-                          <TheTooltip
+                          >, envy, disappointment,<TheTooltip
                             text="Despondency: low spirits from loss of hope or courage; dejection."
                             >&nbsp;despondency</TheTooltip
                           >, rob the body of its health and grace. A sour face
@@ -328,12 +324,10 @@
                           alt=""
                         />
                         <p class="d-inline">
-                          Wrinkles that
-                          <TheTooltip
+                          Wrinkles that<TheTooltip
                             text="Mar: impair the quality or appearance of; spoil."
                             >&nbsp;mar&nbsp;</TheTooltip
-                          >are drawn by
-                          <TheTooltip
+                          >are drawn by<TheTooltip
                             text="Folly: lack of good sense; foolishness."
                             >&nbsp;folly</TheTooltip
                           >, passion, pride. I know a woman of ninety-six who
@@ -357,8 +351,8 @@
                             text="Abode: a place of residence; a house or home."
                             >&nbsp;abode&nbsp;</TheTooltip
                           >unless you admit the air and sunshine freely into
-                          your rooms, so a strong body and a bright, happy, or
-                          <TheTooltip
+                          your rooms, so a strong body and a bright, happy,
+                          or<TheTooltip
                             text="Serene: calm, peaceful, and untroubled; tranquil."
                             >&nbsp;serene&nbsp;</TheTooltip
                           ><TheTooltip
@@ -496,8 +490,8 @@
                           alt=""
                         />
                         <p class="d-inline">
-                          This fear may be traced to both physical and social
-                          <TheTooltip
+                          This fear may be traced to both physical and
+                          social<TheTooltip
                             text="Heredity: the passing on of physical or mental characteristics genetically from one generation to another."
                           >
                             heredity</TheTooltip
@@ -507,11 +501,11 @@
                           "terrible worlds" of which man knows not, but
                           concerning which he has been taught some discomforting
                           stories. The opinion is somewhat general, also, that
-                          certain
-                          <TheTooltip text="Unethical: not morally correct.">
-                            unethical</TheTooltip
+                          certain<TheTooltip
+                            text="Unethical: not morally correct."
                           >
-                          people engaged in the business of "selling health"
+                            &nbsp;unethical&nbsp;</TheTooltip
+                          >people engaged in the business of "selling health"
                           have had not a little to do with keeping alive the
                           fear of ill health.
                         </p>
@@ -521,30 +515,23 @@
                             >In the main, man fears ill health because of the
                             terrible pictures which have been planted in his
                             mind of what may happen if death should overtake
-                            him. He also fears it because of the economic
-                            <TheTooltip
+                            him. He also fears it because of the
+                            economic<TheTooltip
                               text="Toll: the adverse effect of something."
-                            >
-                              toll</TheTooltip
-                            >
-                            which it may claim.</strong
+                              >&nbsp;toll&nbsp;</TheTooltip
+                            >which it may claim.</strong
                           >
                         </p>
 
                         <p>
-                          A
-                          <TheTooltip
+                          A<TheTooltip
                             text="Reputable: having a good reputation."
-                          >
-                            reputable</TheTooltip
-                          >
-                          <TheTooltip
+                            >&nbsp;reputable&nbsp;</TheTooltip
+                          ><TheTooltip
                             :colorClassPrimary="false"
                             text="Physician: a person qualified to practise medicine, especially one who specializes in diagnosis and medical treatment as distinct from surgery."
-                          >
-                            physician
-                          </TheTooltip>
-                          estimated that 75% of all people who visit physicians
+                            >physician&nbsp; </TheTooltip
+                          >estimated that 75% of all people who visit physicians
                           for professional service are suffering with
                           hypochondria (imaginary illness). It has been shown
                           most convincingly that the fear of disease, even where
@@ -568,76 +555,48 @@
                           destroys.
                           <strong
                             >Playing upon this common weakness of fear of ill
-                            health,
-                            <TheTooltip
+                            health,<TheTooltip
                               text="Dispenser: a person who distributes or provides (a service or information) to a number of people."
-                            >
-                              dispensers</TheTooltip
-                            >
-                            of
-                            <TheTooltip
+                              >&nbsp;dispensers&nbsp;</TheTooltip
+                            >of<TheTooltip
                               :colorClassPrimary="false"
                               text="Patent: a government authority or licence conferring a right or title for a set period, especially the sole right to exclude others from making, using, or selling an invention."
-                            >
-                              <span> </span>patent</TheTooltip
-                            >
-                            medicines have reaped fortunes.</strong
-                          >
-                          This form of
-                          <TheTooltip
+                              >&nbsp;patent&nbsp;</TheTooltip
+                            >medicines have reaped fortunes.&nbsp;</strong
+                          >This form of<TheTooltip
                             text="Impose: force (an unwelcome decision or ruling) on someone."
-                          >
-                            imposition</TheTooltip
-                          >
-                          upon
-                          <TheTooltip
+                            >&nbsp;imposition&nbsp;</TheTooltip
+                          >upon<TheTooltip
                             :colorClassPrimary="false"
                             text="Credulous: having or showing too great a readiness to believe things."
-                          >
-                            <span> </span>credulous</TheTooltip
-                          >
-                          humanity became so
-                          <TheTooltip
+                            >&nbsp;credulous&nbsp;</TheTooltip
+                          >humanity became so<TheTooltip
                             text="Prevalent: widespread in a particular area or at a particular time."
-                          >
-                            prevalent</TheTooltip
-                          >
-                          some twenty years ago that Colliers' Weekly Magazine
+                            >&nbsp;prevalent&nbsp;</TheTooltip
+                          >some twenty years ago that Colliers' Weekly Magazine
                           conducted a bitter campaign against some of the worst
                           offenders in the patent medicine business.
                         </p>
 
                         <p>
-                          During the "flu"
-                          <TheTooltip
+                          During the "flu"<TheTooltip
                             text="Epidemic: a widespread occurrence of an infectious disease in a community at a particular time."
-                          >
-                            epidemic</TheTooltip
-                          >
-                          which broke out during the world war, the mayor of New
-                          York City took
-                          <TheTooltip
+                            >&nbsp;epidemic&nbsp;</TheTooltip
+                          >which broke out during the world war, the mayor of
+                          New York City took<TheTooltip
                             text="Drastic: likely to have a strong or far-reaching effect; radical and extreme."
-                          >
-                            drastic</TheTooltip
-                          >
-                          steps to check the damage which people were doing
-                          themselves through their
-                          <TheTooltip
+                            >&nbsp;drastic&nbsp;</TheTooltip
+                          >steps to check the damage which people were doing
+                          themselves through their<TheTooltip
                             text="Inherent: existing in something as a permanent, essential, or characteristic attribute."
-                          >
-                            inherent</TheTooltip
-                          >
-                          fear of ill health. He called in the newspaper men and
-                          said to them, "Gentlemen, I feel it necessary to ask
-                          you not to publish any scare headlines concerning the
-                          'flu' epidemic. Unless you
-                          <TheTooltip
+                            >&nbsp;inherent&nbsp;</TheTooltip
+                          >fear of ill health. He called in the newspaper men
+                          and said to them, "Gentlemen, I feel it necessary to
+                          ask you not to publish any scare headlines concerning
+                          the 'flu' epidemic. Unless you<TheTooltip
                             text="Cooperate: work jointly towards the same end."
-                          >
-                            cooperate</TheTooltip
-                          >
-                          with me, we will have a situation which we cannot
+                            >&nbsp;cooperate&nbsp;</TheTooltip
+                          >with me, we will have a situation which we cannot
                           control." The newspapers quit publishing stories about
                           the "flu," and within one month the epidemic had been
                           successfully checked.
@@ -647,119 +606,82 @@
                           Through a series of experiments conducted some years
                           ago, it was proved that people may be made ill by
                           suggestion. We conducted this experiment by causing
-                          three
-                          <TheTooltip
+                          three<TheTooltip
                             text="Acquaintance: a person one knows slightly, but who is not a close friend."
-                          >
-                            acquaintances</TheTooltip
-                          >
-                          to visit the "victims," each of whom asked the
-                          question, "What
-                          <TheTooltip
+                            >&nbsp;acquaintances&nbsp;</TheTooltip
+                          >to visit the "victims," each of whom asked the
+                          question, "What<TheTooltip
                             text="Ail: trouble or afflict (someone) in mind or body."
-                          >
-                            ails</TheTooltip
-                          >
-                          you? You look terribly ill." The first questioner
-                          usually
-                          <TheTooltip
+                            >&nbsp;ails&nbsp;</TheTooltip
+                          >you? You look terribly ill." The first questioner
+                          usually<TheTooltip
                             text="Provoke: stimulate or give rise to (a reaction or emotion, typically a strong or unwelcome one) in someone."
-                          >
-                            provoked</TheTooltip
-                          >
-                          a
-                          <TheTooltip
+                            >&nbsp;provoked&nbsp;</TheTooltip
+                          >a<TheTooltip
                             :colorClassPrimary="false"
                             text="Grin: a broad smile."
-                          >
-                            grin</TheTooltip
-                          >, and a
-                          <TheTooltip
+                            >&nbsp;grin</TheTooltip
+                          >, and a<TheTooltip
                             text="Nonchalant: (of a person or manner) feeling or appearing casually calm and relaxed; not displaying anxiety, interest, or enthusiasm."
-                          >
-                            nonchalant</TheTooltip
-                          >
-                          "Oh, nothing, I'm alright," from the victim. The
+                            >&nbsp;nonchalant&nbsp;</TheTooltip
+                          >"Oh, nothing, I'm alright," from the victim. The
                           second questioner usually was answered with the
                           statement, "I don't know exactly, but I do feel
-                          badly." The third questioner was usually met with the
-                          <TheTooltip
+                          badly." The third questioner was usually met with
+                          the<TheTooltip
                             text="Frank: open, honest, and direct in speech or writing, especially when dealing with unpalatable matters."
-                          >
-                            frank</TheTooltip
-                          >
-                          <TheTooltip
+                            >&nbsp;frank</TheTooltip
+                          ><TheTooltip
                             :colorClassPrimary="false"
                             text="Admission: a statement acknowledging the truth of something."
-                          >
-                            admission</TheTooltip
-                          >
-                          that the victim was actually feeling ill.
+                            >&nbsp;admission&nbsp;</TheTooltip
+                          >that the victim was actually feeling ill.
                         </p>
 
                         <p>
                           Try this on an acquaintance if you doubt that it will
                           make him uncomfortable, but do not carry the
-                          experiment too far. There is a certain
-                          <TheTooltip
+                          experiment too far. There is a certain<TheTooltip
                             text="Religious: relating to or believing in a religion."
-                          >
-                            religious</TheTooltip
-                          >
-                          <TheTooltip
+                            >&nbsp;religious&nbsp;</TheTooltip
+                          ><TheTooltip
                             :colorClassPrimary="false"
                             text="Sect: a group of people with somewhat different religious beliefs (typically regarded as heretical) from those of a larger group to which they belong."
-                          >
-                            sect</TheTooltip
-                          >
-                          whose members take
-                          <TheTooltip
+                            >sect&nbsp;</TheTooltip
+                          >whose members take<TheTooltip
                             text="Vengeance: the act of doing something to hurt someone because that person did something that hurt you or someone else."
-                          >
-                            vengeance</TheTooltip
-                          >
-                          upon their enemies by the "hexing" method. They call
+                            >&nbsp;vengeance&nbsp;</TheTooltip
+                          >upon their enemies by the "hexing" method. They call
                           it "placing a spell" on the victim.
                         </p>
 
                         <p>
-                          There is
-                          <TheTooltip
+                          There is<TheTooltip
                             text="Overwhelming: very great in amount."
-                          >
-                            overwhelming</TheTooltip
-                          >
-                          <TheTooltip
+                            >&nbsp;overwhelming&nbsp;</TheTooltip
+                          ><TheTooltip
                             :colorClassPrimary="false"
                             text="Evidence: the available body of facts or information indicating whether a belief or proposition is true or valid."
-                          >
-                            evidence</TheTooltip
-                          >
-                          that disease sometimes begins in the form of negative
-                          thought
-                          <TheTooltip
+                            >evidence&nbsp;</TheTooltip
+                          >that disease sometimes begins in the form of negative
+                          thought<TheTooltip
                             :colorClassPrimary="false"
                             text="Impulse: a sudden strong and unreflective urge or desire to act."
-                          >
-                            impulse</TheTooltip
+                            >&nbsp;impulse</TheTooltip
                           >. Such an impulse may be passed from one mind to
                           another, by suggestion, or created by an individual in
                           his own mind.
                         </p>
 
                         <p>
-                          A man who was blessed with more wisdom than this
-                          <TheTooltip
+                          A man who was blessed with more wisdom than
+                          this<TheTooltip
                             text="Incident: an instance of something happening; an event or occurrence."
-                          >
-                            incident</TheTooltip
-                          >
-                          might
-                          <TheTooltip
+                            >&nbsp;incident&nbsp;</TheTooltip
+                          >might<TheTooltip
                             :colorClassPrimary="false"
                             text="Indicate: point out; show."
-                          >
-                            indicate</TheTooltip
+                            >&nbsp;indicate</TheTooltip
                           >, once said "When anyone asks me how I feel, I always
                           want to answer by knocking him down."
                         </p>
@@ -780,26 +702,19 @@
                             >Doctors send patients into new
                             <TheTooltip
                               text="Climate: the prevailing trend of public opinion or of another aspect of life."
-                            >
-                              climates</TheTooltip
-                            >
-                            for their health, because a change of "mental
+                              >&nbsp;climates&nbsp;</TheTooltip
+                            >for their health, because a change of "mental
                             attitude" is necessary.</strong
                           >
                           The seed of fear of ill health lives in every human
                           mind. Worry, fear, discouragement, disappointment in
-                          love and business
-                          <TheTooltip
+                          love and business<TheTooltip
                             text="Affair: an event or sequence of events of a specified kind or that has previously been referred to."
-                          >
-                            affairs</TheTooltip
-                          >, cause this seed to
-                          <TheTooltip
+                            >&nbsp;affairs</TheTooltip
+                          >, cause this seed to<TheTooltip
                             text="Germinate: (of a seed or spore) begin to grow and put out shoots after a period of dormancy."
-                          >
-                            germinate</TheTooltip
-                          >
-                          and grow. The recent business depression kept the
+                            >&nbsp;germinate&nbsp;</TheTooltip
+                          >and grow. The recent business depression kept the
                           doctors on the run, because every form of negative
                           thinking may cause ill health...
                         </p>
@@ -829,11 +744,10 @@
                           >.
                           <strong
                             >Fear of ill health breaks down Nature's body
-                            resistance, and creates a
-                            <TheTooltip text="Favorable: expressing approval.">
-                              favorable</TheTooltip
-                            >
-                            condition for any form of disease one may
+                            resistance, and creates a<TheTooltip
+                              text="Favorable: expressing approval."
+                              >&nbsp;favorable&nbsp;</TheTooltip
+                            >condition for any form of disease one may
                             contact</strong
                           >...
                         </p>
@@ -842,26 +756,18 @@
                             text="Intemperance: lack of moderation or restraint. Excessive indulgence, especially in alcohol."
                           >
                             INTEMPERANCE</TheTooltip
-                          >. The habit of using alcohol or
-                          <TheTooltip
+                          >. The habit of using alcohol or<TheTooltip
                             text="Narcotics: a drug or other substance that affects mood or behaviour and is consumed for non-medical purposes, especially one sold illegally."
-                          >
-                            narcotics</TheTooltip
-                          >
-                          to destroy pains such as headaches,
-                          <TheTooltip
+                            >&nbsp;narcotics&nbsp;</TheTooltip
+                          >to destroy pains such as headaches,<TheTooltip
                             text="Neuralgia: intense, typically intermittent pain along the course of a nerve, especially in the head or face."
-                          >
-                            neuralgia</TheTooltip
+                            >&nbsp;neuralgia</TheTooltip
                           >, etc., instead of eliminating the cause. The habit
                           of reading about illness and worrying over the
-                          possibility of being
-                          <TheTooltip
+                          possibility of being<TheTooltip
                             text="Stricken: seriously affected by an undesirable condition or unpleasant feeling."
-                          >
-                            stricken</TheTooltip
-                          >
-                          by it. The habit of reading patent medicine
+                            >&nbsp;stricken&nbsp;</TheTooltip
+                          >by it. The habit of reading patent medicine
                           advertisements...
                         </p>
 
@@ -941,13 +847,10 @@
                           Jim Rohn shares a good perspective on diseases of
                           attitude and just a great overall message. I encourage
                           you to listen to this entire message, but the disease
-                          of attitude most
-                          <TheTooltip
+                          of attitude most<TheTooltip
                             text="Pertain: be appropriate, related, or applicable to."
-                          >
-                            pertaining
-                          </TheTooltip>
-                          to the topic of discussion here, is worry.
+                            >&nbsp;pertaining&nbsp;</TheTooltip
+                          >to the topic of discussion here, is worry.
                         </p>
 
                         <div class="d-flex justify-content-center">
@@ -1053,17 +956,12 @@
                         <p class="d-inline">
                           If we're looking for wisdom and truth, it's always a
                           good idea to consider The Bible. I've decided to not
-                          go into too much depth here as I'm not a
-                          <TheTooltip
+                          go into too much depth here as I'm not a<TheTooltip
                             text="Theologian: a person who engages or is an expert in the study of the nature of God and religious belief."
-                          >
-                            theologian
-                          </TheTooltip>
-                          nor a
-                          <TheTooltip
+                            >&nbsp;theologian&nbsp;</TheTooltip
+                          >nor a<TheTooltip
                             text="Philosopher: a person engaged or learned in philosophy (the study of the fundamental nature of knowledge, reality, and existence, especially when considered as an academic discipline.)"
-                          >
-                            philosopher</TheTooltip
+                            >&nbsp;philosopher</TheTooltip
                           >. So, let me share a few encouraging verses that
                           align with the message here. Please feel free to go to
                           The Bible for the context of these verses.
@@ -1109,29 +1007,24 @@
                           <span class="font-weight-bolder">Romans 8:28–31</span>
                           "And we know that in all things God works for the good
                           of those who love him, who have been called according
-                          to His purpose. For those God foreknew he also
-                          <TheTooltip
+                          to His purpose. For those God foreknew he
+                          also<TheTooltip
                             text="Predestined: (of an outcome or course of events) determined in advance by divine will or fate."
-                          >
-                            predestined
-                          </TheTooltip>
-                          to be conformed to the image of his Son, that he might
-                          be the firstborn among many brothers and sisters. And
-                          those he predestined, he also called; those he called,
-                          he also justified; those he justified, he also
-                          glorified. What, then, shall we say in response to
-                          these things? If God is for us, who can be against
-                          us?" (NIV)
+                            >&nbsp;predestined&nbsp;</TheTooltip
+                          >to be conformed to the image of his Son, that he
+                          might be the firstborn among many brothers and
+                          sisters. And those he predestined, he also called;
+                          those he called, he also justified; those he
+                          justified, he also glorified. What, then, shall we say
+                          in response to these things? If God is for us, who can
+                          be against us?" (NIV)
                         </p>
                         <p>
                           <span class="font-weight-bolder">Nahum 1:7</span>
-                          "The Lord is good, a
-                          <TheTooltip
+                          "The Lord is good, a<TheTooltip
                             text="Refuge: a place or situation providing safety or shelter."
-                          >
-                            refuge
-                          </TheTooltip>
-                          in times of trouble. He cares for those who trust in
+                            >&nbsp;refuge&nbsp;</TheTooltip
+                          >in times of trouble. He cares for those who trust in
                           him." (NIV)
                         </p>
                       </div>
@@ -1266,13 +1159,10 @@
                       <div class="accordion-body pl-3 pr-3">
                         <p>
                           When you are aware of the dangers and know what the
-                          enemy will
-                          <TheTooltip
+                          enemy will<TheTooltip
                             text="Inevitably: as is certain to happen; unavoidably."
-                          >
-                            inevitably
-                          </TheTooltip>
-                          try to accomplish (discourage, lie and break you
+                            >&nbsp;inevitably</TheTooltip
+                          >try to accomplish (discourage, lie and break you
                           down), you will most likely be able to recognise
                           within the events of your life when you're
                           particularly under attack.
@@ -1366,23 +1256,16 @@
                           in any consequential way. Yet there is an equally
                           unproductive ideology in the other direction: the
                           notion that people can cure themselves of even the
-                          most
-                          <TheTooltip
+                          most<TheTooltip
                             text="Pernicious: having a harmful effect, especially in a gradual or subtle way."
-                          >
-                            pernicious
-                          </TheTooltip>
-
-                          disease simply by making themselves happy or thinking
+                            >&nbsp;pernicious&nbsp;</TheTooltip
+                          >disease simply by making themselves happy or thinking
                           positive thoughts, or that they are somehow to blame
                           for having gotten sick in the first place. The result
-                          of this attitude-will-cure-all
-                          <TheTooltip
+                          of this attitude-will-cure-all<TheTooltip
                             text="Rhetoric: the art of effective or persuasive speaking or writing, especially the exploitation of figures of speech and other compositional techniques."
-                          >
-                            rhetoric
-                          </TheTooltip>
-                          has been to create widespread confusion and
+                            >&nbsp;rhetoric&nbsp;</TheTooltip
+                          >has been to create widespread confusion and
                           misunderstanding about the extent to which illness can
                           be affected by the mind, and, perhaps worse, sometimes
                           to make people feel guilty for having a disease, as
@@ -1409,13 +1292,10 @@
                         />
 
                         <p>
-                          …many or most
-                          <TheTooltip
+                          …many or most<TheTooltip
                             text="Physician: a person qualified to practise medicine, especially one who specializes in diagnosis and medical treatment as distinct from surgery."
-                          >
-                            physicians
-                          </TheTooltip>
-                          are still skeptical that emotions matter clinically.
+                            >&nbsp;physicians&nbsp;</TheTooltip
+                          >are still skeptical that emotions matter clinically.
                           One reason is that while many studies have found
                           stress and negative emotions to weaken the
                           effectiveness of various immune cells, it is not
@@ -1428,21 +1308,15 @@
                         </p>
 
                         <p>
-                          For instance, Dr. Camran Nezhat, an
-                          <TheTooltip
+                          For instance, Dr. Camran Nezhat, an<TheTooltip
                             text="Eminent: (of a person) famous and respected within a particular sphere."
-                          >
-                            eminent
-                          </TheTooltip>
-
-                          <TheTooltip
+                            >&nbsp;eminent&nbsp;</TheTooltip
+                          ><TheTooltip
                             :colorClassPrimary="false"
                             text="A gynaecological laparoscopy (keyhole surgery) is a procedure to look inside your lower tummy (abdomen) to examine your womb (uterus), fallopian tubes and ovaries. Gynaecological laparoscopy can be used to diagnose a condition and/or to treat it."
-                          >
-                            gynecological laparoscopic surgeon
-                          </TheTooltip>
-
-                          at Stanford University, says, "If someone scheduled
+                            >gynecological laparoscopic
+                            surgeon&nbsp;</TheTooltip
+                          >at Stanford University, says, "If someone scheduled
                           for surgery tells me she's panicked that day and does
                           not want to go through with it, I cancel the surgery."
                           Nezhat explains, "Every surgeon knows that people who
@@ -1452,19 +1326,14 @@
                           It's much better if they are calm." The reason is
                           straightforward:
                           <strong>
-                            panic and anxiety hike blood pressure, and veins
-                            <TheTooltip
+                            panic and anxiety hike blood pressure, and
+                            veins<TheTooltip
                               text="Distended: swollen due to pressure from inside; bloated."
-                            >
-                              distended
-                            </TheTooltip>
-                            by pressure bleed more
-                            <TheTooltip
+                              >&nbsp;distended&nbsp;</TheTooltip
+                            >by pressure bleed more<TheTooltip
                               text="Profusely: to a great degree; in large amounts."
-                            >
-                              profusely
-                            </TheTooltip>
-                            when cut by the surgeon's knife.</strong
+                              >&nbsp;profusely&nbsp;</TheTooltip
+                            >when cut by the surgeon's knife.</strong
                           >
                           Excess bleeding is one of the most troublesome
                           surgical complications, one that can sometimes lead to
@@ -1472,32 +1341,25 @@
                         </p>
 
                         <p>
-                          Beyond such medical
-                          <TheTooltip
+                          Beyond such medical<TheTooltip
                             text="Anecdote: an account regarded as unreliable or hearsay."
-                          >
-                            anecdotes</TheTooltip
+                            >&nbsp;anecdotes</TheTooltip
                           >, evidence for the clinical importance of emotions
                           has been mounting steadily. Perhaps the most
                           compelling data on the medical significance of emotion
                           come from a mass analysis combining results from 101
                           smaller studies into a single larger one of several
-                          thousand men and women. The study confirms that
-                          <TheTooltip
+                          thousand men and women. The study confirms
+                          that<TheTooltip
                             text="Perturbing: causing anxiety or concern; unsettling."
-                          >
-                            perturbing
-                          </TheTooltip>
-                          emotions are bad for health—to a degree. People who
+                            >&nbsp;perturbing&nbsp;</TheTooltip
+                          >emotions are bad for health—to a degree. People who
                           experienced chronic anxiety, long periods of sadness
-                          and pessimism,
-                          <TheTooltip
+                          and pessimism,<TheTooltip
                             text="Unremitting: never relaxing or slackening; incessant."
-                          >
-                            unremitting
-                          </TheTooltip>
-                          tension or incessant hostility, relentless cynicism or
-                          suspiciousness, were found to have
+                            >&nbsp;unremitting&nbsp;</TheTooltip
+                          >tension or incessant hostility, relentless cynicism
+                          or suspiciousness, were found to have
                           <strong>double the risk of disease</strong>—including
                           asthma, arthritis, headaches, peptic ulcers, and heart
                           disease (each representative of major, broad
@@ -1526,13 +1388,10 @@
                         />
 
                         <p>
-                          Anxiety—the distress
-                          <TheTooltip
+                          Anxiety—the distress<TheTooltip
                             text="Evoke: bring or recall (a feeling, memory, or image) to the conscious mind."
-                          >
-                            evoked
-                          </TheTooltip>
-                          by life's pressures—is perhaps the emotion with the
+                            >&nbsp;evoked&nbsp;</TheTooltip
+                          >by life's pressures—is perhaps the emotion with the
                           greatest weight of scientific evidence connecting it
                           to the onset of sickness and course of recovery. When
                           anxiety helps us prepare to deal with some danger (a
@@ -1544,13 +1403,10 @@
                           confront. Repeated bouts of anxiety signal high levels
                           of stress. The woman whose constant worrying primes
                           her gastrointestinal trouble is a textbook example of
-                          how anxiety and stress
-                          <TheTooltip
+                          how anxiety and stress<TheTooltip
                             text="Exacerbate: make (a problem, bad situation, or negative feeling) worse."
-                          >
-                            exacerbate
-                          </TheTooltip>
-                          medical problems.
+                            >&nbsp;exacerbate&nbsp;</TheTooltip
+                          >medical problems.
                         </p>
 
                         <p class="">
@@ -1567,30 +1423,22 @@
                         </p>
 
                         <p>
-                          In experiments in which the
-                          <TheTooltip
+                          In experiments in which the<TheTooltip
                             text="Robustness: the ability to withstand or overcome adverse conditions or rigorous testing."
-                          >
-                            robustness
-                          </TheTooltip>
-                          of the immune system has been
-                          <TheTooltip
+                            >&nbsp;robustness&nbsp;</TheTooltip
+                          >of the immune system has been<TheTooltip
                             text="Assay: examine (something) in order to assess its nature."
-                          >
-                            assayed
-                          </TheTooltip>
-                          directly, stress and anxiety have been found to weaken
-                          it, but in most such results it is unclear whether the
-                          range of immune weakening is of clinical
+                            >&nbsp;assayed&nbsp;</TheTooltip
+                          >directly, stress and anxiety have been found to
+                          weaken it, but in most such results it is unclear
+                          whether the range of immune weakening is of clinical
                           significance—that is, great enough to open the way to
                           disease. For that reason stronger scientific links of
-                          stress and anxiety to medical vulnerability come from
-                          <TheTooltip
+                          stress and anxiety to medical vulnerability come
+                          from<TheTooltip
                             text="Prospective: expected or expecting to be the specified thing in the future."
-                          >
-                            prospective
-                          </TheTooltip>
-                          studies: those that start with healthy people and
+                            >&nbsp;prospective&nbsp;</TheTooltip
+                          >studies: those that start with healthy people and
                           monitor first a heightening of distress followed by a
                           weakening of the immune system and the onset of
                           illness.
@@ -1617,11 +1465,9 @@
                           (While this may be one of those scientific results
                           that confirms what everyone has observed or suspected
                           all along, it is considered a landmark finding because
-                          of its scientific
-                          <TheTooltip
+                          of its scientific<TheTooltip
                             text="Rigor: the quality of being extremely thorough and careful."
-                          >
-                            rigor</TheTooltip
+                            >&nbsp;rigor</TheTooltip
                           >.)
                         </p>
 
@@ -1673,19 +1519,13 @@
                           have found that pessimists smoke and drink more, and
                           exercise less, than optimists, and are generally much
                           more careless about their health habits. Or it may one
-                          day turn out that the
-                          <TheTooltip
+                          day turn out that the<TheTooltip
                             text="Physiology: the way in which a living organism or bodily part functions."
-                          >
-                            physiology
-                          </TheTooltip>
-                          of hopefulness is itself somehow helpful
-                          <TheTooltip
+                            >&nbsp;physiology&nbsp;</TheTooltip
+                          >of hopefulness is itself somehow helpful<TheTooltip
                             text="Biologically: in an inherited or innate way."
-                          >
-                            biologically
-                          </TheTooltip>
-                          to the body's fight against disease.
+                            >&nbsp;biologically&nbsp;</TheTooltip
+                          >to the body's fight against disease.
                         </p>
 
                         <p>
@@ -1720,15 +1560,12 @@
                           the brain's emotional center and the immune system,
                           many physicians remain skeptical that their patients'
                           emotions matter clinically, dismissing the evidence
-                          for this as
-                          <TheTooltip
+                          for this as<TheTooltip
                             text="Trivial: of little value or importance."
-                          >
-                            trivial
-                          </TheTooltip>
-                          and anecdotal, as "<TheTooltip
+                            >&nbsp;trivial&nbsp;</TheTooltip
+                          >and anecdotal, as "<TheTooltip
                             text="Fringe: not part of the mainstream; unconventional, peripheral, or extreme."
-                            >fringe</TheTooltip
+                            >&nbsp;fringe</TheTooltip
                           >," or, worse, as the exaggerations of a
                           self-promoting few.
                         </p>
@@ -1742,34 +1579,26 @@
                           more quickly. In a study of elderly patients with hip
                           fracture at Mt. Sinai School of Medicine in New York
                           City and at Northwestern University, patients who
-                          received therapy for depression in addition to normal
-                          <TheTooltip
+                          received therapy for depression in addition to
+                          normal<TheTooltip
                             text="Orthopedics: a branch of medicine concerned with the correction or prevention of deformities, disorders, or injuries of the skeleton and associated structures (such as tendons and ligaments)."
-                          >
-                            orthopedic
-                          </TheTooltip>
-                          care left the hospital an average of two days earlier;
-                          total savings for the hundred or so patients was
-                          $97,361 in medical costs.
+                            >&nbsp;orthopedic&nbsp;</TheTooltip
+                          >care left the hospital an average of two days
+                          earlier; total savings for the hundred or so patients
+                          was $97,361 in medical costs.
                         </p>
 
                         <p>
                           If the findings on emotions and health mean anything,
                           it is that medical care that neglects how people feel
                           as they battle a chronic or severe disease is no
-                          longer
-                          <TheTooltip
+                          longer<TheTooltip
                             text="Adequate: satisfactory or acceptable in quality or quantity."
-                          >
-                            adequate</TheTooltip
-                          >. It is time for medicine to take more
-                          <TheTooltip
+                            >&nbsp;adequate</TheTooltip
+                          >. It is time for medicine to take more<TheTooltip
                             text="Methodical: done according to a systematic or established procedure."
-                          >
-                            methodical
-                          </TheTooltip>
-
-                          advantage of the link between emotion and health.
+                            >&nbsp;methodical&nbsp;</TheTooltip
+                          >advantage of the link between emotion and health.
                         </p>
 
                         <img
