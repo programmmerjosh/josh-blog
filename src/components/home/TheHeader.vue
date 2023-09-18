@@ -2,7 +2,7 @@
   <header class="masthead d-flex align-items-center justify-content-center">
     <!-- this image is hidden but added here to show on facebook posts when link is shared -->
     <img
-      src="../assets/img/Screenshot 2021-04-18 at 21.36.57.png"
+      src="../../assets/img/Screenshot 2021-04-18 at 21.36.57.png"
       class="invisible collapsing"
       alt=""
     />

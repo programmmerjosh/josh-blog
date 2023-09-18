@@ -6,7 +6,7 @@
   >
     <!-- this image is hidden but added here to show on facebook posts when link is shared -->
     <img
-      src="src/assets/img/Screenshot 2022-01-22 at 13.58.08-min.png"
+      src="../../assets/img/Screenshot 2022-01-22 at 13.58.08-min.png"
       class="invisible collapsing"
       alt=""
     />

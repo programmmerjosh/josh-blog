@@ -21,7 +21,7 @@
 
 <template>
   <ContactButton />
-  <TheNavigation />
+  <TheNavigation :navigateOut="true" :showCovid19="false" />
   <TheHeader />
   <BlogPosts />
   <SignupArea />

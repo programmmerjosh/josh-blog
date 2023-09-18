@@ -1,6 +1,6 @@
 <script setup>
-  import TheNavigation from "../components/subscribed/TheNavigation.vue";
-  import ThankYou from "../components/subscribed/ThankYou.vue";
+  import TheNavigation from "../components/shared/TheNavigation.vue";
+  import MessageUser from "../components/shared/MessageUser.vue";
   import TheFooter from "../components/shared/TheFooter.vue";
 
   import { useHead } from "@vueuse/head";
@@ -16,7 +16,14 @@
 </script>
 
 <template>
-  <TheNavigation />
-  <ThankYou />
+  <TheNavigation
+    :navigateOut="true"
+    :showAbout="false"
+    :showSubscribe="false"
+    :showCovid19="false"
+  />
+  <MessageUser>
+    Thanks for subscribing to receive updates! Great to have you on board!
+  </MessageUser>
   <TheFooter />
 </template>
