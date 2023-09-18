@@ -39,109 +39,23 @@
           <h4>Resources:</h4>
         </div>
         <div class="accordion accordion-flush mb-5" id="accordionFlushExample">
-          <!-- item 1 -->
+          <!-- item 8 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingOne">
+              <h2 class="accordion-header" id="flush-headingEight">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseOne"
+                  data-bs-target="#flush-collapseEight"
                   aria-expanded="false"
-                  aria-controls="flush-collapseOne"
+                  aria-controls="flush-collapseEight"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        1. Natural Remedies Banned For Treating Covid-19<span
-                          class="d-inline d-md-none"
-                        >
-                          📝</span
-                        >
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Article</em
-                        >
-                      </div>
-                    </div>
-                  </div>
-                </button>
-              </h2></a
-            >
-            <div
-              id="flush-collapseOne"
-              class="accordion-collapse collapse"
-              aria-labelledby="flush-headingOne"
-              data-bs-parent="#accordionFlushExample"
-            >
-              <div class="accordion-body pl-3 pr-3">
-                <div class="row">
-                  <div class="col-12 order-2 order-md-1 col-md-6">
-                    <div class="text-center p-2">
-                      <a
-                        target="_blank"
-                        href="https://healthimpactnews.com/2021/covid-natural-remedies-banned-as-doj-and-ftc-seek-to-silence-doctors-promoting-vitamin-d-c-zinc-etc/"
-                      >
-                        <button class="btn btn-primary">Link To Article</button>
-                      </a>
-                    </div>
-
-                    <p id="small-text">
-                      Article referenced from
-                      <span class="font-weight-bolder"
-                        >HealthImpactNews.com</span
-                      >
-                      by
-                      <span class="font-weight-bolder"
-                        >Brian Shilhavy, Editor</span
-                      >.
-                    </p>
-
-                    <p id="small-text">
-                      COVID Natural Remedies BANNED as DOJ and FTC Seek to
-                      Silence Doctors Promoting Vitamin D, C, Zinc, etc.
-                    </p>
-                  </div>
-                  <div class="col-12 order-1 order-md-2 col-md-6">
-                    <a
-                      target="_blank"
-                      href="https://healthimpactnews.com/2021/covid-natural-remedies-banned-as-doj-and-ftc-seek-to-silence-doctors-promoting-vitamin-d-c-zinc-etc/"
-                    >
-                      <img
-                        id="external-video-thumbnail"
-                        class=""
-                        src="https://healthimpactnews.com/wp-content/uploads/sites/2/2021/04/COVID-natural-remedies-BANNED.jpg"
-                        alt=""
-                      />
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- item 2 -->
-          <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingTwo">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseTwo"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseTwo"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        2. The myth of asymptomatic transmission<span
+                        8. Truth About Covid-19 Vaccines, Effective Treatments
+                        And Mask Mandates, Dr Simone Gold<span
                           class="d-inline d-md-none"
                         >
                           📹</span
@@ -163,9 +77,9 @@
               </h2></a
             >
             <div
-              id="flush-collapseTwo"
+              id="flush-collapseEight"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingTwo"
+              aria-labelledby="flush-headingEight"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
@@ -174,12 +88,12 @@
                   <div class="col-12 order-1 order-md-2 col-md-6">
                     <a
                       target="_blank"
-                      href="https://odysee.com/@drsambailey:c/Odysee-Exclusive---Covid-19-Asymptomatic-Transmission-Small-Video-:e"
+                      href="https://www.bitchute.com/video/AqpMg4eiLERf/"
                     >
                       <img
-                        id="external-video-thumbnail"
                         class=""
-                        src="https://cards.odycdn.com/aHR0cHM6Ly9zcGVlLmNoL2IvZGJiMmY3Yjg1ZDZjMzI1ZC5qcGc=.jpg"
+                        id="external-video-thumbnail"
+                        src="https://static-3.bitchute.com/live/cover_images/dvaOKrLSNfKC/AqpMg4eiLERf_640x360.jpg"
                         alt=""
                       />
                     </a>
@@ -189,188 +103,20 @@
                     <div class="text-center p-2">
                       <a
                         target="_blank"
-                        href="https://odysee.com/@drsambailey:c/Odysee-Exclusive---Covid-19-Asymptomatic-Transmission-Small-Video-:e"
+                        href="https://www.bitchute.com/video/AqpMg4eiLERf/"
                       >
                         <button class="btn btn-primary">Link To Video</button>
                       </a>
                     </div>
+
+                    <p id="small-text">
+                      DR. SIMONE GOLD SHARES THE TRUTH ABOUT THE COVID-19
+                      VACCINES, EFFECTIVE TREATMENTS AND MASK MANDATES
+                    </p>
 
                     <p id="small-text">
                       Video referenced from
-                      <span class="font-weight-bolder">Odysee.com</span>
-                      by
-                      <span class="font-weight-bolder">Dr Sam Bailey</span>.
-                    </p>
-
-                    <p id="small-text">Covid 19: "Asymptomatic Transmission"</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- item 3 -->
-          <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingThree">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseThree"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseThree"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        3. Dr John Lee, prof of pathology UK: Gives a
-                        professional take on this whole Covid narrative<span
-                          class="d-inline d-md-none"
-                        >
-                          📹</span
-                        >
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Video</em
-                        >
-                      </div>
-                    </div>
-                  </div>
-                </button>
-              </h2></a
-            >
-            <div
-              id="flush-collapseThree"
-              class="accordion-collapse collapse"
-              aria-labelledby="flush-headingThree"
-              data-bs-parent="#accordionFlushExample"
-            >
-              <div class="accordion-body pl-3 pr-3">
-                <div class="row">
-                  <!-- thumbnail wrapped in a-tag or YouTube iframe -->
-                  <div class="col-12 order-1 order-md-2 col-md-6">
-                    <div
-                      class="post-accordion-img rounded-properly mb-2 yt-covid-19-wrapper"
-                    >
-                      <iframe
-                        class="yt-covid-19"
-                        src="https://youtube.com/embed/btWfAXQ8wYg"
-                      ></iframe>
-                    </div>
-                  </div>
-                  <!-- link button, reference and video/article title -->
-                  <div class="col-12 order-2 order-md-1 col-md-6">
-                    <div class="text-center p-2">
-                      <a
-                        target="_blank"
-                        href="https://www.youtube.com/watch?v=btWfAXQ8wYg"
-                      >
-                        <button class="btn btn-primary">Link To Video</button>
-                      </a>
-                    </div>
-
-                    <p id="small-text">
-                      BRILLIANT: Dr. John Lee, Prof of Pathology UK - Unlocked
-                      Documentary!
-                    </p>
-
-                    <p id="small-text">
-                      YouTube video upload credit:
-                      <a
-                        target="_blank"
-                        href="https://www.youtube.com/channel/UCPn4FsiQP15nudug9FDhluA"
-                        >Ivor Cummins</a
-                      >
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- item 4 -->
-          <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingFour">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseFour"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseFour"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        4. Covid vaccines 52 times more fatal than all other
-                        vaccines: (update: video removed/censored)<span
-                          class="d-inline d-md-none"
-                        >
-                          📹</span
-                        >
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Video</em
-                        >
-                      </div>
-                    </div>
-                  </div>
-                </button>
-              </h2></a
-            >
-            <div
-              id="flush-collapseFour"
-              class="accordion-collapse collapse"
-              aria-labelledby="flush-headingFour"
-              data-bs-parent="#accordionFlushExample"
-            >
-              <div class="accordion-body pl-3 pr-3">
-                <div class="row">
-                  <!-- thumbnail wrapped in a-tag or YouTube iframe -->
-                  <div class="col-12 order-1 order-md-2 col-md-6">
-                    <div
-                      class="post-accordion-img rounded-properly mb-2 yt-covid-19-wrapper"
-                    >
-                      <iframe
-                        class="yt-covid-19"
-                        src="https://youtube.com/embed/sHgOclS94b4"
-                      ></iframe>
-                    </div>
-                  </div>
-                  <!-- link button, reference and video/article title -->
-                  <div class="col-12 order-2 order-md-1 col-md-6">
-                    <div class="text-center p-2">
-                      <a
-                        target="_blank"
-                        href="https://www.youtube.com/watch?v=sHgOclS94b4"
-                      >
-                        <button class="btn btn-primary">Link To Video</button>
-                      </a>
-                    </div>
-
-                    <p id="small-text">
-                      Walkthrough : Calculating Covid Vaccine Risk
-                    </p>
-
-                    <p id="small-text">
-                      YouTube video upload credit:
-                      <a
-                        target="_blank"
-                        href="https://www.youtube.com/channel/UCmFDE8P6_M-C4HTOuWwm4Dg"
-                        >Peerless Reads</a
-                      >
+                      <span class="font-weight-bolder">bitchute.com</span>
                     </p>
                   </div>
                 </div>
@@ -456,6 +202,88 @@
                         >mikulik86</a
                       >
                     </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- item 2 -->
+          <div class="accordion-item">
+            <a id="special-a-tag" class="" href="#accordionFlushExample">
+              <h2 class="accordion-header" id="flush-headingTwo">
+                <button
+                  class="accordion-button collapsed text-capitalize"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#flush-collapseTwo"
+                  aria-expanded="false"
+                  aria-controls="flush-collapseTwo"
+                >
+                  <div class="container">
+                    <div class="row">
+                      <div class="col-12 col-md-8">
+                        2. The myth of asymptomatic transmission<span
+                          class="d-inline d-md-none"
+                        >
+                          📹</span
+                        >
+                      </div>
+                      <div class="col-12 col-md-2">
+                        <div class="tab-indent"></div>
+                        <span class="post-date"></span>
+                      </div>
+                      <div class="col-12 col-md-2">
+                        <div class="tab-indent"></div>
+                        <em class="post-type text-bold d-none d-md-inline"
+                          >Video</em
+                        >
+                      </div>
+                    </div>
+                  </div>
+                </button>
+              </h2></a
+            >
+            <div
+              id="flush-collapseTwo"
+              class="accordion-collapse collapse"
+              aria-labelledby="flush-headingTwo"
+              data-bs-parent="#accordionFlushExample"
+            >
+              <div class="accordion-body pl-3 pr-3">
+                <div class="row">
+                  <!-- thumbnail wrapped in a-tag or YouTube iframe -->
+                  <div class="col-12 order-1 order-md-2 col-md-6">
+                    <a
+                      target="_blank"
+                      href="https://odysee.com/@drsambailey:c/Odysee-Exclusive---Covid-19-Asymptomatic-Transmission-Small-Video-:e"
+                    >
+                      <img
+                        id="external-video-thumbnail"
+                        class=""
+                        src="https://cards.odycdn.com/aHR0cHM6Ly9zcGVlLmNoL2IvZGJiMmY3Yjg1ZDZjMzI1ZC5qcGc=.jpg"
+                        alt=""
+                      />
+                    </a>
+                  </div>
+                  <!-- link button, reference and video/article title -->
+                  <div class="col-12 order-2 order-md-1 col-md-6">
+                    <div class="text-center p-2">
+                      <a
+                        target="_blank"
+                        href="https://odysee.com/@drsambailey:c/Odysee-Exclusive---Covid-19-Asymptomatic-Transmission-Small-Video-:e"
+                      >
+                        <button class="btn btn-primary">Link To Video</button>
+                      </a>
+                    </div>
+
+                    <p id="small-text">
+                      Video referenced from
+                      <span class="font-weight-bolder">Odysee.com</span>
+                      by
+                      <span class="font-weight-bolder">Dr Sam Bailey</span>.
+                    </p>
+
+                    <p id="small-text">Covid 19: "Asymptomatic Transmission"</p>
                   </div>
                 </div>
               </div>
@@ -624,23 +452,23 @@
               </div>
             </div>
           </div>
-          <!-- item 8 -->
+          <!-- item 17 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingEight">
+              <h2 class="accordion-header" id="flush-headingSeventeen">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseEight"
+                  data-bs-target="#flush-collapseSeventeen"
                   aria-expanded="false"
-                  aria-controls="flush-collapseEight"
+                  aria-controls="flush-collapseSeventeen"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        8. Truth About Covid-19 Vaccines, Effective Treatments
-                        And Mask Mandates, Dr Simone Gold<span
+                        17. Could These Covid Tests Be Bull Sh*t? Have We Been
+                        Scammed On A Global Scale?!<span
                           class="d-inline d-md-none"
                         >
                           📹</span
@@ -662,23 +490,105 @@
               </h2></a
             >
             <div
-              id="flush-collapseEight"
+              id="flush-collapseSeventeen"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingEight"
+              aria-labelledby="flush-headingSeventeen"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
                   <!-- thumbnail wrapped in a-tag or YouTube iframe -->
                   <div class="col-12 order-1 order-md-2 col-md-6">
-                    <a
-                      target="_blank"
-                      href="https://www.bitchute.com/video/AqpMg4eiLERf/"
+                    <div
+                      class="post-accordion-img rounded-properly mb-2 yt-covid-19-wrapper"
                     >
+                      <iframe
+                        class="yt-covid-19"
+                        src="https://youtube.com/embed/0pTPlKYsWUM"
+                      ></iframe>
+                    </div>
+                  </div>
+                  <!-- link button, reference and video/article title -->
+                  <div class="col-12 order-2 order-md-1 col-md-6">
+                    <div class="text-center p-2">
+                      <a
+                        target="_blank"
+                        href="https://www.youtube.com/watch?v=0pTPlKYsWUM"
+                      >
+                        <button class="btn btn-primary">Link To Video</button>
+                      </a>
+                    </div>
+
+                    <p id="small-text">
+                      An URGENT Message for Governors | David Rasnick, PhD |
+                      Outlaw PCR Tests & Pandemic is Done Tomorrow
+                    </p>
+
+                    <p id="small-text">
+                      YouTube video upload credit:
+                      <a
+                        target="_blank"
+                        href="https://www.youtube.com/channel/UCIYZx_G10zFGh_8BZBsTjvQ"
+                        >Thrivetime Show: Business School without the BS</a
+                      >
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- item 18 -->
+          <div class="accordion-item">
+            <a id="special-a-tag" class="" href="#accordionFlushExample">
+              <h2 class="accordion-header" id="flush-headingEighteen">
+                <button
+                  class="accordion-button collapsed text-capitalize"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#flush-collapseEighteen"
+                  aria-expanded="false"
+                  aria-controls="flush-collapseEighteen"
+                >
+                  <div class="container">
+                    <div class="row">
+                      <div class="col-12 col-md-8">
+                        18. Daystar provides plenty more videos of interviews
+                        with Medical doctors and experts on this matter<span
+                          class="d-inline d-md-none"
+                        >
+                          🖥</span
+                        >
+                      </div>
+                      <div class="col-12 col-md-2">
+                        <div class="tab-indent"></div>
+                        <span class="post-date"></span>
+                      </div>
+                      <div class="col-12 col-md-2">
+                        <div class="tab-indent"></div>
+                        <em class="post-type text-bold d-none d-md-inline"
+                          >Website</em
+                        >
+                      </div>
+                    </div>
+                  </div>
+                </button>
+              </h2></a
+            >
+            <div
+              id="flush-collapseEighteen"
+              class="accordion-collapse collapse"
+              aria-labelledby="flush-headingEighteen"
+              data-bs-parent="#accordionFlushExample"
+            >
+              <div class="accordion-body pl-3 pr-3">
+                <div class="row">
+                  <!-- thumbnail wrapped in a-tag or YouTube iframe -->
+                  <div class="col-12 order-1 order-md-2 col-md-6">
+                    <a target="_blank" href="https://covid.daystar.com/">
                       <img
-                        class=""
                         id="external-video-thumbnail"
-                        src="https://static-3.bitchute.com/live/cover_images/dvaOKrLSNfKC/AqpMg4eiLERf_640x360.jpg"
+                        class="post-accordion-img rounded-properly mb-2"
+                        src="https://covid.daystar.com/hubfs/Covid/Covid-crisis-daystar-television.jpg"
                         alt=""
                       />
                     </a>
@@ -686,22 +596,21 @@
                   <!-- link button, reference and video/article title -->
                   <div class="col-12 order-2 order-md-1 col-md-6">
                     <div class="text-center p-2">
-                      <a
-                        target="_blank"
-                        href="https://www.bitchute.com/video/AqpMg4eiLERf/"
-                      >
-                        <button class="btn btn-primary">Link To Video</button>
+                      <a target="_blank" href="https://covid.daystar.com/">
+                        <button class="btn btn-primary">Link To Website</button>
                       </a>
                     </div>
 
                     <p id="small-text">
-                      DR. SIMONE GOLD SHARES THE TRUTH ABOUT THE COVID-19
-                      VACCINES, EFFECTIVE TREATMENTS AND MASK MANDATES
+                      Website:
+                      <span class="font-weight-bolder">Daystar</span>
                     </p>
 
                     <p id="small-text">
-                      Video referenced from
-                      <span class="font-weight-bolder">bitchute.com</span>
+                      Daystar - A Christian channel. They have investigated this
+                      "pandemic" thoroughly by means of interviewing several
+                      medical doctors & experts on the matter. They have many
+                      video interviews on the subject with medical professionals
                     </p>
                   </div>
                 </div>
@@ -873,24 +782,26 @@
               </div>
             </div>
           </div>
-          <!-- item 10 -->
+          <!-- item 1 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingTen">
+              <h2 class="accordion-header" id="flush-headingOne">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseTen"
+                  data-bs-target="#flush-collapseOne"
                   aria-expanded="false"
-                  aria-controls="flush-collapseTen"
+                  aria-controls="flush-collapseOne"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        10. Tyranny And An Abuse Of Power - Pay Close Attention
-                        To The Measures Enforced By Our Global Leaders
-                        <span class="d-inline d-md-none"> 📹</span>
+                        1. Natural Remedies Banned For Treating Covid-19<span
+                          class="d-inline d-md-none"
+                        >
+                          📝</span
+                        >
                       </div>
                       <div class="col-12 col-md-2">
                         <div class="tab-indent"></div>
@@ -899,7 +810,7 @@
                       <div class="col-12 col-md-2">
                         <div class="tab-indent"></div>
                         <em class="post-type text-bold d-none d-md-inline"
-                          >Video</em
+                          >Article</em
                         >
                       </div>
                     </div>
@@ -908,45 +819,51 @@
               </h2></a
             >
             <div
-              id="flush-collapseTen"
+              id="flush-collapseOne"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingTen"
+              aria-labelledby="flush-headingOne"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
-                  <!-- thumbnail wrapped in a-tag or YouTube iframe -->
-
-                  <div class="col-12 order-1 order-md-2 col-md-6">
-                    <a
-                      target="_blank"
-                      href="https://onevsp.com/watch/mBKX9rRljaHqtT5"
-                    >
-                      <img
-                        class=""
-                        id="external-video-thumbnail"
-                        :src="noImage"
-                        alt=""
-                      />
-                    </a>
-                  </div>
-                  <!-- link button, reference and video/article title -->
                   <div class="col-12 order-2 order-md-1 col-md-6">
                     <div class="text-center p-2">
                       <a
                         target="_blank"
-                        href="https://onevsp.com/watch/mBKX9rRljaHqtT5"
+                        href="https://healthimpactnews.com/2021/covid-natural-remedies-banned-as-doj-and-ftc-seek-to-silence-doctors-promoting-vitamin-d-c-zinc-etc/"
                       >
-                        <button class="btn btn-primary">Link To Video</button>
+                        <button class="btn btn-primary">Link To Article</button>
                       </a>
                     </div>
 
-                    <p id="small-text">Abuse Of Power Global</p>
+                    <p id="small-text">
+                      Article referenced from
+                      <span class="font-weight-bolder"
+                        >HealthImpactNews.com</span
+                      >
+                      by
+                      <span class="font-weight-bolder"
+                        >Brian Shilhavy, Editor</span
+                      >.
+                    </p>
 
                     <p id="small-text">
-                      Video referenced from
-                      <span class="font-weight-bolder">onevsp.com</span>
+                      COVID Natural Remedies BANNED as DOJ and FTC Seek to
+                      Silence Doctors Promoting Vitamin D, C, Zinc, etc.
                     </p>
+                  </div>
+                  <div class="col-12 order-1 order-md-2 col-md-6">
+                    <a
+                      target="_blank"
+                      href="https://healthimpactnews.com/2021/covid-natural-remedies-banned-as-doj-and-ftc-seek-to-silence-doctors-promoting-vitamin-d-c-zinc-etc/"
+                    >
+                      <img
+                        id="external-video-thumbnail"
+                        class=""
+                        src="https://healthimpactnews.com/wp-content/uploads/sites/2/2021/04/COVID-natural-remedies-BANNED.jpg"
+                        alt=""
+                      />
+                    </a>
                   </div>
                 </div>
               </div>
@@ -1026,89 +943,6 @@
                     <p id="small-text">
                       Video referenced from
                       <span class="font-weight-bolder">bitchute.com</span>
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- item 12 -->
-          <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingTwelve">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseTwelve"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseTwelve"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        12. “The New Normal”: Covid-19 Documentary<span
-                          class="d-inline d-md-none"
-                        >
-                          📹</span
-                        >
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Video</em
-                        >
-                      </div>
-                    </div>
-                  </div>
-                </button>
-              </h2></a
-            >
-            <div
-              id="flush-collapseTwelve"
-              class="accordion-collapse collapse"
-              aria-labelledby="flush-headingTwelve"
-              data-bs-parent="#accordionFlushExample"
-            >
-              <div class="accordion-body pl-3 pr-3">
-                <div class="row">
-                  <!-- thumbnail wrapped in a-tag or YouTube iframe -->
-                  <div class="col-12 order-1 order-md-2 col-md-6">
-                    <a
-                      target="_blank"
-                      href="https://off-guardian.org/2021/01/21/watch-the-new-normal/"
-                    >
-                      <img
-                        class=""
-                        id="external-video-thumbnail"
-                        src="https://static-3.bitchute.com/live/cover_images/YZi8UowgteQo/ZXbOs1bfd66p_640x360.jpg"
-                        alt=""
-                      />
-                    </a>
-                  </div>
-                  <!-- link button, reference and video/article title -->
-                  <div class="col-12 order-2 order-md-1 col-md-6">
-                    <div class="text-center p-2">
-                      <!--OLD LINK: https://brandnewtube.com/watch/wake-up-call-covid-19-documentary-world-freedom-alliance-copenhagen-banned-from-youtube_W8lovFZazi8y2JP.html -->
-                      <a
-                        target="_blank"
-                        href="https://off-guardian.org/2021/01/21/watch-the-new-normal/"
-                      >
-                        <button class="btn btn-primary">Link To Video</button>
-                      </a>
-                    </div>
-
-                    <p id="small-text">
-                      “The New Normal” | Covid-19 Documentary
-                    </p>
-
-                    <p id="small-text">
-                      Video referenced from
-                      <span class="font-weight-bolder">off-guardian.org</span>
                     </p>
                   </div>
                 </div>
@@ -1277,23 +1111,27 @@
               </div>
             </div>
           </div>
-          <!-- item 14 -->
+
+          <!-- item 12 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingFourteen">
+              <h2 class="accordion-header" id="flush-headingTwelve">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseFourteen"
+                  data-bs-target="#flush-collapseTwelve"
                   aria-expanded="false"
-                  aria-controls="flush-collapseFourteen"
+                  aria-controls="flush-collapseTwelve"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        14. Charlie Kirk: Interviews Several Doctors Speaking
-                        Out<span class="d-inline d-md-none"> 📹</span>
+                        12. “The New Normal”: Covid-19 Documentary<span
+                          class="d-inline d-md-none"
+                        >
+                          📹</span
+                        >
                       </div>
                       <div class="col-12 col-md-2">
                         <div class="tab-indent"></div>
@@ -1302,7 +1140,7 @@
                       <div class="col-12 col-md-2">
                         <div class="tab-indent"></div>
                         <em class="post-type text-bold d-none d-md-inline"
-                          >Videos</em
+                          >Video</em
                         >
                       </div>
                     </div>
@@ -1311,94 +1149,53 @@
               </h2></a
             >
             <div
-              id="flush-collapseFourteen"
+              id="flush-collapseTwelve"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingFourteen"
+              aria-labelledby="flush-headingTwelve"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
                   <!-- thumbnail wrapped in a-tag or YouTube iframe -->
                   <div class="col-12 order-1 order-md-2 col-md-6">
-                    <div
-                      class="post-accordion-img rounded-properly mb-2 yt-covid-19-wrapper"
+                    <a
+                      target="_blank"
+                      href="https://off-guardian.org/2021/01/21/watch-the-new-normal/"
                     >
-                      <iframe
-                        class="yt-covid-19"
-                        src="https://youtube.com/embed/Amp4mbm2UIA"
-                      ></iframe>
-                    </div>
+                      <img
+                        class=""
+                        id="external-video-thumbnail"
+                        src="https://static-3.bitchute.com/live/cover_images/YZi8UowgteQo/ZXbOs1bfd66p_640x360.jpg"
+                        alt=""
+                      />
+                    </a>
                   </div>
                   <!-- link button, reference and video/article title -->
                   <div class="col-12 order-2 order-md-1 col-md-6">
                     <div class="text-center p-2">
+                      <!--OLD LINK: https://brandnewtube.com/watch/wake-up-call-covid-19-documentary-world-freedom-alliance-copenhagen-banned-from-youtube_W8lovFZazi8y2JP.html -->
                       <a
                         target="_blank"
-                        href="https://www.youtube.com/watch?v=Amp4mbm2UIA"
+                        href="https://off-guardian.org/2021/01/21/watch-the-new-normal/"
                       >
                         <button class="btn btn-primary">Link To Video</button>
                       </a>
                     </div>
 
                     <p id="small-text">
-                      The Charlie Kirk Show: 3 Doctors Speak Out — The Update
-                      You Have Been Waiting For
+                      “The New Normal” | Covid-19 Documentary
                     </p>
 
                     <p id="small-text">
-                      YouTube video upload credit:
-                      <a
-                        target="_blank"
-                        href="https://www.youtube.com/channel/UCfaIu2jO-fppCQV_lchCRIQ"
-                        >Charlie Kirk</a
-                      >
+                      Video referenced from
+                      <span class="font-weight-bolder">off-guardian.org</span>
                     </p>
                   </div>
                 </div>
-
-                <hr />
-                <div class="row">
-                  <!-- thumbnail wrapped in a-tag or YouTube iframe -->
-                  <div class="col-12 col-md-6">
-                    <div
-                      class="post-accordion-img rounded-properly mb-2 yt-covid-19-wrapper"
-                    >
-                      <iframe
-                        class="yt-covid-19"
-                        src="https://youtube.com/embed/nn2P4-cK_K8"
-                      ></iframe>
-                    </div>
-                  </div>
-
-                  <!-- link button, reference and video/article title -->
-                  <div class="col-12 col-md-6">
-                    <div class="text-center p-2">
-                      <a
-                        target="_blank"
-                        href="https://www.youtube.com/watch?v=nn2P4-cK_K8"
-                      >
-                        <button class="btn btn-primary">Link To Video</button>
-                      </a>
-                    </div>
-
-                    <p id="small-text">
-                      The Charlie Kirk Show: Nine Doctors Speak Out.
-                    </p>
-
-                    <p id="small-text">
-                      YouTube video upload credit:
-                      <a
-                        target="_blank"
-                        href="https://www.youtube.com/channel/UCfaIu2jO-fppCQV_lchCRIQ"
-                        >Charlie Kirk</a
-                      >
-                    </p>
-                  </div>
-                </div>
-                <hr />
               </div>
             </div>
           </div>
+
           <!-- item 15 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
@@ -1609,6 +1406,128 @@
               </div>
             </div>
           </div>
+          <!-- item 14 -->
+          <div class="accordion-item">
+            <a id="special-a-tag" class="" href="#accordionFlushExample">
+              <h2 class="accordion-header" id="flush-headingFourteen">
+                <button
+                  class="accordion-button collapsed text-capitalize"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#flush-collapseFourteen"
+                  aria-expanded="false"
+                  aria-controls="flush-collapseFourteen"
+                >
+                  <div class="container">
+                    <div class="row">
+                      <div class="col-12 col-md-8">
+                        14. Charlie Kirk: Interviews Several Doctors Speaking
+                        Out<span class="d-inline d-md-none"> 📹</span>
+                      </div>
+                      <div class="col-12 col-md-2">
+                        <div class="tab-indent"></div>
+                        <span class="post-date"></span>
+                      </div>
+                      <div class="col-12 col-md-2">
+                        <div class="tab-indent"></div>
+                        <em class="post-type text-bold d-none d-md-inline"
+                          >Videos</em
+                        >
+                      </div>
+                    </div>
+                  </div>
+                </button>
+              </h2></a
+            >
+            <div
+              id="flush-collapseFourteen"
+              class="accordion-collapse collapse"
+              aria-labelledby="flush-headingFourteen"
+              data-bs-parent="#accordionFlushExample"
+            >
+              <div class="accordion-body pl-3 pr-3">
+                <div class="row">
+                  <!-- thumbnail wrapped in a-tag or YouTube iframe -->
+                  <div class="col-12 order-1 order-md-2 col-md-6">
+                    <div
+                      class="post-accordion-img rounded-properly mb-2 yt-covid-19-wrapper"
+                    >
+                      <iframe
+                        class="yt-covid-19"
+                        src="https://youtube.com/embed/Amp4mbm2UIA"
+                      ></iframe>
+                    </div>
+                  </div>
+                  <!-- link button, reference and video/article title -->
+                  <div class="col-12 order-2 order-md-1 col-md-6">
+                    <div class="text-center p-2">
+                      <a
+                        target="_blank"
+                        href="https://www.youtube.com/watch?v=Amp4mbm2UIA"
+                      >
+                        <button class="btn btn-primary">Link To Video</button>
+                      </a>
+                    </div>
+
+                    <p id="small-text">
+                      The Charlie Kirk Show: 3 Doctors Speak Out — The Update
+                      You Have Been Waiting For
+                    </p>
+
+                    <p id="small-text">
+                      YouTube video upload credit:
+                      <a
+                        target="_blank"
+                        href="https://www.youtube.com/channel/UCfaIu2jO-fppCQV_lchCRIQ"
+                        >Charlie Kirk</a
+                      >
+                    </p>
+                  </div>
+                </div>
+
+                <hr />
+                <div class="row">
+                  <!-- thumbnail wrapped in a-tag or YouTube iframe -->
+                  <div class="col-12 col-md-6">
+                    <div
+                      class="post-accordion-img rounded-properly mb-2 yt-covid-19-wrapper"
+                    >
+                      <iframe
+                        class="yt-covid-19"
+                        src="https://youtube.com/embed/nn2P4-cK_K8"
+                      ></iframe>
+                    </div>
+                  </div>
+
+                  <!-- link button, reference and video/article title -->
+                  <div class="col-12 col-md-6">
+                    <div class="text-center p-2">
+                      <a
+                        target="_blank"
+                        href="https://www.youtube.com/watch?v=nn2P4-cK_K8"
+                      >
+                        <button class="btn btn-primary">Link To Video</button>
+                      </a>
+                    </div>
+
+                    <p id="small-text">
+                      The Charlie Kirk Show: Nine Doctors Speak Out.
+                    </p>
+
+                    <p id="small-text">
+                      YouTube video upload credit:
+                      <a
+                        target="_blank"
+                        href="https://www.youtube.com/channel/UCfaIu2jO-fppCQV_lchCRIQ"
+                        >Charlie Kirk</a
+                      >
+                    </p>
+                  </div>
+                </div>
+                <hr />
+              </div>
+            </div>
+          </div>
           <!-- item 16 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
@@ -1689,23 +1608,102 @@
               </div>
             </div>
           </div>
-          <!-- item 17 -->
+          <!-- item 10 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingSeventeen">
+              <h2 class="accordion-header" id="flush-headingTen">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseSeventeen"
+                  data-bs-target="#flush-collapseTen"
                   aria-expanded="false"
-                  aria-controls="flush-collapseSeventeen"
+                  aria-controls="flush-collapseTen"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        17. Could These Covid Tests Be Bull Sh*t? Have We Been
-                        Scammed On A Global Scale?!<span
+                        10. Tyranny And An Abuse Of Power - Pay Close Attention
+                        To The Measures Enforced By Our Global Leaders
+                        <span class="d-inline d-md-none"> 📹</span>
+                      </div>
+                      <div class="col-12 col-md-2">
+                        <div class="tab-indent"></div>
+                        <span class="post-date"></span>
+                      </div>
+                      <div class="col-12 col-md-2">
+                        <div class="tab-indent"></div>
+                        <em class="post-type text-bold d-none d-md-inline"
+                          >Video</em
+                        >
+                      </div>
+                    </div>
+                  </div>
+                </button>
+              </h2></a
+            >
+            <div
+              id="flush-collapseTen"
+              class="accordion-collapse collapse"
+              aria-labelledby="flush-headingTen"
+              data-bs-parent="#accordionFlushExample"
+            >
+              <div class="accordion-body pl-3 pr-3">
+                <div class="row">
+                  <!-- thumbnail wrapped in a-tag or YouTube iframe -->
+
+                  <div class="col-12 order-1 order-md-2 col-md-6">
+                    <a
+                      target="_blank"
+                      href="https://onevsp.com/watch/mBKX9rRljaHqtT5"
+                    >
+                      <img
+                        class=""
+                        id="external-video-thumbnail"
+                        :src="noImage"
+                        alt=""
+                      />
+                    </a>
+                  </div>
+                  <!-- link button, reference and video/article title -->
+                  <div class="col-12 order-2 order-md-1 col-md-6">
+                    <div class="text-center p-2">
+                      <a
+                        target="_blank"
+                        href="https://onevsp.com/watch/mBKX9rRljaHqtT5"
+                      >
+                        <button class="btn btn-primary">Link To Video</button>
+                      </a>
+                    </div>
+
+                    <p id="small-text">Abuse Of Power Global</p>
+
+                    <p id="small-text">
+                      Video referenced from
+                      <span class="font-weight-bolder">onevsp.com</span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- item 3 -->
+          <div class="accordion-item">
+            <a id="special-a-tag" class="" href="#accordionFlushExample">
+              <h2 class="accordion-header" id="flush-headingThree">
+                <button
+                  class="accordion-button collapsed text-capitalize"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#flush-collapseThree"
+                  aria-expanded="false"
+                  aria-controls="flush-collapseThree"
+                >
+                  <div class="container">
+                    <div class="row">
+                      <div class="col-12 col-md-8">
+                        3. Dr John Lee, prof of pathology UK: Gives a
+                        professional take on this whole Covid narrative<span
                           class="d-inline d-md-none"
                         >
                           📹</span
@@ -1727,9 +1725,9 @@
               </h2></a
             >
             <div
-              id="flush-collapseSeventeen"
+              id="flush-collapseThree"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingSeventeen"
+              aria-labelledby="flush-headingThree"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
@@ -1741,7 +1739,7 @@
                     >
                       <iframe
                         class="yt-covid-19"
-                        src="https://youtube.com/embed/0pTPlKYsWUM"
+                        src="https://youtube.com/embed/btWfAXQ8wYg"
                       ></iframe>
                     </div>
                   </div>
@@ -1750,23 +1748,23 @@
                     <div class="text-center p-2">
                       <a
                         target="_blank"
-                        href="https://www.youtube.com/watch?v=0pTPlKYsWUM"
+                        href="https://www.youtube.com/watch?v=btWfAXQ8wYg"
                       >
                         <button class="btn btn-primary">Link To Video</button>
                       </a>
                     </div>
 
                     <p id="small-text">
-                      An URGENT Message for Governors | David Rasnick, PhD |
-                      Outlaw PCR Tests & Pandemic is Done Tomorrow
+                      BRILLIANT: Dr. John Lee, Prof of Pathology UK - Unlocked
+                      Documentary!
                     </p>
 
                     <p id="small-text">
                       YouTube video upload credit:
                       <a
                         target="_blank"
-                        href="https://www.youtube.com/channel/UCIYZx_G10zFGh_8BZBsTjvQ"
-                        >Thrivetime Show: Business School without the BS</a
+                        href="https://www.youtube.com/channel/UCPn4FsiQP15nudug9FDhluA"
+                        >Ivor Cummins</a
                       >
                     </p>
                   </div>
@@ -1774,26 +1772,30 @@
               </div>
             </div>
           </div>
-          <!-- item 18 -->
+          <!-- item 4 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingEighteen">
+              <h2 class="accordion-header" id="flush-headingFour">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseEighteen"
+                  data-bs-target="#flush-collapseFour"
                   aria-expanded="false"
-                  aria-controls="flush-collapseEighteen"
+                  aria-controls="flush-collapseFour"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        18. Daystar provides plenty more videos of interviews
-                        with Medical doctors and experts on this matter<span
+                        4. Covid vaccines 52 times more fatal than all other
+                        vaccines: (update: video removed/censored) - please
+                        contact me if you have a copy or another link to this
+                        video. It was a deep dive analysis of the VAERS data
+                        comparing vaccine adverse injuries of all vaccines put
+                        together vs the new Covid-19 vaccines<span
                           class="d-inline d-md-none"
                         >
-                          🖥</span
+                          📹</span
                         >
                       </div>
                       <div class="col-12 col-md-2">
@@ -1803,7 +1805,7 @@
                       <div class="col-12 col-md-2">
                         <div class="tab-indent"></div>
                         <em class="post-type text-bold d-none d-md-inline"
-                          >Website</em
+                          >Video</em
                         >
                       </div>
                     </div>
@@ -1812,42 +1814,46 @@
               </h2></a
             >
             <div
-              id="flush-collapseEighteen"
+              id="flush-collapseFour"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingEighteen"
+              aria-labelledby="flush-headingFour"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
                   <!-- thumbnail wrapped in a-tag or YouTube iframe -->
                   <div class="col-12 order-1 order-md-2 col-md-6">
-                    <a target="_blank" href="https://covid.daystar.com/">
-                      <img
-                        id="external-video-thumbnail"
-                        class="post-accordion-img rounded-properly mb-2"
-                        src="https://covid.daystar.com/hubfs/Covid/Covid-crisis-daystar-television.jpg"
-                        alt=""
-                      />
-                    </a>
+                    <div
+                      class="post-accordion-img rounded-properly mb-2 yt-covid-19-wrapper"
+                    >
+                      <iframe
+                        class="yt-covid-19"
+                        src="https://youtube.com/embed/sHgOclS94b4"
+                      ></iframe>
+                    </div>
                   </div>
                   <!-- link button, reference and video/article title -->
                   <div class="col-12 order-2 order-md-1 col-md-6">
                     <div class="text-center p-2">
-                      <a target="_blank" href="https://covid.daystar.com/">
-                        <button class="btn btn-primary">Link To Website</button>
+                      <a
+                        target="_blank"
+                        href="https://www.youtube.com/watch?v=sHgOclS94b4"
+                      >
+                        <button class="btn btn-primary">Link To Video</button>
                       </a>
                     </div>
 
                     <p id="small-text">
-                      Website:
-                      <span class="font-weight-bolder">Daystar</span>
+                      Walkthrough : Calculating Covid Vaccine Risk
                     </p>
 
                     <p id="small-text">
-                      Daystar - A Christian channel. They have investigated this
-                      "pandemic" thoroughly by means of interviewing several
-                      medical doctors & experts on the matter. They have many
-                      video interviews on the subject with medical professionals
+                      YouTube video upload credit:
+                      <a
+                        target="_blank"
+                        href="https://www.youtube.com/channel/UCmFDE8P6_M-C4HTOuWwm4Dg"
+                        >Peerless Reads</a
+                      >
                     </p>
                   </div>
                 </div>
