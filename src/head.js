@@ -99,7 +99,7 @@ export default {
       crossorigin: "anonymous",
     },
     {
-      href: "./src/assets/css/motivation.min.css",
+      href: "./src/assets/motivation.min.css",
       rel: "stylesheet",
     },
   ],
