@@ -39,22 +39,22 @@
           <h4>Resources:</h4>
         </div>
         <div class="accordion accordion-flush mb-5" id="accordionFlushExample">
-          <!-- item 8 -->
+          <!-- item 1 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingEight">
+              <h2 class="accordion-header" id="flush-headingOne">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseEight"
+                  data-bs-target="#flush-collapseOne"
                   aria-expanded="false"
-                  aria-controls="flush-collapseEight"
+                  aria-controls="flush-collapseOne"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        8. Truth About Covid-19 Vaccines, Effective Treatments
+                        1. Truth About Covid-19 Vaccines, Effective Treatments
                         And Mask Mandates, Dr Simone Gold<span
                           class="d-inline d-md-none"
                         >
@@ -77,9 +77,9 @@
               </h2></a
             >
             <div
-              id="flush-collapseEight"
+              id="flush-collapseOne"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingEight"
+              aria-labelledby="flush-headingOne"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
@@ -123,22 +123,22 @@
               </div>
             </div>
           </div>
-          <!-- item 5 -->
+          <!-- item 2 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingFive">
+              <h2 class="accordion-header" id="flush-headingTwo">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseFive"
+                  data-bs-target="#flush-collapseTwo"
                   aria-expanded="false"
-                  aria-controls="flush-collapseFive"
+                  aria-controls="flush-collapseTwo"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        5. Myths of the mask - Dr Lee Merrett, MD<span
+                        2. Myths of the mask - Dr Lee Merrett, MD<span
                           class="d-inline d-md-none"
                         >
                           📹</span
@@ -160,9 +160,9 @@
               </h2></a
             >
             <div
-              id="flush-collapseFive"
+              id="flush-collapseTwo"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingFive"
+              aria-labelledby="flush-headingTwo"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
@@ -207,22 +207,22 @@
               </div>
             </div>
           </div>
-          <!-- item 2 -->
+          <!-- item 3 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingTwo">
+              <h2 class="accordion-header" id="flush-headingThree">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseTwo"
+                  data-bs-target="#flush-collapseThree"
                   aria-expanded="false"
-                  aria-controls="flush-collapseTwo"
+                  aria-controls="flush-collapseThree"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        2. The myth of asymptomatic transmission<span
+                        3. The myth of asymptomatic transmission<span
                           class="d-inline d-md-none"
                         >
                           📹</span
@@ -244,9 +244,9 @@
               </h2></a
             >
             <div
-              id="flush-collapseTwo"
+              id="flush-collapseThree"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingTwo"
+              aria-labelledby="flush-headingThree"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
@@ -260,7 +260,7 @@
                       <img
                         id="external-video-thumbnail"
                         class=""
-                        src="https://cards.odycdn.com/aHR0cHM6Ly9zcGVlLmNoL2IvZGJiMmY3Yjg1ZDZjMzI1ZC5qcGc=.jpg"
+                        src="https://thumbnails.odycdn.com/card/s:1280:0/quality:85/plain/https%3A%2F%2Fplayer.odycdn.com%2Fspeech%2Fdbb2f7b85d6c325d%3Ab.jpgg"
                         alt=""
                       />
                     </a>
@@ -289,22 +289,22 @@
               </div>
             </div>
           </div>
-          <!-- item 6 -->
+          <!-- item 4 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingSix">
+              <h2 class="accordion-header" id="flush-headingFour">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseSix"
+                  data-bs-target="#flush-collapseFour"
                   aria-expanded="false"
-                  aria-controls="flush-collapseSix"
+                  aria-controls="flush-collapseFour"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        6. Coronavirus Politics<span class="d-inline d-md-none">
+                        4. Coronavirus Politics<span class="d-inline d-md-none">
                           📹</span
                         >
                       </div>
@@ -324,9 +324,9 @@
               </h2></a
             >
             <div
-              id="flush-collapseSix"
+              id="flush-collapseFour"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingSix"
+              aria-labelledby="flush-headingFour"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
@@ -370,22 +370,22 @@
               </div>
             </div>
           </div>
-          <!-- item 7 -->
+          <!-- item 5 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingSeven">
+              <h2 class="accordion-header" id="flush-headingFive">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseSeven"
+                  data-bs-target="#flush-collapseFive"
                   aria-expanded="false"
-                  aria-controls="flush-collapseSeven"
+                  aria-controls="flush-collapseFive"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        7. Covid-19 medical fraud<span
+                        5. Covid-19 medical fraud<span
                           class="d-inline d-md-none"
                         >
                           📹</span
@@ -407,9 +407,9 @@
               </h2></a
             >
             <div
-              id="flush-collapseSeven"
+              id="flush-collapseFive"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingSeven"
+              aria-labelledby="flush-headingFive"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
@@ -452,22 +452,22 @@
               </div>
             </div>
           </div>
-          <!-- item 17 -->
+          <!-- item 6 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingSeventeen">
+              <h2 class="accordion-header" id="flush-headingSix">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseSeventeen"
+                  data-bs-target="#flush-collapseSix"
                   aria-expanded="false"
-                  aria-controls="flush-collapseSeventeen"
+                  aria-controls="flush-collapseSix"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        17. Could These Covid Tests Be Bull Sh*t? Have We Been
+                        6. Could These Covid Tests Be Bull Sh*t? Have We Been
                         Scammed On A Global Scale?!<span
                           class="d-inline d-md-none"
                         >
@@ -490,9 +490,9 @@
               </h2></a
             >
             <div
-              id="flush-collapseSeventeen"
+              id="flush-collapseSix"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingSeventeen"
+              aria-labelledby="flush-headingSix"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
@@ -537,22 +537,22 @@
               </div>
             </div>
           </div>
-          <!-- item 18 -->
+          <!-- item 7 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingEighteen">
+              <h2 class="accordion-header" id="flush-headingSeven">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseEighteen"
+                  data-bs-target="#flush-collapseSeven"
                   aria-expanded="false"
-                  aria-controls="flush-collapseEighteen"
+                  aria-controls="flush-collapseSeven"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        18. Daystar provides plenty more videos of interviews
+                        7. Daystar provides plenty more videos of interviews
                         with Medical doctors and experts on this matter<span
                           class="d-inline d-md-none"
                         >
@@ -575,9 +575,9 @@
               </h2></a
             >
             <div
-              id="flush-collapseEighteen"
+              id="flush-collapseSeven"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingEighteen"
+              aria-labelledby="flush-headingSeven"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
@@ -617,22 +617,22 @@
               </div>
             </div>
           </div>
-          <!-- item 9 -->
+          <!-- item 8 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingNine">
+              <h2 class="accordion-header" id="flush-headingEight">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseNine"
+                  data-bs-target="#flush-collapseEight"
                   aria-expanded="false"
-                  aria-controls="flush-collapseNine"
+                  aria-controls="flush-collapseEight"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        9. Ivermectin - An Affordable and Effective treatment
+                        8. Ivermectin - An Affordable and Effective treatment
                         For Covid-19<span class="d-inline d-md-none"> 📹</span>
                       </div>
                       <div class="col-12 col-md-2">
@@ -651,9 +651,9 @@
               </h2></a
             >
             <div
-              id="flush-collapseNine"
+              id="flush-collapseEight"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingNine"
+              aria-labelledby="flush-headingEight"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
@@ -782,22 +782,22 @@
               </div>
             </div>
           </div>
-          <!-- item 1 -->
+          <!-- item 9 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingOne">
+              <h2 class="accordion-header" id="flush-headingNine">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseOne"
+                  data-bs-target="#flush-collapseNine"
                   aria-expanded="false"
-                  aria-controls="flush-collapseOne"
+                  aria-controls="flush-collapseNine"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        1. Natural Remedies Banned For Treating Covid-19<span
+                        9. Natural Remedies Banned For Treating Covid-19<span
                           class="d-inline d-md-none"
                         >
                           📝</span
@@ -819,9 +819,9 @@
               </h2></a
             >
             <div
-              id="flush-collapseOne"
+              id="flush-collapseNine"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingOne"
+              aria-labelledby="flush-headingNine"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
@@ -869,22 +869,22 @@
               </div>
             </div>
           </div>
-          <!-- item 11 -->
+          <!-- item 10 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingEleven">
+              <h2 class="accordion-header" id="flush-headingTen">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseEleven"
+                  data-bs-target="#flush-collapseTen"
                   aria-expanded="false"
-                  aria-controls="flush-collapseEleven"
+                  aria-controls="flush-collapseTen"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        11. Dr Scott Jensen explains Covid-19 case
+                        10. Dr Scott Jensen explains Covid-19 case
                         inflation<span class="d-inline d-md-none"> 📹</span>
                       </div>
                       <div class="col-12 col-md-2">
@@ -903,9 +903,9 @@
               </h2></a
             >
             <div
-              id="flush-collapseEleven"
+              id="flush-collapseTen"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingEleven"
+              aria-labelledby="flush-headingTen"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
@@ -949,22 +949,22 @@
               </div>
             </div>
           </div>
-          <!-- item 13 -->
+          <!-- item 11 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingThirteen">
+              <h2 class="accordion-header" id="flush-headingEleven">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseThirteen"
+                  data-bs-target="#flush-collapseEleven"
                   aria-expanded="false"
-                  aria-controls="flush-collapseThirteen"
+                  aria-controls="flush-collapseEleven"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        13. World Freedom Alliance Interview<span
+                        11. World Freedom Alliance Interview<span
                           class="d-inline d-md-none"
                         >
                           📹</span
@@ -986,9 +986,9 @@
               </h2></a
             >
             <div
-              id="flush-collapseThirteen"
+              id="flush-collapseEleven"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingThirteen"
+              aria-labelledby="flush-headingEleven"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
@@ -1196,22 +1196,22 @@
             </div>
           </div>
 
-          <!-- item 15 -->
+          <!-- item 13 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingFifteen">
+              <h2 class="accordion-header" id="flush-headingThirteen">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseFifteen"
+                  data-bs-target="#flush-collapseThirteen"
                   aria-expanded="false"
-                  aria-controls="flush-collapseFifteen"
+                  aria-controls="flush-collapseThirteen"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        15. Prepare For Change: Articles with evidence<span
+                        13. Prepare For Change: Articles with evidence<span
                           class="d-inline d-md-none"
                         >
                           📝</span
@@ -1233,9 +1233,9 @@
               </h2></a
             >
             <div
-              id="flush-collapseFifteen"
+              id="flush-collapseThirteen"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingFifteen"
+              aria-labelledby="flush-headingThirteen"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
@@ -1528,22 +1528,22 @@
               </div>
             </div>
           </div>
-          <!-- item 16 -->
+          <!-- item 15 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingSixteen">
+              <h2 class="accordion-header" id="flush-headingFifteen">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseSixteen"
+                  data-bs-target="#flush-collapseFifteen"
                   aria-expanded="false"
-                  aria-controls="flush-collapseSixteen"
+                  aria-controls="flush-collapseFifteen"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        16. In 2010, Bill Gates Openly Says That We Can Reduce
+                        15. In 2010, Bill Gates Openly Says That We Can Reduce
                         The Population With Vaccines: Is This A Depopulation
                         Agenda? They want to reduce CO2 emissions by reducing
                         humanity<span class="d-inline d-md-none"> 📹</span>
@@ -1564,9 +1564,9 @@
               </h2></a
             >
             <div
-              id="flush-collapseSixteen"
+              id="flush-collapseFifteen"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingSixteen"
+              aria-labelledby="flush-headingFifteen"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
@@ -1608,22 +1608,22 @@
               </div>
             </div>
           </div>
-          <!-- item 10 -->
+          <!-- item 16 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingTen">
+              <h2 class="accordion-header" id="flush-headingSixteen">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseTen"
+                  data-bs-target="#flush-collapseSixteen"
                   aria-expanded="false"
-                  aria-controls="flush-collapseTen"
+                  aria-controls="flush-collapseSixteen"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        10. Tyranny And An Abuse Of Power - Pay Close Attention
+                        16. Tyranny And An Abuse Of Power - Pay Close Attention
                         To The Measures Enforced By Our Global Leaders
                         <span class="d-inline d-md-none"> 📹</span>
                       </div>
@@ -1643,9 +1643,9 @@
               </h2></a
             >
             <div
-              id="flush-collapseTen"
+              id="flush-collapseSixteen"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingTen"
+              aria-labelledby="flush-headingSixteen"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
@@ -1687,22 +1687,22 @@
               </div>
             </div>
           </div>
-          <!-- item 3 -->
+          <!-- item 17 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingThree">
+              <h2 class="accordion-header" id="flush-headingSeventeen">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseThree"
+                  data-bs-target="#flush-collapseSeventeen"
                   aria-expanded="false"
-                  aria-controls="flush-collapseThree"
+                  aria-controls="flush-collapseSeventeen"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        3. Dr John Lee, prof of pathology UK: Gives a
+                        17. Dr John Lee, prof of pathology UK: Gives a
                         professional take on this whole Covid narrative<span
                           class="d-inline d-md-none"
                         >
@@ -1725,9 +1725,9 @@
               </h2></a
             >
             <div
-              id="flush-collapseThree"
+              id="flush-collapseSeventeen"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingThree"
+              aria-labelledby="flush-headingSeventeen"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
@@ -1772,22 +1772,22 @@
               </div>
             </div>
           </div>
-          <!-- item 4 -->
+          <!-- item 18 -->
           <div class="accordion-item">
             <a id="special-a-tag" class="" href="#accordionFlushExample">
-              <h2 class="accordion-header" id="flush-headingFour">
+              <h2 class="accordion-header" id="flush-headingEighteen">
                 <button
                   class="accordion-button collapsed text-capitalize"
                   type="button"
                   data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseFour"
+                  data-bs-target="#flush-collapseEighteen"
                   aria-expanded="false"
-                  aria-controls="flush-collapseFour"
+                  aria-controls="flush-collapseEighteen"
                 >
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        4. Covid vaccines 52 times more fatal than all other
+                        18. Covid vaccines 52 times more fatal than all other
                         vaccines: (update: video removed/censored) - please
                         contact me if you have a copy or another link to this
                         video. It was a deep dive analysis of the VAERS data
@@ -1814,9 +1814,9 @@
               </h2></a
             >
             <div
-              id="flush-collapseFour"
+              id="flush-collapseEighteen"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingFour"
+              aria-labelledby="flush-headingEighteen"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body pl-3 pr-3">
