@@ -36,11 +36,12 @@
 <!-- Test contact form -->
 <!-- handle contact form -> prevent default -->
 <!-- remove unused scripts and packages -->
+<!-- fix broken broken/old links and thumbnails -->
+<!-- publish vue version on think-write-grow.com -->
 
 <!-- TODOs first steps -->
 <!-- ------------------------------------------------------ -->
-<!-- fix broken broken/old links and thumbnails -->
-<!-- publish vue version on think-write-grow.com -->
+<!-- test think-write-grow when the vue version is live -->
 
 <!-- TODOs next steps (less important but would be nice) -->
 <!-- ------------------------------------------------------ -->
