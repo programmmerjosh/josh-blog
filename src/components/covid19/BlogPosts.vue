@@ -1403,6 +1403,91 @@
                     </p>
                   </div>
                 </div>
+
+                <hr />
+                <div class="row">
+                  <!-- thumbnail wrapped in a-tag or YouTube iframe -->
+                  <div class="col-12 order-1 order-md-2 col-md-6">
+                    <a
+                      target="_blank"
+                      href="https://prepareforchange.net/2021/08/03/cdc-to-withdraw-emergency-use-authorization-for-rt-pcr-test/"
+                    >
+                      <img
+                        class=""
+                        id="external-video-thumbnail"
+                        src="https://prepareforchange.net/wp-content/uploads/2021/07/Fraud.png"
+                        alt=""
+                      />
+                    </a>
+                  </div>
+                  <!-- link button, reference and video/article title -->
+                  <div class="col-12 order-2 order-md-1 col-md-6">
+                    <div class="text-center p-2">
+                      <a
+                        target="_blank"
+                        href="https://prepareforchange.net/2021/08/03/cdc-to-withdraw-emergency-use-authorization-for-rt-pcr-test/"
+                      >
+                        <button class="btn btn-primary">Link To Article</button>
+                      </a>
+                    </div>
+
+                    <p id="small-text">
+                      CDC to withdraw emergency use authorization for RT PCR
+                      Test
+                    </p>
+                    <p id="small-text">
+                      Article referenced from
+                      <span class="font-weight-bolder"
+                        >PrepareForChange.net</span
+                      >
+                      by
+                      <span class="font-weight-bolder">Edward Morgan</span>.
+                    </p>
+                  </div>
+                </div>
+
+                <hr />
+                <div class="row">
+                  <!-- thumbnail wrapped in a-tag or YouTube iframe -->
+                  <div class="col-12 col-md-6">
+                    <a
+                      target="_blank"
+                      href="https://prepareforchange.net/2020/12/04/msm-deathly-silent-as-pcr-test-legally-ruled-useless-to-test-for-covid/"
+                    >
+                      <img
+                        id="external-video-thumbnail"
+                        class="post-accordion-img rounded-properly mb-2"
+                        src="https://prepareforchange.net/wp-content/uploads/2020/12/COVID-test.jpg"
+                        alt=""
+                      />
+                    </a>
+                  </div>
+                  <!-- link button, reference and video/article title -->
+                  <div class="col-12 col-md-6">
+                    <div class="text-center p-2">
+                      <a
+                        target="_blank"
+                        href="https://prepareforchange.net/2020/12/04/msm-deathly-silent-as-pcr-test-legally-ruled-useless-to-test-for-covid/"
+                      >
+                        <button class="btn btn-primary">Link To Article</button>
+                      </a>
+                    </div>
+
+                    <p id="small-text">
+                      MSM deathly silent as PCR test legally ruled useless to
+                      test for Covid
+                    </p>
+
+                    <p id="small-text">
+                      Article referenced from
+                      <span class="font-weight-bolder"
+                        >PrepareForChange.net</span
+                      >
+                      by
+                      <span class="font-weight-bolder">Edward Morgan</span>.
+                    </p>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -1702,12 +1787,8 @@
                   <div class="container">
                     <div class="row">
                       <div class="col-12 col-md-8">
-                        17. Dr John Lee, prof of pathology UK: Gives a
-                        professional take on this whole Covid narrative<span
-                          class="d-inline d-md-none"
-                        >
-                          📹</span
-                        >
+                        17. Dr John Cambell on the "boosters for all" Narrative
+                        <span class="d-inline d-md-none"> 📹</span>
                       </div>
                       <div class="col-12 col-md-2">
                         <div class="tab-indent"></div>
@@ -1739,7 +1820,7 @@
                     >
                       <iframe
                         class="yt-covid-19"
-                        src="https://youtube.com/embed/btWfAXQ8wYg"
+                        src="https://www.youtube.com/embed/xXUQqghzPB0?si=sJ3VV2OhmzBZ-Ky5"
                       ></iframe>
                     </div>
                   </div>
@@ -1748,23 +1829,23 @@
                     <div class="text-center p-2">
                       <a
                         target="_blank"
-                        href="https://www.youtube.com/watch?v=btWfAXQ8wYg"
+                        href="https://www.youtube.com/embed/xXUQqghzPB0?si=sJ3VV2OhmzBZ-Ky5"
                       >
                         <button class="btn btn-primary">Link To Video</button>
                       </a>
                     </div>
 
                     <p id="small-text">
-                      BRILLIANT: Dr. John Lee, Prof of Pathology UK - Unlocked
-                      Documentary!
+                      Dr. John Campbell speaks about the vaccine agenda for
+                      young people which makes absolutley no sense at all.
                     </p>
 
                     <p id="small-text">
                       YouTube video upload credit:
                       <a
                         target="_blank"
-                        href="https://www.youtube.com/channel/UCPn4FsiQP15nudug9FDhluA"
-                        >Ivor Cummins</a
+                        href="https://www.youtube.com/@Campbellteaching"
+                        >Dr. John Campbell</a
                       >
                     </p>
                   </div>
