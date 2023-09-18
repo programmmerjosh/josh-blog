@@ -49,3 +49,8 @@ But it's still recommended to test the production build with `test:e2e` before d
 npm run build
 npm run test:e2e
 ```
+
+Additional notes for the published build directory:
+
+1. motivation.min.css didn't get sent over in the dist directory with the 'npm run build' command.
+2. The images referenced in motivation.min.css did not get sent over either in the 'npm run build' command.
