@@ -157,7 +157,7 @@
                 <!-- edit tab placement of post here -->
 
                 <div id="resources-textbox" class="rounded-white-text-box">
-                  <h4>Resources:</h4>
+                  <h4>Appendixes/Attachment-resources:</h4>
                 </div>
                 <div
                   class="accordion accordion-flush"
@@ -1799,9 +1799,7 @@
               <div class="rounded-white-text-box">
                 <p class="mb-0">
                   Feel free to
-                  <a href="" data-toggle="modal" data-target="#contact-modal"
-                    >let me know</a
-                  >
+                  <a href="#contact">let me know</a>
                   what you think of these topics and whether there's one you'd
                   particularly prefer to be discussed first.
                 </p>
