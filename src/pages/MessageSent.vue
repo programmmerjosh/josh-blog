@@ -23,7 +23,7 @@
     :showCovid19="false"
   />
   <MessageUser>
-    Thanks for subscribing to receive updates! Great to have you on board!
+    Thank you for your message. It has been sent successfully.
   </MessageUser>
   <TheFooter />
 </template>

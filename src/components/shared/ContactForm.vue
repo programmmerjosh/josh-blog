@@ -1,10 +1,9 @@
 <template>
   <div id="contact">
-    <form
-      class="contact1-form validate-form mx-auto"
-      action="https://formspree.io/f/mgerwpnw"
-      method="POST"
-    >
+    <!-- these attributes (action and method) were removed from form and placed in a Vue method -->
+    <!-- action="https://formspree.io/f/mgerwpnw"
+      method="POST" -->
+    <form class="contact1-form validate-form mx-auto">
       <div class="title-wrapper">
         <h1 class="title text-center mb-4">
           Any questions, comments or suggestions?
@@ -13,44 +12,70 @@
 
       <div class="form-wrapper">
         <!-- Name -->
-        <div class="form-group position-relative">
+        <div
+          class="form-group position-relative"
+          :class="!validName ? 'invalid-field' : ''"
+        >
           <label for="formName" class="d-block">
             <i class="icon" data-feather="user"></i>
           </label>
           <input
             type="text"
+            @blur="validateForm"
             id="formName"
             class="form-control form-control-lg thick"
             placeholder="Name"
+            name="name"
+            v-model="name"
+            required
           />
         </div>
 
         <!-- E-mail -->
-        <div class="form-group position-relative">
+        <div
+          class="form-group position-relative"
+          :class="!validEmail ? 'invalid-field' : ''"
+        >
           <label for="formEmail" class="d-block">
             <i class="icon" data-feather="mail"></i>
           </label>
           <input
             type="email"
+            @blur="validateForm"
             id="formEmail"
             class="form-control form-control-lg thick"
             placeholder="E-mail"
+            name="EMAIL"
+            v-model="email"
+            required
           />
         </div>
 
         <!-- Message -->
-        <div class="form-group message">
+        <div
+          class="form-group message"
+          :class="!validMessage ? 'invalid-field' : ''"
+        >
           <textarea
             id="formMessage"
+            @blur="validateForm"
             class="form-control form-control-lg"
             rows="7"
             placeholder="Type your message here"
+            name="message"
+            v-model="message"
+            required
           ></textarea>
         </div>
 
         <!-- Submit btn -->
         <div class="text-center">
-          <button type="submit" class="btn btn-primary" tabIndex="-1">
+          <button
+            type="submit"
+            @click="submitForm($event)"
+            class="btn btn-primary"
+            tabIndex="-1"
+          >
             Send message
           </button>
         </div>
@@ -58,6 +83,81 @@
     </form>
   </div>
 </template>
+
+<script>
+  import routes from "../../routes";
+
+  export default {
+    data() {
+      return {
+        name: "",
+        email: "",
+        message: "",
+        validName: { type: Boolean, default: true },
+        validEmail: { type: Boolean, default: true },
+        validMessage: { type: Boolean, default: true },
+      };
+    },
+    methods: {
+      submitForm(event) {
+        event.preventDefault();
+        const validationPassed = this.validateForm();
+
+        if (!validationPassed) return;
+
+        this.sendFormData();
+        this.clearForm();
+
+        // reroute
+        routes.router.push({ path: "/message-sent-successfully" });
+      },
+      validateForm() {
+        if (this.name === "") {
+          this.validName = false;
+          return false;
+        }
+        this.validName = true;
+
+        if (
+          this.email === "" ||
+          this.email.length < 4 ||
+          !this.email.includes("@") ||
+          !this.email.includes(".")
+        ) {
+          this.validEmail = false;
+          return false;
+        }
+        this.validEmail = true;
+
+        if (this.message === "") {
+          this.validMessage = false;
+          return false;
+        }
+        this.validMessage = true;
+
+        // validation success
+        return true;
+      },
+      sendFormData() {
+        // hard-coded url-string, but doesn't need to be dynamic at this point
+        fetch("https://formspree.io/f/mgerwpnw", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            name: this.name,
+            EMAIL: this.email,
+            message: this.message,
+          }),
+        });
+      },
+      clearForm() {
+        this.name = "";
+        this.email = "";
+        this.message = "";
+      },
+    },
+  };
+</script>
 
 <style scoped>
   /* Apparently this is how you center a div: code for future reference */
@@ -232,5 +332,10 @@
     .title-wrapper {
       padding: 2rem 1.5rem 0.5rem 1.5rem;
     }
+  }
+
+  .invalid-field {
+    border-bottom: 2px solid red;
+    border-radius: 25px;
   }
 </style>

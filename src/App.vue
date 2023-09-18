@@ -31,17 +31,19 @@
 <!-- toggle navbar classes on scroll -->
 <!-- scroll to top on router-link -->
 <!-- Fix contact button -->
-
-<!-- TODOs first steps -->
-<!-- ------------------------------------------------------ -->
 <!-- Fix js Tooltip functionality on definitions -->
 <!-- Test subscribe functionality -->
 <!-- Test contact form -->
+<!-- handle contact form -> prevent default -->
+
+<!-- TODOs first steps -->
+<!-- ------------------------------------------------------ -->
 <!-- remove unused scripts and packages -->
 
 <!-- TODOs next steps (less important but would be nice) -->
 <!-- ------------------------------------------------------ -->
 <!-- split up the blog posts section -->
+<!-- Put post content into a js object (seperate file) and create component that rebuilds html content for tooltips and other other styled text -->
 <!-- Create an admin page where I can easily post new blogs -> This big task will have sub-tasks -->
 <!-- Add a comments section -->
 <!-- Add amazon affiliate marketing ads (when I have an affilate membership) -->
