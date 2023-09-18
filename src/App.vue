@@ -35,10 +35,12 @@
 <!-- Test subscribe functionality -->
 <!-- Test contact form -->
 <!-- handle contact form -> prevent default -->
+<!-- remove unused scripts and packages -->
 
 <!-- TODOs first steps -->
 <!-- ------------------------------------------------------ -->
-<!-- remove unused scripts and packages -->
+<!-- fix broken broken/old links and thumbnails -->
+<!-- publish vue version on think-write-grow.com -->
 
 <!-- TODOs next steps (less important but would be nice) -->
 <!-- ------------------------------------------------------ -->
