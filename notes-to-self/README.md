@@ -7,10 +7,13 @@
    - `skateboard-5326930_1920.jpg`
    - `sky-1373167_1920.jpg`
    - `virus-4999857.png`
+3. `manifest.appcache`
+4. `robots.txt`
+5. `sitemap.xml`
 
 ### Steps to follow the `npm run build`
 
-1. Copy the above mentioned files (6) into `/dist/assets`
+1. Copy the above mentioned files (9) into `/dist/assets`
 2. Open `dist` directory in vs-code
 3. Search and replace the following:
    - Search (5): url("../img/
