@@ -1,16 +1,16 @@
-### Files that don't get added to the dist directory with the `npm run build` command:
+### Files that don't get added to the `dist` directory with the `npm run build` command:
 
-1. motivation.min.css
-2. The images referenced in motivation.min.css:
-   - chess-3894243-min.jpg
-   - mental-health-3337026_1920.jpg
-   - skateboard-5326930_1920.jpg
-   - sky-1373167_1920.jpg
-   - virus-4999857.png
+1. `motivation.min.css`
+2. The images referenced in `motivation.min.css`:
+   - `chess-3894243-min.jpg`
+   - `mental-health-3337026_1920.jpg`
+   - `skateboard-5326930_1920.jpg`
+   - `sky-1373167_1920.jpg`
+   - `virus-4999857.png`
 
 ### Steps to follow the `npm run build`
 
-1. Copy the above mentioned files into `/dist/assets`
+1. Copy the above mentioned files (6) into `/dist/assets`
 2. Open `dist` directory in vs-code
 3. Search and replace the following:
    - Search (5): url("../img/
@@ -19,6 +19,7 @@
    - Search (1): href:"./src/assets/motivation.min.css
    - Replace: href:"/assets/motivation.min.css
 4. Add an .htaccess file to the `dist` directory
+   - This is important for any/all routes. Otherwise any routes will be redirected to http(s)://localhost:PORT_NUMBER/ROUTE_NAME. We obviously don't want this in production
    - The file should contain the following:
 
 ```
@@ -32,9 +33,7 @@
 </ifModule>
 ```
 
-    - This is important for any/all routes. Otherwise any routes will be redirected to http(s)://localhost:PORT_NUMBER/ROUTE_NAME. We obviously don't want this in production
-
-### Now we send the `dist` directory and its contents to File Manager on our web host's cPanel
+### Now we send the `dist` directory and its contents to File Manager on our web host's cPanel so that our site can be LIVE
 
 1. Zip the entire `dist` directory
 2. Login to the web host and navigate to the File Manager
