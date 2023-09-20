@@ -50,7 +50,8 @@ npm run build
 npm run test:e2e
 ```
 
-Additional notes for the published build directory:
+### IMPORTANT TO NOTE (more for myself):
 
-1. motivation.min.css didn't get sent over in the dist directory with the 'npm run build' command.
-2. The images referenced in motivation.min.css did not get sent over either in the 'npm run build' command.
+Following `npm run build`, any additional/accompanying files that aren't part of the initial project setup will be omitted from the `dist` directory when we build for production.
+
+> Message to self: see `./notes-to-self/README.md` for reminder instructions to follow the next time you need to publish updates.
