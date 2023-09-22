@@ -83,6 +83,10 @@
         const navBrand = document.querySelector(".navbar-brand");
 
         navbar.classList.toggle("bg-light", scrollPosition > changeValue);
+        navbar.classList.toggle(
+          "reduced-height-navbar",
+          scrollPosition > changeValue
+        );
         navBrand.classList.toggle("text-dark", scrollPosition > changeValue);
 
         navLinks.forEach((tag) => {
@@ -97,6 +101,11 @@
 </script>
 
 <style scoped>
+  @media (min-width: 992px) {
+    .reduced-height-navbar {
+      height: 78px;
+    }
+  }
   @media (max-width: 992px) {
     .nav-link {
       color: #64a19d;
