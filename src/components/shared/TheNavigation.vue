@@ -18,16 +18,16 @@
       <button
         class="navbar-toggler navbar-toggler-right"
         type="button"
-        data-toggle="collapse"
-        data-target="#navbarResponsive"
-        aria-controls="navbarResponsive"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarNavDarkDropdown"
+        aria-controls="navbarNavDarkDropdown"
         aria-expanded="false"
         aria-label="Toggle navigation"
       >
         Menu
         <i class="fas fa-bars"></i>
       </button>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
+      <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
             <router-link
@@ -95,3 +95,11 @@
     },
   };
 </script>
+
+<style scoped>
+  @media (max-width: 992px) {
+    .nav-link {
+      color: #64a19d;
+    }
+  }
+</style>
