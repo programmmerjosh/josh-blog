@@ -863,7 +863,7 @@
                         <div class="d-flex justify-content-center">
                           <iframe
                             id="youtube-link"
-                            src="https://www.youtube.com/embed/Xi62NsfHRK8?si=bpXVDn-bHNYF7pOZ"
+                            src="https://www.youtube.com/embed/e8eBYxm-axQ?si=tE1YV1wJSq9IA6S8"
                           ></iframe>
                         </div>
 
@@ -871,8 +871,8 @@
                           YouTube video upload credit:
                           <a
                             target="_blank"
-                            href="https://www.youtube.com/@NEVERGIVEUP-1102"
-                            >NEVER GIVE UP - Motivational Speech</a
+                            href="https://www.youtube.com/@sherleneteal2302"
+                            >Sherlene Teal</a
                           >
                         </p>
 
