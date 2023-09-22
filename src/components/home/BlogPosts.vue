@@ -159,49 +159,43 @@
                 <div id="resources-textbox" class="rounded-white-text-box">
                   <h4>Appendixes/Attachment-resources:</h4>
                 </div>
-                <div
-                  class="accordion accordion-flush"
-                  id="accordionFlushExample"
-                >
+                <div class="accordion accordion-flush" id="accordionFlushHome">
                   <!-- item 1 -->
                   <div class="accordion-item">
-                    <a id="special-a-tag" class="" href="#flush-collapseOne">
-                      <h2 class="accordion-header" id="flush-headingOne">
-                        <button
-                          class="accordion-button collapsed text-capitalize js-scroll-trigger"
-                          type="button"
-                          data-bs-toggle="collapse"
-                          data-bs-target="#flush-collapseOne"
-                          aria-expanded="false"
-                          aria-controls="flush-collapseOne"
-                        >
-                          <div class="container">
-                            <div class="row">
-                              <div class="col-12 col-md-8">
-                                1. The body is the servant of the mind<span
-                                  class="d-inline d-md-none"
-                                >
-                                  📚</span
-                                >
-                              </div>
-                              <div class="col-12 col-md-2">
-                                <div class="tab-indent"></div>
-                                <span class="post-date"
-                                  >(added 25 March 2021)</span
-                                >
-                              </div>
-                              <div class="col-12 col-md-2">
-                                <div class="tab-indent"></div>
-                                <em
-                                  class="post-type text-bold d-none d-md-inline"
-                                  >Reading</em
-                                >
-                              </div>
+                    <h2 class="accordion-header" id="flush-headingOne">
+                      <button
+                        class="accordion-button collapsed text-capitalize js-scroll-trigger"
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseOne"
+                        aria-expanded="false"
+                        aria-controls="flush-collapseOne"
+                      >
+                        <div class="container">
+                          <div class="row">
+                            <div class="col-12 col-md-8">
+                              1. The body is the servant of the mind<span
+                                class="d-inline d-md-none"
+                              >
+                                📚</span
+                              >
+                            </div>
+                            <div class="col-12 col-md-2">
+                              <div class="tab-indent"></div>
+                              <span class="post-date"
+                                >(added 25 March 2021)</span
+                              >
+                            </div>
+                            <div class="col-12 col-md-2">
+                              <div class="tab-indent"></div>
+                              <em class="post-type text-bold d-none d-md-inline"
+                                >Reading</em
+                              >
                             </div>
                           </div>
-                        </button>
-                      </h2></a
-                    >
+                        </div>
+                      </button>
+                    </h2>
                     <div
                       id="flush-collapseOne"
                       class="accordion-collapse collapse"
@@ -426,43 +420,40 @@
                   </div>
                   <!-- item 2 -->
                   <div class="accordion-item">
-                    <a id="special-a-tag" class="" href="#flush-collapseTwo">
-                      <h2 class="accordion-header" id="flush-headingTwo">
-                        <button
-                          class="accordion-button collapsed text-capitalize"
-                          type="button"
-                          data-bs-toggle="collapse"
-                          data-bs-target="#flush-collapseTwo"
-                          aria-expanded="false"
-                          aria-controls="flush-collapseTwo"
-                        >
-                          <div class="container">
-                            <div class="row">
-                              <div class="col-12 col-md-8">
-                                2. The fear of ill health & its symptoms<span
-                                  class="d-inline d-md-none"
-                                >
-                                  📚</span
-                                >
-                              </div>
-                              <div class="col-12 col-md-2">
-                                <div class="tab-indent"></div>
-                                <span class="post-date"
-                                  >(added 25 March 2021)</span
-                                >
-                              </div>
-                              <div class="col-12 col-md-2">
-                                <div class="tab-indent"></div>
-                                <em
-                                  class="post-type text-bold d-none d-md-inline"
-                                  >Reading</em
-                                >
-                              </div>
+                    <h2 class="accordion-header" id="flush-headingTwo">
+                      <button
+                        class="accordion-button collapsed text-capitalize"
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseTwo"
+                        aria-expanded="false"
+                        aria-controls="flush-collapseTwo"
+                      >
+                        <div class="container">
+                          <div class="row">
+                            <div class="col-12 col-md-8">
+                              2. The fear of ill health & its symptoms<span
+                                class="d-inline d-md-none"
+                              >
+                                📚</span
+                              >
+                            </div>
+                            <div class="col-12 col-md-2">
+                              <div class="tab-indent"></div>
+                              <span class="post-date"
+                                >(added 25 March 2021)</span
+                              >
+                            </div>
+                            <div class="col-12 col-md-2">
+                              <div class="tab-indent"></div>
+                              <em class="post-type text-bold d-none d-md-inline"
+                                >Reading</em
+                              >
                             </div>
                           </div>
-                        </button>
-                      </h2></a
-                    >
+                        </div>
+                      </button>
+                    </h2>
                     <div
                       id="flush-collapseTwo"
                       class="accordion-collapse collapse"
@@ -786,43 +777,40 @@
                   </div>
                   <!-- item 3 -->
                   <div class="accordion-item">
-                    <a id="special-a-tag" class="" href="#flush-collapseThree">
-                      <h2 class="accordion-header" id="flush-headingThree">
-                        <button
-                          class="accordion-button collapsed text-capitalize"
-                          type="button"
-                          data-bs-toggle="collapse"
-                          data-bs-target="#flush-collapseThree"
-                          aria-expanded="false"
-                          aria-controls="flush-collapseThree"
-                        >
-                          <div class="container">
-                            <div class="row">
-                              <div class="col-12 col-md-8">
-                                3. Worry - A Disease Of Attitude<span
-                                  class="d-inline d-md-none"
-                                >
-                                  📹</span
-                                >
-                              </div>
-                              <div class="col-12 col-md-2">
-                                <div class="tab-indent"></div>
-                                <span class="post-date"
-                                  >(added 25 March 2021)</span
-                                >
-                              </div>
-                              <div class="col-12 col-md-2">
-                                <div class="tab-indent"></div>
-                                <em
-                                  class="post-type text-bold d-none d-md-inline"
-                                  >Videos</em
-                                >
-                              </div>
+                    <h2 class="accordion-header" id="flush-headingThree">
+                      <button
+                        class="accordion-button collapsed text-capitalize"
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseThree"
+                        aria-expanded="false"
+                        aria-controls="flush-collapseThree"
+                      >
+                        <div class="container">
+                          <div class="row">
+                            <div class="col-12 col-md-8">
+                              3. Worry - A Disease Of Attitude<span
+                                class="d-inline d-md-none"
+                              >
+                                📹</span
+                              >
+                            </div>
+                            <div class="col-12 col-md-2">
+                              <div class="tab-indent"></div>
+                              <span class="post-date"
+                                >(added 25 March 2021)</span
+                              >
+                            </div>
+                            <div class="col-12 col-md-2">
+                              <div class="tab-indent"></div>
+                              <em class="post-type text-bold d-none d-md-inline"
+                                >Videos</em
+                              >
                             </div>
                           </div>
-                        </button>
-                      </h2></a
-                    >
+                        </div>
+                      </button>
+                    </h2>
                     <div
                       id="flush-collapseThree"
                       class="accordion-collapse collapse"
@@ -888,41 +876,38 @@
                   </div>
                   <!-- item 4 -->
                   <div class="accordion-item">
-                    <a id="special-a-tag" class="" href="#flush-collapseFour">
-                      <h2 class="accordion-header" id="flush-headingFour">
-                        <button
-                          class="accordion-button collapsed text-capitalize"
-                          type="button"
-                          data-bs-toggle="collapse"
-                          data-bs-target="#flush-collapseFour"
-                          aria-expanded="false"
-                          aria-controls="flush-collapseFour"
-                        >
-                          <div class="container">
-                            <div class="row">
-                              <div class="col-12 col-md-8">
-                                4. Scripture<span class="d-inline d-md-none">
-                                  📚</span
-                                >
-                              </div>
-                              <div class="col-12 col-md-2">
-                                <div class="tab-indent"></div>
-                                <span class="post-date"
-                                  >(added 25 March 2021)</span
-                                >
-                              </div>
-                              <div class="col-12 col-md-2">
-                                <div class="tab-indent"></div>
-                                <em
-                                  class="post-type text-bold d-none d-md-inline"
-                                  >Reading</em
-                                >
-                              </div>
+                    <h2 class="accordion-header" id="flush-headingFour">
+                      <button
+                        class="accordion-button collapsed text-capitalize"
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseFour"
+                        aria-expanded="false"
+                        aria-controls="flush-collapseFour"
+                      >
+                        <div class="container">
+                          <div class="row">
+                            <div class="col-12 col-md-8">
+                              4. Scripture<span class="d-inline d-md-none">
+                                📚</span
+                              >
+                            </div>
+                            <div class="col-12 col-md-2">
+                              <div class="tab-indent"></div>
+                              <span class="post-date"
+                                >(added 25 March 2021)</span
+                              >
+                            </div>
+                            <div class="col-12 col-md-2">
+                              <div class="tab-indent"></div>
+                              <em class="post-type text-bold d-none d-md-inline"
+                                >Reading</em
+                              >
                             </div>
                           </div>
-                        </button>
-                      </h2></a
-                    >
+                        </div>
+                      </button>
+                    </h2>
                     <div
                       id="flush-collapseFour"
                       class="accordion-collapse collapse"
@@ -1015,43 +1000,40 @@
                   </div>
                   <!-- item 5 -->
                   <div class="accordion-item">
-                    <a id="special-a-tag" class="" href="#flush-collapseFive">
-                      <h2 class="accordion-header" id="flush-headingFive">
-                        <button
-                          class="accordion-button collapsed text-capitalize"
-                          type="button"
-                          data-bs-toggle="collapse"
-                          data-bs-target="#flush-collapseFive"
-                          aria-expanded="false"
-                          aria-controls="flush-collapseFive"
-                        >
-                          <div class="container">
-                            <div class="row">
-                              <div class="col-12 col-md-8">
-                                5. Let Go And Trust - Overcoming Worry<span
-                                  class="d-inline d-md-none"
-                                >
-                                  📹</span
-                                >
-                              </div>
-                              <div class="col-12 col-md-2">
-                                <div class="tab-indent"></div>
-                                <span class="post-date"
-                                  >(added 18 April 2021)</span
-                                >
-                              </div>
-                              <div class="col-12 col-md-2">
-                                <div class="tab-indent"></div>
-                                <em
-                                  class="post-type text-bold d-none d-md-inline"
-                                  >Video</em
-                                >
-                              </div>
+                    <h2 class="accordion-header" id="flush-headingFive">
+                      <button
+                        class="accordion-button collapsed text-capitalize"
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseFive"
+                        aria-expanded="false"
+                        aria-controls="flush-collapseFive"
+                      >
+                        <div class="container">
+                          <div class="row">
+                            <div class="col-12 col-md-8">
+                              5. Let Go And Trust - Overcoming Worry<span
+                                class="d-inline d-md-none"
+                              >
+                                📹</span
+                              >
+                            </div>
+                            <div class="col-12 col-md-2">
+                              <div class="tab-indent"></div>
+                              <span class="post-date"
+                                >(added 18 April 2021)</span
+                              >
+                            </div>
+                            <div class="col-12 col-md-2">
+                              <div class="tab-indent"></div>
+                              <em class="post-type text-bold d-none d-md-inline"
+                                >Video</em
+                              >
                             </div>
                           </div>
-                        </button>
-                      </h2></a
-                    >
+                        </div>
+                      </button>
+                    </h2>
                     <div
                       id="flush-collapseFive"
                       class="accordion-collapse collapse"
@@ -1089,42 +1071,39 @@
                   </div>
                   <!-- item 6 -->
                   <div class="accordion-item">
-                    <a id="special-a-tag" class="" href="#flush-collapseSix">
-                      <h2 class="accordion-header" id="flush-headingSix">
-                        <button
-                          class="accordion-button collapsed text-capitalize"
-                          type="button"
-                          data-bs-toggle="collapse"
-                          data-bs-target="#flush-collapseSix"
-                          aria-expanded="false"
-                          aria-controls="flush-collapseSix"
-                        >
-                          <div class="container">
-                            <div class="row">
-                              <div class="col-12 col-md-8">
-                                6. Knowing Your Adversary's Plans Can Give You A
-                                Huge Advantage<span class="d-inline d-md-none">
-                                  📹</span
-                                >
-                              </div>
-                              <div class="col-12 col-md-2">
-                                <div class="tab-indent"></div>
-                                <span class="post-date"
-                                  >(added 18 April 2021)</span
-                                >
-                              </div>
-                              <div class="col-12 col-md-2">
-                                <div class="tab-indent"></div>
-                                <em
-                                  class="post-type text-bold d-none d-md-inline"
-                                  >Video</em
-                                >
-                              </div>
+                    <h2 class="accordion-header" id="flush-headingSix">
+                      <button
+                        class="accordion-button collapsed text-capitalize"
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseSix"
+                        aria-expanded="false"
+                        aria-controls="flush-collapseSix"
+                      >
+                        <div class="container">
+                          <div class="row">
+                            <div class="col-12 col-md-8">
+                              6. Knowing Your Adversary's Plans Can Give You A
+                              Huge Advantage<span class="d-inline d-md-none">
+                                📹</span
+                              >
+                            </div>
+                            <div class="col-12 col-md-2">
+                              <div class="tab-indent"></div>
+                              <span class="post-date"
+                                >(added 18 April 2021)</span
+                              >
+                            </div>
+                            <div class="col-12 col-md-2">
+                              <div class="tab-indent"></div>
+                              <em class="post-type text-bold d-none d-md-inline"
+                                >Video</em
+                              >
                             </div>
                           </div>
-                        </button>
-                      </h2></a
-                    >
+                        </div>
+                      </button>
+                    </h2>
                     <div
                       id="flush-collapseSix"
                       class="accordion-collapse collapse"
@@ -1163,42 +1142,39 @@
                   </div>
                   <!-- item 7 -->
                   <div class="accordion-item">
-                    <a id="special-a-tag" class="" href="#flush-collapseSeven">
-                      <h2 class="accordion-header" id="flush-headingSeven">
-                        <button
-                          class="accordion-button collapsed text-capitalize"
-                          type="button"
-                          data-bs-toggle="collapse"
-                          data-bs-target="#flush-collapseSeven"
-                          aria-expanded="false"
-                          aria-controls="flush-collapseSeven"
-                        >
-                          <div class="container">
-                            <div class="row">
-                              <div class="col-12 col-md-8">
-                                7. Increasing evidence that emotions matter,
-                                clinically<span class="d-inline d-md-none">
-                                  📚</span
-                                >
-                              </div>
-                              <div class="col-12 col-md-2">
-                                <div class="tab-indent"></div>
-                                <span class="post-date"
-                                  >(added 28 December 2021)</span
-                                >
-                              </div>
-                              <div class="col-12 col-md-2">
-                                <div class="tab-indent"></div>
-                                <em
-                                  class="post-type text-bold d-none d-md-inline"
-                                  >Reading</em
-                                >
-                              </div>
+                    <h2 class="accordion-header" id="flush-headingSeven">
+                      <button
+                        class="accordion-button collapsed text-capitalize"
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseSeven"
+                        aria-expanded="false"
+                        aria-controls="flush-collapseSeven"
+                      >
+                        <div class="container">
+                          <div class="row">
+                            <div class="col-12 col-md-8">
+                              7. Increasing evidence that emotions matter,
+                              clinically<span class="d-inline d-md-none">
+                                📚</span
+                              >
+                            </div>
+                            <div class="col-12 col-md-2">
+                              <div class="tab-indent"></div>
+                              <span class="post-date"
+                                >(added 28 December 2021)</span
+                              >
+                            </div>
+                            <div class="col-12 col-md-2">
+                              <div class="tab-indent"></div>
+                              <em class="post-type text-bold d-none d-md-inline"
+                                >Reading</em
+                              >
                             </div>
                           </div>
-                        </button>
-                      </h2></a
-                    >
+                        </div>
+                      </button>
+                    </h2>
                     <div
                       id="flush-collapseSeven"
                       class="accordion-collapse collapse"

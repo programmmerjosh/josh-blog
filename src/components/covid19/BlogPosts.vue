@@ -38,44 +38,42 @@
         <div id="resources-textbox" class="rounded-white-text-box">
           <h4>Resources:</h4>
         </div>
-        <div class="accordion accordion-flush mb-5" id="accordionFlushExample">
+        <div class="accordion accordion-flush mb-5" id="accordionFlushCovid19">
           <!-- item 1 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#flush-collapseOne">
-              <h2 class="accordion-header" id="flush-headingOne">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseOne"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseOne"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        1. Truth About Covid-19 Vaccines, Effective Treatments
-                        And Mask Mandates, Dr Simone Gold<span
-                          class="d-inline d-md-none"
-                        >
-                          📹</span
-                        >
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Video</em
-                        >
-                      </div>
+            <h2 class="accordion-header" id="flush-headingOne">
+              <button
+                class="accordion-button collapsed text-capitalize"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseOne"
+                aria-expanded="false"
+                aria-controls="flush-collapseOne"
+              >
+                <div class="container">
+                  <div class="row">
+                    <div class="col-12 col-md-8">
+                      1. Truth About Covid-19 Vaccines, Effective Treatments And
+                      Mask Mandates, Dr Simone Gold<span
+                        class="d-inline d-md-none"
+                      >
+                        📹</span
+                      >
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <span class="post-date"></span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <em class="post-type text-bold d-none d-md-inline"
+                        >Video</em
+                      >
                     </div>
                   </div>
-                </button>
-              </h2></a
-            >
+                </div>
+              </button>
+            </h2>
             <div
               id="flush-collapseOne"
               class="accordion-collapse collapse"
@@ -125,40 +123,38 @@
           </div>
           <!-- item 2 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#flush-collapseTwo">
-              <h2 class="accordion-header" id="flush-headingTwo">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseTwo"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseTwo"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        2. Myths of the mask - Dr Lee Merrett, MD<span
-                          class="d-inline d-md-none"
-                        >
-                          📹</span
-                        >
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Video</em
-                        >
-                      </div>
+            <h2 class="accordion-header" id="flush-headingTwo">
+              <button
+                class="accordion-button collapsed text-capitalize"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseTwo"
+                aria-expanded="false"
+                aria-controls="flush-collapseTwo"
+              >
+                <div class="container">
+                  <div class="row">
+                    <div class="col-12 col-md-8">
+                      2. Myths of the mask - Dr Lee Merrett, MD<span
+                        class="d-inline d-md-none"
+                      >
+                        📹</span
+                      >
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <span class="post-date"></span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <em class="post-type text-bold d-none d-md-inline"
+                        >Video</em
+                      >
                     </div>
                   </div>
-                </button>
-              </h2></a
-            >
+                </div>
+              </button>
+            </h2>
             <div
               id="flush-collapseTwo"
               class="accordion-collapse collapse"
@@ -209,40 +205,38 @@
           </div>
           <!-- item 3 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#flush-collapseThree">
-              <h2 class="accordion-header" id="flush-headingThree">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseThree"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseThree"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        3. The myth of asymptomatic transmission<span
-                          class="d-inline d-md-none"
-                        >
-                          📹</span
-                        >
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Video</em
-                        >
-                      </div>
+            <h2 class="accordion-header" id="flush-headingThree">
+              <button
+                class="accordion-button collapsed text-capitalize"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseThree"
+                aria-expanded="false"
+                aria-controls="flush-collapseThree"
+              >
+                <div class="container">
+                  <div class="row">
+                    <div class="col-12 col-md-8">
+                      3. The myth of asymptomatic transmission<span
+                        class="d-inline d-md-none"
+                      >
+                        📹</span
+                      >
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <span class="post-date"></span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <em class="post-type text-bold d-none d-md-inline"
+                        >Video</em
+                      >
                     </div>
                   </div>
-                </button>
-              </h2></a
-            >
+                </div>
+              </button>
+            </h2>
             <div
               id="flush-collapseThree"
               class="accordion-collapse collapse"
@@ -291,38 +285,36 @@
           </div>
           <!-- item 4 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#flush-collapseFour">
-              <h2 class="accordion-header" id="flush-headingFour">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseFour"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseFour"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        4. Coronavirus Politics<span class="d-inline d-md-none">
-                          📹</span
-                        >
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Video</em
-                        >
-                      </div>
+            <h2 class="accordion-header" id="flush-headingFour">
+              <button
+                class="accordion-button collapsed text-capitalize"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseFour"
+                aria-expanded="false"
+                aria-controls="flush-collapseFour"
+              >
+                <div class="container">
+                  <div class="row">
+                    <div class="col-12 col-md-8">
+                      4. Coronavirus Politics<span class="d-inline d-md-none">
+                        📹</span
+                      >
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <span class="post-date"></span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <em class="post-type text-bold d-none d-md-inline"
+                        >Video</em
+                      >
                     </div>
                   </div>
-                </button>
-              </h2></a
-            >
+                </div>
+              </button>
+            </h2>
             <div
               id="flush-collapseFour"
               class="accordion-collapse collapse"
@@ -372,40 +364,36 @@
           </div>
           <!-- item 5 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#flush-collapseFive">
-              <h2 class="accordion-header" id="flush-headingFive">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseFive"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseFive"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        5. Covid-19 medical fraud<span
-                          class="d-inline d-md-none"
-                        >
-                          📹</span
-                        >
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Video</em
-                        >
-                      </div>
+            <h2 class="accordion-header" id="flush-headingFive">
+              <button
+                class="accordion-button collapsed text-capitalize"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseFive"
+                aria-expanded="false"
+                aria-controls="flush-collapseFive"
+              >
+                <div class="container">
+                  <div class="row">
+                    <div class="col-12 col-md-8">
+                      5. Covid-19 medical fraud<span class="d-inline d-md-none">
+                        📹</span
+                      >
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <span class="post-date"></span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <em class="post-type text-bold d-none d-md-inline"
+                        >Video</em
+                      >
                     </div>
                   </div>
-                </button>
-              </h2></a
-            >
+                </div>
+              </button>
+            </h2>
             <div
               id="flush-collapseFive"
               class="accordion-collapse collapse"
@@ -454,41 +442,39 @@
           </div>
           <!-- item 6 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#flush-collapseSix">
-              <h2 class="accordion-header" id="flush-headingSix">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseSix"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseSix"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        6. Could These Covid Tests Be Bull Sh*t? Have We Been
-                        Scammed On A Global Scale?!<span
-                          class="d-inline d-md-none"
-                        >
-                          📹</span
-                        >
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Video</em
-                        >
-                      </div>
+            <h2 class="accordion-header" id="flush-headingSix">
+              <button
+                class="accordion-button collapsed text-capitalize"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseSix"
+                aria-expanded="false"
+                aria-controls="flush-collapseSix"
+              >
+                <div class="container">
+                  <div class="row">
+                    <div class="col-12 col-md-8">
+                      6. Could These Covid Tests Be Bull Sh*t? Have We Been
+                      Scammed On A Global Scale?!<span
+                        class="d-inline d-md-none"
+                      >
+                        📹</span
+                      >
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <span class="post-date"></span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <em class="post-type text-bold d-none d-md-inline"
+                        >Video</em
+                      >
                     </div>
                   </div>
-                </button>
-              </h2></a
-            >
+                </div>
+              </button>
+            </h2>
             <div
               id="flush-collapseSix"
               class="accordion-collapse collapse"
@@ -539,41 +525,39 @@
           </div>
           <!-- item 7 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#flush-collapseSeven">
-              <h2 class="accordion-header" id="flush-headingSeven">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseSeven"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseSeven"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        7. Daystar provides plenty more videos of interviews
-                        with Medical doctors and experts on this matter<span
-                          class="d-inline d-md-none"
-                        >
-                          🖥</span
-                        >
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Website</em
-                        >
-                      </div>
+            <h2 class="accordion-header" id="flush-headingSeven">
+              <button
+                class="accordion-button collapsed text-capitalize"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseSeven"
+                aria-expanded="false"
+                aria-controls="flush-collapseSeven"
+              >
+                <div class="container">
+                  <div class="row">
+                    <div class="col-12 col-md-8">
+                      7. Daystar provides plenty more videos of interviews with
+                      Medical doctors and experts on this matter<span
+                        class="d-inline d-md-none"
+                      >
+                        🖥</span
+                      >
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <span class="post-date"></span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <em class="post-type text-bold d-none d-md-inline"
+                        >Website</em
+                      >
                     </div>
                   </div>
-                </button>
-              </h2></a
-            >
+                </div>
+              </button>
+            </h2>
             <div
               id="flush-collapseSeven"
               class="accordion-collapse collapse"
@@ -619,37 +603,35 @@
           </div>
           <!-- item 8 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#flush-collapseEight">
-              <h2 class="accordion-header" id="flush-headingEight">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseEight"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseEight"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        8. Ivermectin - An Affordable and Effective treatment
-                        For Covid-19<span class="d-inline d-md-none"> 📹</span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Videos</em
-                        >
-                      </div>
+            <h2 class="accordion-header" id="flush-headingEight">
+              <button
+                class="accordion-button collapsed text-capitalize"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseEight"
+                aria-expanded="false"
+                aria-controls="flush-collapseEight"
+              >
+                <div class="container">
+                  <div class="row">
+                    <div class="col-12 col-md-8">
+                      8. Ivermectin - An Affordable and Effective treatment For
+                      Covid-19<span class="d-inline d-md-none"> 📹</span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <span class="post-date"></span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <em class="post-type text-bold d-none d-md-inline"
+                        >Videos</em
+                      >
                     </div>
                   </div>
-                </button>
-              </h2></a
-            >
+                </div>
+              </button>
+            </h2>
             <div
               id="flush-collapseEight"
               class="accordion-collapse collapse"
@@ -784,40 +766,38 @@
           </div>
           <!-- item 9 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#flush-collapseNine">
-              <h2 class="accordion-header" id="flush-headingNine">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseNine"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseNine"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        9. Natural Remedies Banned For Treating Covid-19<span
-                          class="d-inline d-md-none"
-                        >
-                          📝</span
-                        >
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Article</em
-                        >
-                      </div>
+            <h2 class="accordion-header" id="flush-headingNine">
+              <button
+                class="accordion-button collapsed text-capitalize"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseNine"
+                aria-expanded="false"
+                aria-controls="flush-collapseNine"
+              >
+                <div class="container">
+                  <div class="row">
+                    <div class="col-12 col-md-8">
+                      9. Natural Remedies Banned For Treating Covid-19<span
+                        class="d-inline d-md-none"
+                      >
+                        📝</span
+                      >
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <span class="post-date"></span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <em class="post-type text-bold d-none d-md-inline"
+                        >Article</em
+                      >
                     </div>
                   </div>
-                </button>
-              </h2></a
-            >
+                </div>
+              </button>
+            </h2>
             <div
               id="flush-collapseNine"
               class="accordion-collapse collapse"
@@ -871,37 +851,38 @@
           </div>
           <!-- item 10 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#flush-collapseTen">
-              <h2 class="accordion-header" id="flush-headingTen">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseTen"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseTen"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        10. Dr Scott Jensen explains Covid-19 case
-                        inflation<span class="d-inline d-md-none"> 📹</span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Video</em
-                        >
-                      </div>
+            <h2 class="accordion-header" id="flush-headingTen">
+              <button
+                class="accordion-button collapsed text-capitalize"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseTen"
+                aria-expanded="false"
+                aria-controls="flush-collapseTen"
+              >
+                <div class="container">
+                  <div class="row">
+                    <div class="col-12 col-md-8">
+                      10. Dr Scott Jensen explains Covid-19 case inflation<span
+                        class="d-inline d-md-none"
+                      >
+                        📹</span
+                      >
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <span class="post-date"></span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <em class="post-type text-bold d-none d-md-inline"
+                        >Video</em
+                      >
                     </div>
                   </div>
-                </button>
-              </h2></a
-            >
+                </div>
+              </button>
+            </h2>
             <div
               id="flush-collapseTen"
               class="accordion-collapse collapse"
@@ -951,40 +932,38 @@
           </div>
           <!-- item 11 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#flush-collapseEleven">
-              <h2 class="accordion-header" id="flush-headingEleven">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseEleven"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseEleven"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        11. World Freedom Alliance Interview<span
-                          class="d-inline d-md-none"
-                        >
-                          📹</span
-                        >
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Videos</em
-                        >
-                      </div>
+            <h2 class="accordion-header" id="flush-headingEleven">
+              <button
+                class="accordion-button collapsed text-capitalize"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseEleven"
+                aria-expanded="false"
+                aria-controls="flush-collapseEleven"
+              >
+                <div class="container">
+                  <div class="row">
+                    <div class="col-12 col-md-8">
+                      11. World Freedom Alliance Interview<span
+                        class="d-inline d-md-none"
+                      >
+                        📹</span
+                      >
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <span class="post-date"></span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <em class="post-type text-bold d-none d-md-inline"
+                        >Videos</em
+                      >
                     </div>
                   </div>
-                </button>
-              </h2></a
-            >
+                </div>
+              </button>
+            </h2>
             <div
               id="flush-collapseEleven"
               class="accordion-collapse collapse"
@@ -1114,40 +1093,38 @@
 
           <!-- item 12 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#flush-collapseTwelve">
-              <h2 class="accordion-header" id="flush-headingTwelve">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseTwelve"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseTwelve"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        12. “The New Normal”: Covid-19 Documentary<span
-                          class="d-inline d-md-none"
-                        >
-                          📹</span
-                        >
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Video</em
-                        >
-                      </div>
+            <h2 class="accordion-header" id="flush-headingTwelve">
+              <button
+                class="accordion-button collapsed text-capitalize"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseTwelve"
+                aria-expanded="false"
+                aria-controls="flush-collapseTwelve"
+              >
+                <div class="container">
+                  <div class="row">
+                    <div class="col-12 col-md-8">
+                      12. “The New Normal”: Covid-19 Documentary<span
+                        class="d-inline d-md-none"
+                      >
+                        📹</span
+                      >
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <span class="post-date"></span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <em class="post-type text-bold d-none d-md-inline"
+                        >Video</em
+                      >
                     </div>
                   </div>
-                </button>
-              </h2></a
-            >
+                </div>
+              </button>
+            </h2>
             <div
               id="flush-collapseTwelve"
               class="accordion-collapse collapse"
@@ -1198,40 +1175,38 @@
 
           <!-- item 13 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#flush-collapseThirteen">
-              <h2 class="accordion-header" id="flush-headingThirteen">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseThirteen"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseThirteen"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        13. Prepare For Change: Articles with evidence<span
-                          class="d-inline d-md-none"
-                        >
-                          📝</span
-                        >
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Articles</em
-                        >
-                      </div>
+            <h2 class="accordion-header" id="flush-headingThirteen">
+              <button
+                class="accordion-button collapsed text-capitalize"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseThirteen"
+                aria-expanded="false"
+                aria-controls="flush-collapseThirteen"
+              >
+                <div class="container">
+                  <div class="row">
+                    <div class="col-12 col-md-8">
+                      13. Prepare For Change: Articles with evidence<span
+                        class="d-inline d-md-none"
+                      >
+                        📝</span
+                      >
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <span class="post-date"></span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <em class="post-type text-bold d-none d-md-inline"
+                        >Articles</em
+                      >
                     </div>
                   </div>
-                </button>
-              </h2></a
-            >
+                </div>
+              </button>
+            </h2>
             <div
               id="flush-collapseThirteen"
               class="accordion-collapse collapse"
@@ -1493,37 +1468,35 @@
           </div>
           <!-- item 14 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#flush-collapseFourteen">
-              <h2 class="accordion-header" id="flush-headingFourteen">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseFourteen"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseFourteen"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        14. Charlie Kirk: Interviews Several Doctors Speaking
-                        Out<span class="d-inline d-md-none"> 📹</span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Videos</em
-                        >
-                      </div>
+            <h2 class="accordion-header" id="flush-headingFourteen">
+              <button
+                class="accordion-button collapsed text-capitalize"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseFourteen"
+                aria-expanded="false"
+                aria-controls="flush-collapseFourteen"
+              >
+                <div class="container">
+                  <div class="row">
+                    <div class="col-12 col-md-8">
+                      14. Charlie Kirk: Interviews Several Doctors Speaking
+                      Out<span class="d-inline d-md-none"> 📹</span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <span class="post-date"></span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <em class="post-type text-bold d-none d-md-inline"
+                        >Videos</em
+                      >
                     </div>
                   </div>
-                </button>
-              </h2></a
-            >
+                </div>
+              </button>
+            </h2>
             <div
               id="flush-collapseFourteen"
               class="accordion-collapse collapse"
@@ -1615,39 +1588,37 @@
           </div>
           <!-- item 15 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#flush-collapseFifteen">
-              <h2 class="accordion-header" id="flush-headingFifteen">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseFifteen"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseFifteen"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        15. In 2010, Bill Gates Openly Says That We Can Reduce
-                        The Population With Vaccines: Is This A Depopulation
-                        Agenda? They want to reduce CO2 emissions by reducing
-                        humanity<span class="d-inline d-md-none"> 📹</span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Video</em
-                        >
-                      </div>
+            <h2 class="accordion-header" id="flush-headingFifteen">
+              <button
+                class="accordion-button collapsed text-capitalize"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseFifteen"
+                aria-expanded="false"
+                aria-controls="flush-collapseFifteen"
+              >
+                <div class="container">
+                  <div class="row">
+                    <div class="col-12 col-md-8">
+                      15. In 2010, Bill Gates Openly Says That We Can Reduce The
+                      Population With Vaccines: Is This A Depopulation Agenda?
+                      They want to reduce CO2 emissions by reducing
+                      humanity<span class="d-inline d-md-none"> 📹</span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <span class="post-date"></span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <em class="post-type text-bold d-none d-md-inline"
+                        >Video</em
+                      >
                     </div>
                   </div>
-                </button>
-              </h2></a
-            >
+                </div>
+              </button>
+            </h2>
             <div
               id="flush-collapseFifteen"
               class="accordion-collapse collapse"
@@ -1695,38 +1666,36 @@
           </div>
           <!-- item 16 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#flush-collapseSixteen">
-              <h2 class="accordion-header" id="flush-headingSixteen">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseSixteen"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseSixteen"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        16. Tyranny And An Abuse Of Power - Pay Close Attention
-                        To The Measures Enforced By Our Global Leaders
-                        <span class="d-inline d-md-none"> 📹</span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Video</em
-                        >
-                      </div>
+            <h2 class="accordion-header" id="flush-headingSixteen">
+              <button
+                class="accordion-button collapsed text-capitalize"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseSixteen"
+                aria-expanded="false"
+                aria-controls="flush-collapseSixteen"
+              >
+                <div class="container">
+                  <div class="row">
+                    <div class="col-12 col-md-8">
+                      16. Tyranny And An Abuse Of Power - Pay Close Attention To
+                      The Measures Enforced By Our Global Leaders
+                      <span class="d-inline d-md-none"> 📹</span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <span class="post-date"></span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <em class="post-type text-bold d-none d-md-inline"
+                        >Video</em
+                      >
                     </div>
                   </div>
-                </button>
-              </h2></a
-            >
+                </div>
+              </button>
+            </h2>
             <div
               id="flush-collapseSixteen"
               class="accordion-collapse collapse"
@@ -1774,37 +1743,35 @@
           </div>
           <!-- item 17 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#flush-collapseSeventeen">
-              <h2 class="accordion-header" id="flush-headingSeventeen">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseSeventeen"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseSeventeen"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        17. Dr John Cambell on the "boosters for all" Narrative
-                        <span class="d-inline d-md-none"> 📹</span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Video</em
-                        >
-                      </div>
+            <h2 class="accordion-header" id="flush-headingSeventeen">
+              <button
+                class="accordion-button collapsed text-capitalize"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseSeventeen"
+                aria-expanded="false"
+                aria-controls="flush-collapseSeventeen"
+              >
+                <div class="container">
+                  <div class="row">
+                    <div class="col-12 col-md-8">
+                      17. Dr John Cambell on the "boosters for all" Narrative
+                      <span class="d-inline d-md-none"> 📹</span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <span class="post-date"></span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <em class="post-type text-bold d-none d-md-inline"
+                        >Video</em
+                      >
                     </div>
                   </div>
-                </button>
-              </h2></a
-            >
+                </div>
+              </button>
+            </h2>
             <div
               id="flush-collapseSeventeen"
               class="accordion-collapse collapse"
@@ -1855,45 +1822,43 @@
           </div>
           <!-- item 18 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#flush-collapseEighteen">
-              <h2 class="accordion-header" id="flush-headingEighteen">
-                <button
-                  class="accordion-button collapsed text-capitalize"
-                  type="button"
-                  data-bs-toggle="collapse"
-                  data-bs-target="#flush-collapseEighteen"
-                  aria-expanded="false"
-                  aria-controls="flush-collapseEighteen"
-                >
-                  <div class="container">
-                    <div class="row">
-                      <div class="col-12 col-md-8">
-                        18. Covid vaccines 52 times more fatal than all other
-                        vaccines: (update: video removed/censored) - please
-                        contact me if you have a copy or another link to this
-                        video. It was a deep dive analysis of the VAERS data
-                        comparing vaccine adverse injuries of all vaccines put
-                        together vs the new Covid-19 vaccines<span
-                          class="d-inline d-md-none"
-                        >
-                          📹</span
-                        >
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <span class="post-date"></span>
-                      </div>
-                      <div class="col-12 col-md-2">
-                        <div class="tab-indent"></div>
-                        <em class="post-type text-bold d-none d-md-inline"
-                          >Video</em
-                        >
-                      </div>
+            <h2 class="accordion-header" id="flush-headingEighteen">
+              <button
+                class="accordion-button collapsed text-capitalize"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseEighteen"
+                aria-expanded="false"
+                aria-controls="flush-collapseEighteen"
+              >
+                <div class="container">
+                  <div class="row">
+                    <div class="col-12 col-md-8">
+                      18. Covid vaccines 52 times more fatal than all other
+                      vaccines: (update: video removed/censored) - please
+                      contact me if you have a copy or another link to this
+                      video. It was a deep dive analysis of the VAERS data
+                      comparing vaccine adverse injuries of all vaccines put
+                      together vs the new Covid-19 vaccines<span
+                        class="d-inline d-md-none"
+                      >
+                        📹</span
+                      >
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <span class="post-date"></span>
+                    </div>
+                    <div class="col-12 col-md-2">
+                      <div class="tab-indent"></div>
+                      <em class="post-type text-bold d-none d-md-inline"
+                        >Video</em
+                      >
                     </div>
                   </div>
-                </button>
-              </h2></a
-            >
+                </div>
+              </button>
+            </h2>
             <div
               id="flush-collapseEighteen"
               class="accordion-collapse collapse"
