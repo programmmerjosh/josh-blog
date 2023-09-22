@@ -239,7 +239,6 @@
   }
 
   form {
-    min-width: 25rem;
     max-width: 1000px;
   }
   form .title {
@@ -320,6 +319,10 @@
   }
   /* bigger than small tablet width */
   @media (min-width: 768px) {
+    form {
+      min-width: 25rem;
+      max-width: 1000px;
+    }
     .form-wrapper {
       padding: 0 10rem 5rem 10rem;
     }

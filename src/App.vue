@@ -18,6 +18,13 @@
   <router-view></router-view>
 </template>
 
+<style>
+  section,
+  div {
+    max-width: 100%;
+  }
+</style>
+
 <!-- DONEs -->
 <!-- ------------------------------------------------------ -->
 <!-- Footer Copyright year -< dynamic -->

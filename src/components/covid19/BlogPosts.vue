@@ -41,7 +41,7 @@
         <div class="accordion accordion-flush mb-5" id="accordionFlushExample">
           <!-- item 1 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
+            <a id="special-a-tag" class="" href="#flush-collapseOne">
               <h2 class="accordion-header" id="flush-headingOne">
                 <button
                   class="accordion-button collapsed text-capitalize"
@@ -80,7 +80,7 @@
               id="flush-collapseOne"
               class="accordion-collapse collapse"
               aria-labelledby="flush-headingOne"
-              data-bs-parent="#accordionFlushExample"
+              data-bs-parent="#flush-collapseOne"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
@@ -125,7 +125,7 @@
           </div>
           <!-- item 2 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
+            <a id="special-a-tag" class="" href="#flush-collapseTwo">
               <h2 class="accordion-header" id="flush-headingTwo">
                 <button
                   class="accordion-button collapsed text-capitalize"
@@ -163,7 +163,7 @@
               id="flush-collapseTwo"
               class="accordion-collapse collapse"
               aria-labelledby="flush-headingTwo"
-              data-bs-parent="#accordionFlushExample"
+              data-bs-parent="#flush-collapseTwo"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
@@ -209,7 +209,7 @@
           </div>
           <!-- item 3 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
+            <a id="special-a-tag" class="" href="#flush-collapseThree">
               <h2 class="accordion-header" id="flush-headingThree">
                 <button
                   class="accordion-button collapsed text-capitalize"
@@ -247,7 +247,7 @@
               id="flush-collapseThree"
               class="accordion-collapse collapse"
               aria-labelledby="flush-headingThree"
-              data-bs-parent="#accordionFlushExample"
+              data-bs-parent="#flush-collapseThree"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
@@ -291,7 +291,7 @@
           </div>
           <!-- item 4 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
+            <a id="special-a-tag" class="" href="#flush-collapseFour">
               <h2 class="accordion-header" id="flush-headingFour">
                 <button
                   class="accordion-button collapsed text-capitalize"
@@ -327,7 +327,7 @@
               id="flush-collapseFour"
               class="accordion-collapse collapse"
               aria-labelledby="flush-headingFour"
-              data-bs-parent="#accordionFlushExample"
+              data-bs-parent="#flush-collapseFour"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
@@ -372,7 +372,7 @@
           </div>
           <!-- item 5 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
+            <a id="special-a-tag" class="" href="#flush-collapseFive">
               <h2 class="accordion-header" id="flush-headingFive">
                 <button
                   class="accordion-button collapsed text-capitalize"
@@ -410,7 +410,7 @@
               id="flush-collapseFive"
               class="accordion-collapse collapse"
               aria-labelledby="flush-headingFive"
-              data-bs-parent="#accordionFlushExample"
+              data-bs-parent="#flush-collapseFive"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
@@ -454,7 +454,7 @@
           </div>
           <!-- item 6 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
+            <a id="special-a-tag" class="" href="#flush-collapseSix">
               <h2 class="accordion-header" id="flush-headingSix">
                 <button
                   class="accordion-button collapsed text-capitalize"
@@ -493,7 +493,7 @@
               id="flush-collapseSix"
               class="accordion-collapse collapse"
               aria-labelledby="flush-headingSix"
-              data-bs-parent="#accordionFlushExample"
+              data-bs-parent="#flush-collapseSix"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
@@ -539,7 +539,7 @@
           </div>
           <!-- item 7 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
+            <a id="special-a-tag" class="" href="#flush-collapseSeven">
               <h2 class="accordion-header" id="flush-headingSeven">
                 <button
                   class="accordion-button collapsed text-capitalize"
@@ -578,7 +578,7 @@
               id="flush-collapseSeven"
               class="accordion-collapse collapse"
               aria-labelledby="flush-headingSeven"
-              data-bs-parent="#accordionFlushExample"
+              data-bs-parent="#flush-collapseSeven"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
@@ -619,7 +619,7 @@
           </div>
           <!-- item 8 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
+            <a id="special-a-tag" class="" href="#flush-collapseEight">
               <h2 class="accordion-header" id="flush-headingEight">
                 <button
                   class="accordion-button collapsed text-capitalize"
@@ -654,7 +654,7 @@
               id="flush-collapseEight"
               class="accordion-collapse collapse"
               aria-labelledby="flush-headingEight"
-              data-bs-parent="#accordionFlushExample"
+              data-bs-parent="#flush-collapseEight"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
@@ -784,7 +784,7 @@
           </div>
           <!-- item 9 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
+            <a id="special-a-tag" class="" href="#flush-collapseNine">
               <h2 class="accordion-header" id="flush-headingNine">
                 <button
                   class="accordion-button collapsed text-capitalize"
@@ -822,7 +822,7 @@
               id="flush-collapseNine"
               class="accordion-collapse collapse"
               aria-labelledby="flush-headingNine"
-              data-bs-parent="#accordionFlushExample"
+              data-bs-parent="#flush-collapseNine"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
@@ -871,7 +871,7 @@
           </div>
           <!-- item 10 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
+            <a id="special-a-tag" class="" href="#flush-collapseTen">
               <h2 class="accordion-header" id="flush-headingTen">
                 <button
                   class="accordion-button collapsed text-capitalize"
@@ -906,7 +906,7 @@
               id="flush-collapseTen"
               class="accordion-collapse collapse"
               aria-labelledby="flush-headingTen"
-              data-bs-parent="#accordionFlushExample"
+              data-bs-parent="#flush-collapseTen"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
@@ -951,7 +951,7 @@
           </div>
           <!-- item 11 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
+            <a id="special-a-tag" class="" href="#flush-collapseEleven">
               <h2 class="accordion-header" id="flush-headingEleven">
                 <button
                   class="accordion-button collapsed text-capitalize"
@@ -989,7 +989,7 @@
               id="flush-collapseEleven"
               class="accordion-collapse collapse"
               aria-labelledby="flush-headingEleven"
-              data-bs-parent="#accordionFlushExample"
+              data-bs-parent="#flush-collapseEleven"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
@@ -1114,7 +1114,7 @@
 
           <!-- item 12 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
+            <a id="special-a-tag" class="" href="#flush-collapseTwelve">
               <h2 class="accordion-header" id="flush-headingTwelve">
                 <button
                   class="accordion-button collapsed text-capitalize"
@@ -1152,7 +1152,7 @@
               id="flush-collapseTwelve"
               class="accordion-collapse collapse"
               aria-labelledby="flush-headingTwelve"
-              data-bs-parent="#accordionFlushExample"
+              data-bs-parent="#flush-collapseTwelve"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
@@ -1198,7 +1198,7 @@
 
           <!-- item 13 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
+            <a id="special-a-tag" class="" href="#flush-collapseThirteen">
               <h2 class="accordion-header" id="flush-headingThirteen">
                 <button
                   class="accordion-button collapsed text-capitalize"
@@ -1236,7 +1236,7 @@
               id="flush-collapseThirteen"
               class="accordion-collapse collapse"
               aria-labelledby="flush-headingThirteen"
-              data-bs-parent="#accordionFlushExample"
+              data-bs-parent="#flush-collapseThirteen"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
@@ -1493,7 +1493,7 @@
           </div>
           <!-- item 14 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
+            <a id="special-a-tag" class="" href="#flush-collapseFourteen">
               <h2 class="accordion-header" id="flush-headingFourteen">
                 <button
                   class="accordion-button collapsed text-capitalize"
@@ -1528,7 +1528,7 @@
               id="flush-collapseFourteen"
               class="accordion-collapse collapse"
               aria-labelledby="flush-headingFourteen"
-              data-bs-parent="#accordionFlushExample"
+              data-bs-parent="#flush-collapseFourteen"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
@@ -1615,7 +1615,7 @@
           </div>
           <!-- item 15 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
+            <a id="special-a-tag" class="" href="#flush-collapseFifteen">
               <h2 class="accordion-header" id="flush-headingFifteen">
                 <button
                   class="accordion-button collapsed text-capitalize"
@@ -1652,7 +1652,7 @@
               id="flush-collapseFifteen"
               class="accordion-collapse collapse"
               aria-labelledby="flush-headingFifteen"
-              data-bs-parent="#accordionFlushExample"
+              data-bs-parent="#flush-collapseFifteen"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
@@ -1695,7 +1695,7 @@
           </div>
           <!-- item 16 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
+            <a id="special-a-tag" class="" href="#flush-collapseSixteen">
               <h2 class="accordion-header" id="flush-headingSixteen">
                 <button
                   class="accordion-button collapsed text-capitalize"
@@ -1731,7 +1731,7 @@
               id="flush-collapseSixteen"
               class="accordion-collapse collapse"
               aria-labelledby="flush-headingSixteen"
-              data-bs-parent="#accordionFlushExample"
+              data-bs-parent="#flush-collapseSixteen"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
@@ -1774,7 +1774,7 @@
           </div>
           <!-- item 17 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
+            <a id="special-a-tag" class="" href="#flush-collapseSeventeen">
               <h2 class="accordion-header" id="flush-headingSeventeen">
                 <button
                   class="accordion-button collapsed text-capitalize"
@@ -1809,7 +1809,7 @@
               id="flush-collapseSeventeen"
               class="accordion-collapse collapse"
               aria-labelledby="flush-headingSeventeen"
-              data-bs-parent="#accordionFlushExample"
+              data-bs-parent="#flush-collapseSeventeen"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
@@ -1855,7 +1855,7 @@
           </div>
           <!-- item 18 -->
           <div class="accordion-item">
-            <a id="special-a-tag" class="" href="#accordionFlushExample">
+            <a id="special-a-tag" class="" href="#flush-collapseEighteen">
               <h2 class="accordion-header" id="flush-headingEighteen">
                 <button
                   class="accordion-button collapsed text-capitalize"
@@ -1898,7 +1898,7 @@
               id="flush-collapseEighteen"
               class="accordion-collapse collapse"
               aria-labelledby="flush-headingEighteen"
-              data-bs-parent="#accordionFlushExample"
+              data-bs-parent="#flush-collapseEighteen"
             >
               <div class="accordion-body pl-3 pr-3">
                 <div class="row">
