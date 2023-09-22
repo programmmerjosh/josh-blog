@@ -16,8 +16,8 @@
 1. Copy the above mentioned files (9) into `/dist/assets`
 2. Open `dist` directory in vs-code
 3. Search and replace the following:
-   - Search (5): url("../img/
-   - Replace: url("/assets/
+   - Search (5): url(./img/
+   - Replace: url(/assets/
    ***
    - Search (1): href:"./src/assets/motivation.min.css
    - Replace: href:"/assets/motivation.min.css
