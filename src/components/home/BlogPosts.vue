@@ -153,7 +153,7 @@
                 </p>
               </div>
 
-              <div class="col-12 offset-0 col-sm-10 offset-sm-1">
+              <div class="col-12 offset-0 col-md-10 offset-md-1">
                 <!-- edit tab placement of post here -->
 
                 <div id="resources-textbox" class="rounded-white-text-box">
@@ -1759,3 +1759,9 @@
     </div>
   </section>
 </template>
+
+<style scoped>
+  .accordion-body .row {
+    margin: 0;
+  }
+</style>

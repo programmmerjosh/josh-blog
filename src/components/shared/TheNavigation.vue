@@ -90,7 +90,7 @@
         navBrand.classList.toggle("text-dark", scrollPosition > changeValue);
 
         navLinks.forEach((tag) => {
-          tag.classList.toggle("text-dark", scrollPosition > changeValue);
+          tag.classList.toggle("text-primary", scrollPosition > changeValue);
         });
       },
     },
@@ -101,6 +101,9 @@
 </script>
 
 <style scoped>
+  .text-primary {
+    color: #343a40 !important;
+  }
   @media (min-width: 992px) {
     .reduced-height-navbar {
       height: 78px;
@@ -109,6 +112,9 @@
   @media (max-width: 992px) {
     .nav-link {
       color: #64a19d;
+    }
+    .text-primary {
+      color: #64a19d !important;
     }
   }
 </style>
