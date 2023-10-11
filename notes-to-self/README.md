@@ -14,15 +14,16 @@
 
 ### Steps to follow the `npm run build`
 
-1. Copy the above mentioned files (10) into `/dist/assets`
-2. Open `dist` directory in vs-code
-3. Search and replace the following:
+1. Copy the above mentioned files in points 1-3 (there are 7 files) into `/dist/assets`
+2. `manifest.appcache`, `robots.txt`, `sitemap.xml` don't need to be copied over unless they are removed/replaced in your file manager c-panel `public_html`. If they are replaced, these files can be added to the `public_html` directory afterwards.
+3. Open `dist` directory in vs-code
+4. Search and replace the following:
    - Search (5): url(./img/
    - Replace: url(/assets/
    ***
    - Search (1): href:"./src/assets/motivation.min.css
    - Replace: href:"/assets/motivation.min.css
-4. Add an .htaccess file to the `dist` directory
+5. You won't need to add this file if you don't remove it from the `public_html` directory. Otherwise, if you have accidentally removed it, you can create a .htaccess file from the c-panel file manager. 
    - This is important for any/all routes. Otherwise any routes will be redirected to http(s)://localhost:PORT_NUMBER/ROUTE_NAME. We obviously don't want this in production
    - The file should contain the following:
 
