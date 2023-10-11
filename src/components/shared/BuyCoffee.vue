@@ -27,15 +27,14 @@
 </script>
 
 <style scoped>
-  section {
-    padding: 6rem 2rem;
-  }
-  h1 {
-    font-size: 5rem;
-    margin-bottom: 4rem;
-  }
-  h2 {
-    font-size: 2rem;
+  @font-face {
+    font-family: "CMSansSerif";
+    font-weight: 400;
+    font-style: normal;
+    font-display: auto;
+    unicode-range: U+000-5FF;
+    src: local("CMSansSerif"),
+      url("../../assets/Fonts/cm sans serif 2012.ttf") format("ttf");
   }
   .icon-wrapper {
     display: flex;
@@ -52,13 +51,53 @@
     font-family: "CMSansSerif";
   }
 
-  @font-face {
-    font-family: "CMSansSerif";
-    font-weight: 400;
-    font-style: normal;
-    font-display: auto;
-    unicode-range: U+000-5FF;
-    src: local("CMSansSerif"),
-      url("../../assets/Fonts/cm sans serif 2012.ttf") format("ttf");
+  section {
+    padding: 4rem 2rem;
+  }
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 4rem;
+  }
+  h2 {
+    font-size: 1.2rem;
+  }
+
+  /* bigger than mobile width */
+  @media (min-width: 576px) {
+    section {
+      padding: 5rem 3rem;
+    }
+    h1 {
+      font-size: 3.2rem;
+    }
+    h2 {
+      font-size: 1.6rem;
+    }
+  }
+
+  /* bigger than small tablet width */
+  @media (min-width: 768px) {
+    section {
+      padding: 5.5rem 4rem;
+    }
+    h1 {
+      font-size: 5rem;
+    }
+    h2 {
+      font-size: 2rem;
+    }
+  }
+
+  /* bigger than small laptop width */
+  @media (min-width: 992px) {
+    section {
+      padding: 6rem 4.5rem;
+    }
+    h1 {
+      font-size: 6rem;
+    }
+    h2 {
+      font-size: 2.2rem;
+    }
   }
 </style>
