@@ -1,19 +1,20 @@
 ### Files that don't get added to the `dist` directory with the `npm run build` command:
 
 1. `motivation.min.css`
-2. The images referenced in `motivation.min.css`:
+2. `Buy-Me-a-Coffee.svg`
+3. The images referenced in `motivation.min.css`:
    - `chess-3894243-min.jpg`
    - `mental-health-3337026_1920.jpg`
    - `skateboard-5326930_1920.jpg`
    - `sky-1373167_1920.jpg`
    - `virus-4999857.png`
-3. `manifest.appcache`
-4. `robots.txt`
-5. `sitemap.xml`
+4. `manifest.appcache`
+5. `robots.txt`
+6. `sitemap.xml`
 
 ### Steps to follow the `npm run build`
 
-1. Copy the above mentioned files (9) into `/dist/assets`
+1. Copy the above mentioned files (10) into `/dist/assets`
 2. Open `dist` directory in vs-code
 3. Search and replace the following:
    - Search (5): url(./img/
