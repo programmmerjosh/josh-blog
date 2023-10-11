@@ -53,6 +53,11 @@
               >Covid-19</router-link
             >
           </li>
+          <li v-if="showBuyMeACoffee" class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#buy-me-a-coffee"
+              >Support</a
+            >
+          </li>
         </ul>
       </div>
     </div>
@@ -66,6 +71,7 @@
       showSubscribe: { type: Boolean, default: true },
       showAbout: { type: Boolean, default: true },
       showCovid19: { type: Boolean, default: true },
+      showBuyMeACoffee: { type: Boolean, default: false },
     },
     data() {
       return {

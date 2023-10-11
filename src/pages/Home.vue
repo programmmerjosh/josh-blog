@@ -7,14 +7,16 @@
   import TheHeader from "../components/home/TheHeader.vue";
   import PageInformation from "../components/home/PageInformation.vue";
   import BlogPosts from "../components/home/BlogPosts.vue";
+  import BuyCoffee from "../components/shared/BuyCoffee.vue";
 </script>
 
 <template>
   <ContactButton />
-  <TheNavigation />
+  <TheNavigation :show-buy-me-a-coffee="true" />
   <TheHeader />
   <PageInformation />
   <BlogPosts />
+  <BuyCoffee />
   <SignupArea />
   <ContactForm />
   <TheFooter />
