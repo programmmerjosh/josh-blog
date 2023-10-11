@@ -42,6 +42,11 @@
 
 1. Zip the entire `dist` directory
 2. Login to the web host and navigate to the File Manager
+      - Currently Hostinger.
+      - Once logged in, navigate to Pro Panel
+      - Then you should see a card widget labeled think-write-grow.com
+      - On the far right, click on the 3 dots button
+      - Click on File Manager
 3. Open up the `public_html` directory
 4. Upload the zipped `dist` directory
 5. Extract all the files directly into `public_html`
