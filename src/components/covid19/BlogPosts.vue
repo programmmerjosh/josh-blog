@@ -1643,7 +1643,7 @@
                     <div class="text-center p-2">
                       <a
                         target="_blank"
-                        href="https://www.youtube.com/watch?v=LmzeYYWntxw"
+                        href="https://youtu.be/JaF-fq2Zn7I?si=UyCmhbbRwGbbRJfs"
                       >
                         <button class="btn btn-primary">Link To Video</button>
                       </a>
