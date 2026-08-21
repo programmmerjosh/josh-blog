@@ -1,54 +1,200 @@
-### Files that don't get added to the `dist` directory with the `npm run build` command:
+# Josh Blog - Cloudflare Pages Deployment Notes
 
-1. `motivation.min.css`
-2. `Buy-Me-a-Coffee.svg`
-3. The images referenced in `motivation.min.css`:
-   - `chess-3894243-min.jpg`
-   - `mental-health-3337026_1920.jpg`
-   - `skateboard-5326930_1920.jpg`
-   - `sky-1373167_1920.jpg`
-   - `virus-4999857.png`
-4. `manifest.appcache`
-5. `robots.txt`
-6. `sitemap.xml`
+## Current Deployment Workflow
 
-### Steps to follow the `npm run build`
+The website is now deployed automatically through Cloudflare Pages.
 
-1. Copy the above mentioned files in points 1-3 (there are 7 files) into `/dist/assets`
-2. `manifest.appcache`, `robots.txt`, `sitemap.xml` don't need to be copied over unless they are removed/replaced in your file manager c-panel `public_html`. If they are replaced, these files can be added to the `public_html` directory afterwards.
-3. Open `dist` directory in vs-code
-4. Search and replace the following:
-   - Search (5): url(./img/
-   - Replace: url(/assets/
-   ***
-   - Search (1): href:"./src/assets/motivation.min.css
-   - Replace: href:"/assets/motivation.min.css
-5. You won't need to add this file if you don't remove it from the `public_html` directory. Otherwise, if you have accidentally removed it, you can create a .htaccess file from the c-panel file manager. 
-   - This is important for any/all routes. Otherwise any routes will be redirected to http(s)://localhost:PORT_NUMBER/ROUTE_NAME. We obviously don't want this in production
-   - The file should contain the following:
+Workflow:
 
-```
-<ifModule mod_rewrite.c>
-    RewriteEngine On
-  RewriteBase /
-  RewriteRule ^index\.html$ - [L]
-  RewriteCond %{REQUEST_FILENAME} !-f
-  RewriteCond %{REQUEST_FILENAME} !-d
-  RewriteRule . /index.html [L]
-</ifModule>
+    GitHub repository
+    (programmerjosh/josh-blog)
+            |
+            | push to master branch
+            ↓
+    Cloudflare Pages
+            |
+            | npm install
+            | npm run build
+            ↓
+    dist/
+            |
+            ↓
+    Live website
+    https://think-write-grow.com
+
+## Production Branch
+
+Cloudflare Pages watches:
+
+    master
+
+A normal update:
+
+``` bash
+git add .
+git commit -m "update website"
+git push origin master
 ```
 
-### Now we send the `dist` directory and its contents to File Manager on our web host's cPanel so that our site can be LIVE
+will automatically trigger a deployment.
 
-1. Zip the entire `dist` directory
-2. Login to the web host and navigate to the File Manager
-      - Currently Hostinger.
-      - Once logged in, navigate to Pro Panel
-      - Then you should see a card widget labeled think-write-grow.com
-      - On the far right, click on the 3 dots button
-      - Click on File Manager
-3. Open up the `public_html` directory
-4. Upload the zipped `dist` directory
-5. Extract all the files directly into `public_html`
-6. DONE!
-7. Test the website's live address
+------------------------------------------------------------------------
+
+# Cloudflare Pages Configuration
+
+Framework preset:
+
+    React (Vite)
+
+(Note: this is just Cloudflare's preset label. The project itself is
+Vue + Vite.)
+
+Build command:
+
+    npm run build
+
+Output directory:
+
+    dist
+
+Production branch:
+
+    master
+
+------------------------------------------------------------------------
+
+# Important Asset Handling
+
+Previously, files had to be manually copied into `dist`.
+
+This is no longer required.
+
+Vite handles assets during the build process.
+
+Local files inside:
+
+    src/assets
+
+should be imported through JavaScript.
+
+Example:
+
+``` js
+import "./assets/motivation.min.css";
+```
+
+Do not reference:
+
+``` js
+href: "./src/assets/motivation.min.css"
+```
+
+from `head.js`.
+
+------------------------------------------------------------------------
+
+# File Responsibilities
+
+## src/main.js
+
+Handles:
+
+-   Vue application startup
+-   global imports
+-   global CSS imports
+
+------------------------------------------------------------------------
+
+## src/head.js
+
+Handles:
+
+-   page titles
+-   meta tags
+-   external stylesheets/scripts
+
+Do not use it for local Vite assets.
+
+------------------------------------------------------------------------
+
+## public/
+
+Static files that should be copied unchanged belong here.
+
+Example:
+
+    public/
+     ├── robots.txt
+     ├── sitemap.xml
+     └── manifest.appcache
+
+Vite automatically copies these into `dist/`.
+
+------------------------------------------------------------------------
+
+# Troubleshooting
+
+## Missing styling after deployment
+
+Check:
+
+1.  CSS is imported correctly in `main.js`
+2.  Cloudflare deployment completed successfully
+3.  Browser cache is cleared
+
+------------------------------------------------------------------------
+
+## MIME type errors
+
+Example:
+
+    Expected a JavaScript-or-Wasm module script
+    but the server responded with MIME type text/css
+
+Usually means a CSS file has been referenced incorrectly as JavaScript.
+
+------------------------------------------------------------------------
+
+# Local Commands
+
+Install:
+
+``` bash
+npm install
+```
+
+Development:
+
+``` bash
+npm run dev
+```
+
+Production build test:
+
+``` bash
+npm run build
+```
+
+Preview build:
+
+``` bash
+npm run preview
+```
+
+------------------------------------------------------------------------
+
+# Previous Deployment Method (Historical)
+
+Before Cloudflare Pages:
+
+    npm run build
+    ↓
+    manually edit dist
+    ↓
+    zip dist
+    ↓
+    upload through Hostinger File Manager
+
+This workflow is retired.
+
+Cloudflare Pages now handles deployment automatically.
