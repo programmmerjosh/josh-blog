@@ -1,8 +1,12 @@
 <template>
   <div class="fixed-floating-buttons ffb-one">
-    <a class="rectangle-link-box" href="#contact" aria-label="Contact Joshua">
-      <i class="far fa-paper-plane" aria-hidden="true"></i>
-      <span>Contact</span>
+    <a className="rectangle-link-box" href="#contact">
+      <div className="row">
+        <div className="text-center">
+          <i className="far fa-paper-plane rectangle-link-box-img mb-2"></i>
+          <p className="text-uppercase">contact</p>
+        </div>
+      </div>
     </a>
   </div>
 </template>

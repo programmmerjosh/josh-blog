@@ -1,6 +1,9 @@
 <template>
   <!-- Masthead-->
-  <header id="covid-19" class="masthead covid-masthead">
+  <header
+    id="covid-19"
+    class="masthead d-flex align-items-center justify-content-center"
+  >
     <!-- this image is hidden but added here to show on facebook posts when link is shared -->
     <img
       src="../../../src/assets/img/Screenshot-2022-01-22-at-13-58-08-min.png"
@@ -8,31 +11,30 @@
       alt=""
     />
 
-    <div class="masthead__content masthead__content--wide">
-      <p class="eyebrow">Research archive · Covid-19</p>
+    <div class="col-10">
       <h1
         id="grand-title"
-        class=""
+        class="p-0 p-sm-5 text-center text-uppercase text-white mt-5 mt-sm-0"
       >
         This particular page consists of videos and articles created and/or
         composed by others. These videos and articles are related to the
         <strong class="text-underline">Covid-19</strong> virus.
       </h1>
 
-      <h2 class="masthead__statement">
+      <h2 id="grand-title" class="text-white text-center mb-3">
         It is important that we
         <strong class="text-uppercase">do not</strong> dismiss potentially
         important information and/or label it as misinformation on the basis of
         it being contrary to our own beliefs/understandings or the general
         consensus.
       </h2>
-      <h2 class="masthead__statement">
+      <h2 id="grand-title" class="text-white text-center mb-3">
         We have a <strong class="text-uppercase">responsibility</strong> to
         question, test and scrutinize our closely held understanding of things,
         particularly serious and non-trivial things.
       </h2>
 
-      <small id="covid-page-disclaimer">
+      <small id="covid-page-disclaimer" class="text-white text-center">
         <strong class="text-uppercase">disclaimer:</strong> While much of this
         information contained in these videos and articles are evidence based
         and even scientifically demonstrated (and documented);

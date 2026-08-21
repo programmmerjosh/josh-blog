@@ -2,13 +2,10 @@
   <!-- Signup-->
   <section class="signup-section" id="signup">
     <div class="container">
-      <div class="signup-section__panel">
-        <div class="signup-section__copy">
-          <p class="eyebrow">Stay informed</p>
-          <h2>Subscribe to receive updates!</h2>
-          <p>New research, essays and carefully considered resources—delivered occasionally.</p>
-        </div>
-        <div class="signup-section__form">
+      <div class="row">
+        <div class="col-md-10 col-lg-8 mx-auto text-center">
+          <i class="far fa-paper-plane fa-2x mb-2 text-white"></i>
+          <h2 class="text-white mb-5">Subscribe to receive updates!</h2>
           <form
             class="form-inline d-flex"
             action="https://github.us1.list-manage.com/subscribe/post?u=65e90c39c5494a5c0a186ce19&amp;id=1653997929"
@@ -20,9 +17,7 @@
               id="inputEmail"
               name="EMAIL"
               type="email"
-              placeholder="Enter email address"
-              aria-label="Email address"
-              required
+              placeholder="Enter email address..."
             />
 
             <div id="mce-responses" class="clear">

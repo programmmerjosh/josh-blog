@@ -1,7 +1,6 @@
 import { createApp } from "vue";
 import { createHead } from "@vueuse/head";
 import "./assets/motivation.min.css";
-import "./assets/editorial.css";
 
 import App from "./App.vue";
 import Routes from "./routes";

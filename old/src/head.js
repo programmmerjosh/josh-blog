@@ -1,16 +1,3 @@
-const socialImage = "https://think-write-grow.com/og.png";
-
-const socialMeta = (title, description) => [
-  { property: "og:type", content: "website" },
-  { property: "og:title", content: title },
-  { property: "og:description", content: description },
-  { property: "og:image", content: socialImage },
-  { name: "twitter:card", content: "summary_large_image" },
-  { name: "twitter:title", content: title },
-  { name: "twitter:description", content: description },
-  { name: "twitter:image", content: socialImage },
-];
-
 export default {
   titles: {
     home: "Truth & Critical Thinking",
@@ -36,10 +23,6 @@ export default {
         name: "author",
         content: "Joshua van Niekerk",
       },
-      ...socialMeta(
-        "Truth & Critical Thinking",
-        "Independent notes, research and carefully scrutinized conclusions from Joshua van Niekerk."
-      ),
     ],
     covid19: [
       {
@@ -58,10 +41,6 @@ export default {
         name: "author",
         content: "Joshua van Niekerk",
       },
-      ...socialMeta(
-        "Real Doctors Expose Covid-19 Narrative",
-        "A research archive of videos and articles related to Covid-19, presented for careful scrutiny."
-      ),
     ],
     thanks: [
       {
@@ -79,7 +58,6 @@ export default {
         name: "author",
         content: "Joshua van Niekerk",
       },
-      ...socialMeta("Thank You", "Thank you for getting in touch."),
     ],
     about: [
       {
@@ -98,15 +76,15 @@ export default {
         name: "author",
         content: "Joshua van Niekerk",
       },
-      ...socialMeta(
-        "About",
-        "About Write, Because It Forces You To Think and its approach to ideas, experience and inquiry."
-      ),
     ],
   },
   link: [
     {
-      href: "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap",
+      href: "https://fonts.googleapis.com/css?family=Varela+Round",
+      rel: "stylesheet",
+    },
+    {
+      href: "https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i",
       rel: "stylesheet",
     },
     {

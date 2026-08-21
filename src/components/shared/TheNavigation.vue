@@ -1,60 +1,58 @@
 <template>
-  <nav :class="navbarClasses" id="mainNav">
-    <div class="container">
+  <nav :class="['site-nav', { 'site-nav--scrolled': isScrolled }]" id="mainNav">
+    <div class="site-nav__inner">
       <router-link
         v-if="navigateOut"
-        class="navbar-brand js-scroll-trigger text-wrap"
+        class="site-brand"
         to="/#page-top"
-        >Write, Because It Forces You To
-        <span class="text-underline">Think</span></router-link
+        ><span class="site-brand__mark" aria-hidden="true">🧠</span><span class="site-brand__copy">Write, Because It Forces You To <em>Think</em></span></router-link
       >
       <a
         v-else
-        class="navbar-brand js-scroll-trigger text-wrap"
+        class="site-brand"
         href="#page-top"
-        >Write, Because It Forces You To
-        <span class="text-underline">Think</span></a
+        ><span class="site-brand__mark" aria-hidden="true">🧠</span><span class="site-brand__copy">Write, Because It Forces You To <em>Think</em></span></a
       >
       <button
-        class="navbar-toggler navbar-toggler-right"
+        class="site-nav__toggle"
         type="button"
-        data-bs-toggle="collapse"
-        data-bs-target="#navbarNavDarkDropdown"
-        aria-controls="navbarNavDarkDropdown"
-        aria-expanded="false"
+        :aria-expanded="menuOpen"
+        aria-controls="site-navigation-links"
         aria-label="Toggle navigation"
+        @click="menuOpen = !menuOpen"
       >
-        Menu
-        <i class="fas fa-bars"></i>
+        <span>{{ menuOpen ? "Close" : "Menu" }}</span>
+        <span class="site-nav__toggle-lines" aria-hidden="true"></span>
       </button>
-      <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
-        <ul class="navbar-nav ml-auto">
+      <div :class="['site-nav__links', { 'is-open': menuOpen }]" id="site-navigation-links">
+        <ul>
           <li class="nav-item">
             <router-link
               v-if="navigateOut"
-              class="nav-link js-scroll-trigger"
+              class="nav-link"
               to="/"
+              @click="menuOpen = false"
               >Home</router-link
             >
-            <a v-else class="nav-link js-scroll-trigger" href="#blog-section"
+            <a v-else class="nav-link" href="#blog-section" @click="menuOpen = false"
               >Home</a
             >
           </li>
           <li v-if="showAbout" class="nav-item">
-            <router-link class="nav-link js-scroll-trigger" to="/about"
+            <router-link class="nav-link" to="/about" @click="menuOpen = false"
               >About</router-link
             >
           </li>
           <li v-if="showSubscribe" class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#signup">Subscribe</a>
+            <a class="nav-link" href="#signup" @click="menuOpen = false">Subscribe</a>
           </li>
           <li v-if="showCovid19" class="nav-item">
-            <router-link class="nav-link js-scroll-trigger" to="/covid19"
+            <router-link class="nav-link" to="/covid19" @click="menuOpen = false"
               >Covid-19</router-link
             >
           </li>
           <li v-if="showBuyMeACoffee" class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#buy-me-a-coffee"
+            <a class="nav-link nav-link--accent" href="#buy-me-a-coffee" @click="menuOpen = false"
               >Support</a
             >
           </li>
@@ -75,52 +73,22 @@
     },
     data() {
       return {
-        navbarClasses: "navbar navbar-expand-lg fixed-top",
+        menuOpen: false,
+        isScrolled: false,
       };
     },
     methods: {
       // toggle classes on scroll
       updateScroll() {
-        let scrollPosition = window.scrollY;
-        const changeValue = 150;
-
-        const navbar = document.querySelector("#mainNav");
-        const navLinks = document.querySelectorAll(".nav-link");
-        const navBrand = document.querySelector(".navbar-brand");
-
-        navbar.classList.toggle("bg-light", scrollPosition > changeValue);
-        navbar.classList.toggle(
-          "reduced-height-navbar",
-          scrollPosition > changeValue
-        );
-        navBrand.classList.toggle("text-dark", scrollPosition > changeValue);
-
-        navLinks.forEach((tag) => {
-          tag.classList.toggle("text-primary", scrollPosition > changeValue);
-        });
+        this.isScrolled = window.scrollY > 28;
       },
     },
     mounted() {
       window.addEventListener("scroll", this.updateScroll);
+      this.updateScroll();
+    },
+    beforeUnmount() {
+      window.removeEventListener("scroll", this.updateScroll);
     },
   };
 </script>
-
-<style scoped>
-  .text-primary {
-    color: #343a40 !important;
-  }
-  @media (min-width: 992px) {
-    .reduced-height-navbar {
-      height: 78px;
-    }
-  }
-  @media (max-width: 992px) {
-    .nav-link {
-      color: #64a19d;
-    }
-    .text-primary {
-      color: #64a19d !important;
-    }
-  }
-</style>

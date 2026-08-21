@@ -1,17 +1,16 @@
 <template>
-  <section class="info-section about-section">
-    <div class="container">
+  <section className="info-section d-flex align-items-center">
+    <div className="container">
       <div
-        class="info-section__grid"
+        className="row py-5 text-white d-flex align-items-center justify-content-center"
       >
-        <div class="info-section__heading">
-          <p class="eyebrow">The thinking behind this journal</p>
-          <h1 id="info-section-title" class="text-capitalize about-page">
+        <div className="col-12 col-md-9 mb-5 px-5 px-md-0">
+          <h1 id="info-section-title" className="text-capitalize about-page">
             About
           </h1>
         </div>
 
-        <div class="info-section__copy">
+        <div className="order-2 order-md-1 col-12 col-md-8 px-5 px-md-0">
           <h2 id="info-section-description">
             <p>
               “Write, because it forces you to think,” is something I heard from
@@ -48,8 +47,8 @@
               in the value of this content.
             </p>
             <p>Enjoy.</p>
-            <p class="small-text fst-italic">
-              <strong class="text-uppercase">side note: </strong>Please drop
+            <p className="small-text fst-italic">
+              <strong className="text-uppercase">side note: </strong>Please drop
               me a message to let me know if any video references/links have
               expired or been removed by YouTube. This will help me to find
               relevant alternatives or alternative sources when necessary. Much
@@ -60,12 +59,12 @@
 
         <div
           id="info-section-avatar"
-          class="info-section__portrait"
+          className="order-1 order-md-2 col-sm-4 col-6 mb-5 mb-md-0"
         >
           <img
-            class=""
+            className=""
             src="../../assets/img/man-1351317_1280.png"
-            alt="Illustrated portrait of a person in thought"
+            alt=""
           />
         </div>
       </div>
