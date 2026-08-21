@@ -1451,3 +1451,65 @@ p {
     left: 1.2rem;
   }
 }
+
+/* Navbar contrast guard: overrides legacy Bootstrap theme rules at every scroll state. */
+#mainNav.site-nav,
+#mainNav.site-nav.site-nav--scrolled {
+  background-color: rgba(255, 255, 255, 0.97) !important;
+  color: var(--ink) !important;
+}
+
+#mainNav.site-nav.site-nav--scrolled {
+  border-bottom-color: var(--line) !important;
+  box-shadow: 0 4px 20px rgba(20, 43, 88, 0.08) !important;
+}
+
+#mainNav.site-nav .site-brand,
+#mainNav.site-nav .site-brand:hover,
+#mainNav.site-nav .site-brand:focus,
+#mainNav.site-nav .nav-link,
+#mainNav.site-nav .nav-link:hover,
+#mainNav.site-nav .nav-link:focus,
+#mainNav.site-nav .nav-link:active {
+  color: var(--ink) !important;
+}
+
+#mainNav.site-nav .nav-link {
+  padding: 0.6rem 0 !important;
+}
+
+#mainNav.site-nav .nav-link--accent,
+#mainNav.site-nav .nav-link--accent:hover,
+#mainNav.site-nav .nav-link--accent:focus,
+#mainNav.site-nav .nav-link--accent:active {
+  padding: 0.65rem 0.9rem !important;
+  background-color: var(--ink) !important;
+  color: var(--white) !important;
+}
+
+#mainNav.site-nav .site-nav__toggle {
+  color: var(--ink) !important;
+}
+
+#mainNav.site-nav .site-nav__links {
+  color: var(--ink) !important;
+}
+
+@media (max-width: 680px) {
+  .home-masthead {
+    min-height: 43rem;
+    padding: 7.5rem 1rem 4.5rem;
+    align-items: center;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .home-masthead::before {
+    inset: 0;
+  }
+
+  .home-masthead .masthead__content {
+    width: min(100%, 34rem);
+    padding-right: 0;
+  }
+}
